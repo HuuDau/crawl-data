@@ -1,30 +1,19 @@
 
-
-
-
-const puppeteer = require('puppeteer-extra');
-const StealthPlugin = require('puppeteer-extra-plugin-stealth');
-puppeteer.use(StealthPlugin());
+const puppeteer = require('puppeteer-core');
+const connectionURL = 'wss://browser.zenrows.com?apikey=8e269370f87a92768df84aaa7e0b17a2c017c207';
 const fs = require('fs');
 const dayjs = require('dayjs');
 
 const crawData = async () => {
   try {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.connect({ browserWSEndpoint: connectionURL });
     const page = await browser.newPage();
     
     await page.goto('https://itviec.com/dang-nhap-tai-khoan');
 
-    const userInput = await page.$('.form-control.is-valid:nth-of-type(1)');
-    if (userInput) {
-      await userInput.type('nguyendauhalf3@gmail.com');
-    }
-    
-    const passwordInput = await page.$('.form-control.is-valid:nth-of-type(2)');
-    if (passwordInput) {
-      await passwordInput.type('Nhd1503993@fpt');
-    }
-    await page.click('.ibtn.ibtn-md.ibtn-primary.w-100');
+    await page.type('#user_email', 'nguyendauhalf3@gmail.com');
+    await page.type('#user_password', 'Nhd1503993@fpt');
+    await page.click('button.ibtn.ibtn-md.ibtn-primary.w-100');
     await page.waitForNavigation();
     // form-control is-valid
     await page.goto('https://itviec.com/viec-lam-it/chuyen-gia-lap-trinh');
@@ -149,9 +138,6 @@ crawData();
 
 
 
-
-
-
 const createFolder = () => {
 
   const folderPath = './15_linh_vuc';
@@ -170,12 +156,10 @@ const createFolder = () => {
 
     const fileList = files.filter(file => fs.statSync(path.join(folderPath, file)).isFile());
 
-    // Tạo thư mục với tên tương ứng với các tệp
     fileList.forEach(file => {
       const newFolderName = path.basename(file, path.extname(file));
       const newFolderPath = path.join(folderPath, newFolderName);
 
-      // Tạo thư mục
       fs.mkdir(newFolderPath, { recursive: true }, (err) => {
         if (err) {
           console.error(`Error create folder ${newFolderName}:`, err);
