@@ -82,7 +82,7 @@ const crawData = async (payload) => {
     const page = await browser.newPage();
     
     await page.goto('https://itviec.com/dang-nhap-tai-khoan');
-    await page.type('#user_email', 'dau2k93@gmail.com');
+    await page.type('#user_email', 'nguyendauhalf3@gmail.com');
     await page.type('#user_password', 'Nhd1503993@fpt');
     await page.click('button.ibtn.ibtn-md.ibtn-primary.w-100');
     await page.waitForNavigation();
@@ -137,19 +137,18 @@ const crawData = async (payload) => {
           return div.length > 1 ? Array.from(div[1].querySelectorAll('*')).map(child => child.innerText) : [];
         };
   
-  
+        
         const urlCompany = () => {
           const div = document.querySelector('.ips-md-3 a');
           return div ? div.href : '';
         };
   
         const infor = infors()
-       
         
         return {
           title: document.querySelector('h1')?.innerText,
           company: document.querySelector('.employer-name')?.innerText,
-          salary_range: document.querySelectorAll('span.ips-2')[6]?.innerText,
+          salary_range: salary_range(),
           timeWork: document.querySelectorAll('.col.text-end.text-it-black')[4]?.innerText,
           timeOt: document.querySelectorAll('.col.text-end.text-it-black')[5]?.innerText,
           nation: document.querySelectorAll('.col.text-end.text-it-black')[3]?.innerText,
@@ -167,7 +166,7 @@ const crawData = async (payload) => {
           skills:skillsList()
         };
 
-         
+
       }, link, dayjs().format('DD/MM/YYYY'));
     };
 
