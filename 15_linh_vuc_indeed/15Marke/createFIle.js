@@ -30,6 +30,7 @@ const fss = require('fs');
 const dayjs = require('dayjs');
 const arr = require('./15Marke.json')
 
+
 const crawData = async (payload) => {
   try {
     const browser = await puppeteer.launch();

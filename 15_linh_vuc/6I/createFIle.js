@@ -60,7 +60,7 @@ const crawData = async (payload) => {
     const page = await browser.newPage();
     
     await page.goto('https://itviec.com/dang-nhap-tai-khoan');
-    await page.type('#user_email', 'dau2k93@gmail.com');
+    await page.type('#user_email', 'waxovi4437@regishub.com');
     await page.type('#user_password', 'Nhd1503993@fpt');
     await page.click('button.ibtn.ibtn-md.ibtn-primary.w-100');
     await page.waitForNavigation();
