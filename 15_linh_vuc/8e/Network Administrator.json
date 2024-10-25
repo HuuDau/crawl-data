@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "title": "Network Administrator ( Linux/ System Engineer )",
+    "company": "MB Bank",
+    "salary_range": "Đăng nhập để xem mức lương",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Sản phẩm",
+    "company_size": "1000+ nhân viên",
+    "linh_vuc": "Chưa có",
+    "createdAt": " Đăng 2 giờ trước",
+    "description": [
+      "Mô tả công việc",
+      "Triển khai, quản trị, giám sát, vận hành hệ thống mạng bao gồm hệ thống mạng tại Trung tâm dữ liệu và các chi nhánh bao gồm các thành phần như: CORE/ LAN/ WAN/ DMZ/ Internet/…trên nền tảng Cisco/ Cisco ACI\nTriển khai, vận hành, giám sát hệ thống mạng kết nối đến đối tác ngân hàng và tổ chức tài chính trong và ngoài nước nhu Internet/ P2P/ MPLS/….\nXây dựng các tài liệu, hướng dẫn, quy trình đảm bảo hoạt đồng an toàn hệ thống dựa trên các tiêu chuẩn như ISO27001, PCI DSS, NIST …\nGiám sát, phân tích và giải quyết các sự cố về hạ tầng mạng/ bảo mật/ ứng dụng liên quan\n\n ",
+      "Triển khai, quản trị, giám sát, vận hành hệ thống mạng bao gồm hệ thống mạng tại Trung tâm dữ liệu và các chi nhánh bao gồm các thành phần như: CORE/ LAN/ WAN/ DMZ/ Internet/…trên nền tảng Cisco/ Cisco ACI",
+      "Triển khai, vận hành, giám sát hệ thống mạng kết nối đến đối tác ngân hàng và tổ chức tài chính trong và ngoài nước nhu Internet/ P2P/ MPLS/….",
+      "Xây dựng các tài liệu, hướng dẫn, quy trình đảm bảo hoạt đồng an toàn hệ thống dựa trên các tiêu chuẩn như ISO27001, PCI DSS, NIST …",
+      "Giám sát, phân tích và giải quyết các sự cố về hạ tầng mạng/ bảo mật/ ứng dụng liên quan\n\n ",
+      "",
+      ""
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Tốt nghiệp hệ chính quy các trường Đại học/Cao học trở lên\nCó kinh nghiệm theo đúng mô tả công việc là một lợi thế\nCó kinh nghiệm, kiến thức về các mảng liên quan tại Ngân hàng, Tổ chức Tài chính là một lợi thế\nƯu tiên các ứng viên có kinh nghiệm vận hành thực tế các hệ thống mạng SDN như Cisco ACI, SDWAN,...",
+      "Tốt nghiệp hệ chính quy các trường Đại học/Cao học trở lên",
+      "Có kinh nghiệm theo đúng mô tả công việc là một lợi thế",
+      "Có kinh nghiệm, kiến thức về các mảng liên quan tại Ngân hàng, Tổ chức Tài chính là một lợi thế",
+      "Ưu tiên các ứng viên có kinh nghiệm vận hành thực tế các hệ thống mạng SDN như Cisco ACI, SDWAN,..."
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/network-administrator-linux-system-engineer-mb-bank-5538?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "25/10/2024",
+    "address": [
+      " Tòa nhà MB, số 18 Lê Văn Lương, Cau Giay, Ha Noi ",
+      " Chấp nhận Fresher"
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "System Engineer",
+      "Linux",
+      "Networking"
+    ]
+  }
+]
