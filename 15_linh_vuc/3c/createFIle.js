@@ -14,7 +14,7 @@ const crawData = async (payload) => {
     const page = await browser.newPage();
     
     await page.goto('https://itviec.com/dang-nhap-tai-khoan');
-    await page.type('#user_email', 'nguyendauhalf3@gmail.com');
+    await page.type('#user_email', 'dau2k93@gmail.com');
     await page.type('#user_password', 'Nhd1503993@fpt');
     await page.click('button.ibtn.ibtn-md.ibtn-primary.w-100');
     await page.waitForNavigation();
@@ -29,54 +29,55 @@ const crawData = async (payload) => {
     const numberOfJobs = parseInt(totalDocs, 10);
     const totalPages = Math.ceil(numberOfJobs / 20);
     const results = [];
+    
 
     const extractJobDetails = async (link) => {
       await page.goto(link.url);
       await new Promise(resolve => setTimeout(resolve, 1000));
       
-      const infoSkill = await page.evaluate(() => {
-        const divs = document.querySelectorAll('.d-flex.flex-column.gap-2');
-        if (divs.length > 0) {
-          const lastDiv = divs[divs.length - 1];
-          return Array.from(lastDiv.children).map(child => child.innerText);
-        }
-        return [];
-      });
+      return await page.evaluate(( link, today) => {
+        const salary_range = () => {
+          const elements = document.querySelectorAll('.ips-2');
+            const texts = Array.from(elements).map(element => element.innerText);
+              return texts[6] ? texts[6] : `You'll love it`;
+      }
 
-      const skills = await page.evaluate(() => {
-        const divs = document.querySelectorAll('.imt-2');
-        if (divs.length > 0) {
-          return divs.length > 0 ? [...new Set(Array.from(divs[0].querySelectorAll('*')).map(child => child.innerText.trim()).slice(1))]  : [];
-        }
-        return [];
-      });
-      
-      
-
-      const innerTextsDes = await page.evaluate(() => {
-        const div = document.querySelectorAll('.imy-5.paragraph');
-        return div.length > 0 ? Array.from(div[0].querySelectorAll('*')).map(child => child.innerText) : [];
-      });
-
-      const innerTextsRequest = await page.evaluate(() => {
-        const div = document.querySelectorAll('.imy-5.paragraph');
-        return div.length > 1 ? Array.from(div[1].querySelectorAll('*')).map(child => child.innerText) : [];
-      });
-
-
-      const urlCompany = await page.evaluate(() => {
-        const div = document.querySelector('.ips-md-3 a');
-        return div ? div.href : '';
-      });
-
-      const innerTextsAddress = await page.evaluate(() => {
-        const div = document.querySelector('.d-inline-block.text-dark-grey');
-        return div ? div[0]?.innerText : '';
-      });
-      
-     
-      
-      return await page.evaluate((description, yc, link, urlCompany, today,address,infor,skillsList) => {
+        const infors = () => {
+          const divs = document.querySelectorAll('.d-flex.flex-column.gap-2');
+          if (divs.length > 0) {
+            const lastDiv = divs[divs.length - 1];
+            return Array.from(lastDiv.children).map(child => child.innerText);
+          }
+          return [];
+        };
+  
+        const skillsList = () => {
+          const divs = document.querySelectorAll('.imt-2');
+          if (divs.length > 0) {
+            return divs.length > 0 ? [...new Set(Array.from(divs[0].querySelectorAll('*')).map(child => child.innerText.trim()).slice(1))]  : [];
+          }
+          return [];
+        };
+        
+        const description = () => {
+          const div = document.querySelectorAll('.imy-5.paragraph');
+          return div.length > 0 ? Array.from(div[0].querySelectorAll('*')).map(child => child.innerText) : [];
+        };
+  
+        const yc = () => {
+          const div = document.querySelectorAll('.imy-5.paragraph');
+          return div.length > 1 ? Array.from(div[1].querySelectorAll('*')).map(child => child.innerText) : [];
+        };
+  
+  
+        const urlCompany = () => {
+          const div = document.querySelector('.ips-md-3 a');
+          return div ? div.href : '';
+        };
+  
+        const infor = infors()
+       
+        
         return {
           title: document.querySelector('h1')?.innerText,
           company: document.querySelector('.employer-name')?.innerText,
@@ -88,16 +89,18 @@ const crawData = async (payload) => {
           company_size: document.querySelectorAll('.col.text-end.text-it-black')[2]?.innerText,
           linh_vuc:document.querySelector('.col.text-end.text-it-black.text-wrap-desktop')?.innerText,
           createdAt: infor[infor.length-2],
-          description: description,
-          yc: yc,
+          description: description(),
+          yc: yc(),
           linkJob: link.url,
-          linkCompany: urlCompany,
+          linkCompany: urlCompany(),
           crawlTime: today,
           address:infor.slice(0, -3),
           workplace:infor[infor.length-3],
-          skills:skillsList
+          skills:skillsList()
         };
-      }, innerTextsDes, innerTextsRequest, link, urlCompany, dayjs().format('DD/MM/YYYY'),innerTextsAddress,infoSkill,skills);
+
+         
+      }, link, dayjs().format('DD/MM/YYYY'));
     };
 
     for (let i = 1; i <= totalPages; i++) {
@@ -141,28 +144,28 @@ const getListFileName = async () => {
   }
 }
 
-const listLisk = [
-  'https://itviec.com/viec-lam-it/ba?job_selected=junior-business-analyst-ba-po-arobid-com-4009',
- 'https://itviec.com/viec-lam-it/chief-digital-officer-cdo-',
- 'https://itviec.com/viec-lam-it/chief-technology-officer-cto-',
- 'https://itviec.com/viec-lam-it/director-of-it-operations',
- 'https://itviec.com/viec-lam-it/vice-president-of-information-technology-vp-of-it-'
 
-]
+function convertToSlug(str) {
+  str = str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  str = str.replace(/[^a-zA-Z0-9\s]/g, '-');  
+  str = str.trim().replace(/\s+/g, '-'); 
+  str = str.replace(/-+/g, '-'); 
+  return str.toLowerCase(); 
+}
 
 getListFileName()
   .then(async (data) => {
-   console.log(data)
-   const payloadArr = data.map((name,index)=>{
+   const payloadArr = data.map((name)=>{
+    const formatName = convertToSlug(name.slice(0,name.length-5))
       return {
         fileName:name,
-        link:listLisk[index]
+        link:`https://itviec.com/viec-lam-it/${convertToSlug(formatName)}?`
       }
     })
 
     for (const payload of payloadArr) {
-      await crawData(payload)
-      await new Promise(resolve => setTimeout(resolve, 500));
+       await crawData(payload)
+      await new Promise(resolve => setTimeout(resolve, 1000));
     }
   }) 
   .catch(err => console.error(err));
