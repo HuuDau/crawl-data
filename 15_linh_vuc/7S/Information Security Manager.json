@@ -1,1 +1,69 @@
-[]
+[
+  {
+    "title": "Information Security Manager (Threat Intelligence)",
+    "company": "FWD",
+    "salary_range": "Linh hoạt",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Hong Kong",
+    "company_model": "Sản phẩm",
+    "company_size": "51-150 nhân viên",
+    "linh_vuc": "Dịch Vụ và Tư Vấn IT",
+    "createdAt": " Đăng 25 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "As a Information Security Manager, you will be responsible for the following tasks:",
+      "Support the Head of IT Security Monitoring and Incident Response in define and maintain the Threat Intel framework for FWD Group.\nManage the Threat Intel services and solutions to maximize value of Threat Intel function in FWD.\nDrive Threat Intel Projects definition and implementation, selection of solutions and architecture, as well as define operations framework and its continuous improvement.\nWork closely with the Head of IT Security Monitoring and Incident Response, and Security Engineering to ensure regular updates to management on the Threat Intel Program status and risks. \nDefine, Test, Build and continuous enhancement of IT Security Threat Intel Platform, as well as commercial sources and services.\nDefine Operational requirements and SOPs related to Threat Intel.\nDefine and implement enhancement detection and protection capabilities, leveraging IOCs propagation in FWD IT Security solutions.\nSupport Incident Response in automation of contextualization of Cyber Alerts, leveraging the Threat Intel Platform.\nIdentify and coordinate with IT Security Engineering threats that require configuration uplifts in FWD Protect or Detect solutions.\nIdentify and coordinate with Cyber Incident Response team threats that require Threat Hunting activities.\nProvide expertise to Business Units when needed, in building local IT Security solutions.",
+      "Support the Head of IT Security Monitoring and Incident Response in define and maintain the Threat Intel framework for FWD Group.",
+      "Manage the Threat Intel services and solutions to maximize value of Threat Intel function in FWD.",
+      "Drive Threat Intel Projects definition and implementation, selection of solutions and architecture, as well as define operations framework and its continuous improvement.",
+      "Work closely with the Head of IT Security Monitoring and Incident Response, and Security Engineering to ensure regular updates to management on the Threat Intel Program status and risks. ",
+      "Define, Test, Build and continuous enhancement of IT Security Threat Intel Platform, as well as commercial sources and services.",
+      "Define Operational requirements and SOPs related to Threat Intel.",
+      "Define and implement enhancement detection and protection capabilities, leveraging IOCs propagation in FWD IT Security solutions.",
+      "Support Incident Response in automation of contextualization of Cyber Alerts, leveraging the Threat Intel Platform.",
+      "Identify and coordinate with IT Security Engineering threats that require configuration uplifts in FWD Protect or Detect solutions.",
+      "Identify and coordinate with Cyber Incident Response team threats that require Threat Hunting activities.",
+      "Provide expertise to Business Units when needed, in building local IT Security solutions."
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Minimum 5 years working experience in a hands-on technical role in Cyber Security Threat Hunting, APT/Crimeware analysis, Malware analysis, Monitoring and Incident Response.\nExperience in an operational capacity as part of security incident response function.\nExperience with a programming/scripting language.\nExperienced in multi-cultural virtual team management and coordination.\nExcellent knowledge of Advanced Persistent Threats, attack tools, techniques, and methods used by adversaries.\nStrong decision-making capability on remediation actions to respond to security incidents.\nAbility to define, prioritize and execute process in a structured manner.\nExcellent interpersonal and influential skills to enable the implementation and enforcement of the IT Security Engineering program.\nGood command of spoken and written English.",
+      "Minimum 5 years working experience in a hands-on technical role in Cyber Security Threat Hunting, APT/Crimeware analysis, Malware analysis, Monitoring and Incident Response.",
+      "Experience in an operational capacity as part of security incident response function.",
+      "Experience with a programming/scripting language.",
+      "Experienced in multi-cultural virtual team management and coordination.",
+      "Excellent knowledge of Advanced Persistent Threats, attack tools, techniques, and methods used by adversaries.",
+      "Strong decision-making capability on remediation actions to respond to security incidents.",
+      "Ability to define, prioritize and execute process in a structured manner.",
+      "Excellent interpersonal and influential skills to enable the implementation and enforcement of the IT Security Engineering program.",
+      "Good command of spoken and written English.",
+      " ",
+      "Degrees & Certifications:",
+      "Degrees & Certifications:",
+      "Degree from Information Technology or equivalent discipline.",
+      "Degree from Information Technology or equivalent discipline.",
+      " ",
+      "Nice to have:",
+      "Nice to have:",
+      "GIAC Cyber Threat Intelligence (GCTI) certification.\nCREST Certified Threat Intelligence Manager.\nECCouncil Computer Hacking Forensics Investigator (CHFI).\nGIAC Certified Incident Handler (GCIH).\nGIAC Reverse Engineering Malware (GREM).\nGIAC Certified Forensic Analyst (GCFA).",
+      "GIAC Cyber Threat Intelligence (GCTI) certification.",
+      "CREST Certified Threat Intelligence Manager.",
+      "ECCouncil Computer Hacking Forensics Investigator (CHFI).",
+      "GIAC Certified Incident Handler (GCIH).",
+      "GIAC Reverse Engineering Malware (GREM).",
+      "GIAC Certified Forensic Analyst (GCFA)."
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/information-security-manager-threat-intelligence-fwd-2656?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "25/10/2024",
+    "address": [
+      " Long Tower, 101-103 Nguyen Cuu Van, Binh Thanh, Ho Chi Minh "
+    ],
+    "workplace": "Linh hoạt",
+    "skills": [
+      "Security",
+      "DevSecOps"
+    ]
+  }
+]
