@@ -103,7 +103,7 @@ const crawData = async (payload) => {
         return {
           title: document.querySelector('h1')?.innerText,
           company: document.querySelector('.employer-name')?.innerText,
-          salary_range: document.querySelectorAll('span.ips-2')[6]?.innerText,
+          salary_range: salary_range(),
           timeWork: document.querySelectorAll('.col.text-end.text-it-black')[4]?.innerText,
           timeOt: document.querySelectorAll('.col.text-end.text-it-black')[5]?.innerText,
           nation: document.querySelectorAll('.col.text-end.text-it-black')[3]?.innerText,
