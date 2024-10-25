@@ -2,14 +2,14 @@
   {
     "title": "Front-end Software Engineer (Angular)",
     "company": "Enlab Software",
-    "salary_range": "Linh hoạt",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
     "company_model": "Dịch vụ và Tư vấn giải pháp",
     "company_size": "51-150 nhân viên",
     "linh_vuc": "Dịch Vụ và Tư Vấn IT",
-    "createdAt": " Đăng 42 ngày trước",
+    "createdAt": " Đăng 40 ngày trước",
     "description": [
       "Mô tả công việc",
       "About Enlab Software",
@@ -87,7 +87,7 @@
     ],
     "linkJob": "https://itviec.com/viec-lam-it/front-end-software-engineer-angular-enlab-software-0757?lab_feature=preview_jd_page",
     "linkCompany": "",
-    "crawlTime": "24/10/2024",
+    "crawlTime": "23/10/2024",
     "address": [
       " 27 Che Viet Tan, Hoa Xuan, Cam Le, Da Nang "
     ],
@@ -99,16 +99,68 @@
     ]
   },
   {
+    "title": "Senior Frontend Software Engineer (VueJS, ReactJS)",
+    "company": "Koidra Tech",
+    "salary_range": "2,000 - 5,000 USD",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "United States",
+    "company_model": "Sản phẩm",
+    "company_size": "1-50 nhân viên",
+    "linh_vuc": "Môi Trường",
+    "createdAt": " Đăng 6 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "About Koidra\nKoidra is at the forefront of climate tech innovation, offering intelligent automation solutions that enable high-tech greenhouses, biomass energy facilities, and food processing plants to excel in both sustainability and production efficiency. We are dedicated to helping these industries reduce their environmental impact while maximizing operational effectiveness.",
+      "About Koidra",
+      "",
+      "By integrating advanced machine learning, IoT technologies, and principles from Math and Physics, our systems extend the precision and efficiency of operations beyond what's possible through human efforts alone. Koidra's smart automation empowers facilities to broaden their control, minimize reliance on manual expertise, and embrace a scalable approach to environmental responsibility in industrial automation.",
+      "Discover more about Koidra and our game-changing technology on our About Us page.",
+      "What will you do?",
+      "What will you do?",
+      "Implement responsive and intuitive UI for our products\nBuild efficient and reusable front-end systems and abstraction\nAnalyze and enhance application for maximum performance\nCollaborate with UI/UX designers to iterate on design and implementation \nCollaborate with backend engineers to effectively build features and ship experiments\nPractice disciplined software engineering (e.g. automated testing, code reviews, …)\nSupport, share knowledge and grow junior team members ",
+      "Implement responsive and intuitive UI for our products",
+      "Build efficient and reusable front-end systems and abstraction",
+      "Analyze and enhance application for maximum performance",
+      "Collaborate with UI/UX designers to iterate on design and implementation ",
+      "Collaborate with backend engineers to effectively build features and ship experiments",
+      "Practice disciplined software engineering (e.g. automated testing, code reviews, …)",
+      "Support, share knowledge and grow junior team members "
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "5+ years of industry experience in a front-end engineering role\nProficient understanding of TypeScript and modern frontend stacks such as Vue.JS or React.JS\nExperience in system design and system optimization\nExperience collaborating directly with product team members\nProficient understanding of cross-browser compatibility to help long term maintenance\nYou find yourself fit our culture ",
+      "5+ years of industry experience in a front-end engineering role",
+      "Proficient understanding of TypeScript and modern frontend stacks such as Vue.JS or React.JS",
+      "Experience in system design and system optimization",
+      "Experience collaborating directly with product team members",
+      "Proficient understanding of cross-browser compatibility to help long term maintenance",
+      "You find yourself fit our culture "
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/senior-frontend-software-engineer-vuejs-reactjs-koidra-tech-4618?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "23/10/2024",
+    "address": [
+      " 8-10 Tạ Hiện, P. Thạnh Mỹ Lợi, TP. Thủ Đức, TP. HCM, Thu Duc City, Ho Chi Minh "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "VueJS",
+      "TypeScript",
+      "ReactJS"
+    ]
+  },
+  {
     "title": "Sr Frontend Software Engineer(ReactJS/VueJS/TypeScript)",
     "company": "Sungrove Tech Vietnam",
-    "salary_range": "Linh hoạt",
+    "salary_range": "1,500 - 3,000 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Japan",
     "company_model": "Sản phẩm",
     "company_size": "1-50 nhân viên",
     "linh_vuc": "Dịch Vụ và Tư Vấn IT",
-    "createdAt": " Đăng 3 ngày trước",
+    "createdAt": " Đăng 2 ngày trước",
     "description": [
       "Mô tả công việc",
       "Main Duties:",
@@ -180,7 +232,7 @@
     ],
     "linkJob": "https://itviec.com/viec-lam-it/sr-frontend-software-engineer-reactjs-vuejs-typescript-sungrove-tech-vietnam-1620?lab_feature=preview_jd_page",
     "linkCompany": "",
-    "crawlTime": "24/10/2024",
+    "crawlTime": "23/10/2024",
     "address": [
       " 23th Floor, A&B Tower, 76A Le Lai, Ben Thanh Ward, District 1, Ho Chi Minh City Vietnam, District 1, Ho Chi Minh "
     ],
@@ -192,68 +244,16 @@
     ]
   },
   {
-    "title": "Senior Frontend Software Engineer (VueJS, ReactJS)",
-    "company": "Koidra Tech",
-    "salary_range": "Linh hoạt",
-    "timeWork": "Thứ 2 - Thứ 6",
-    "timeOt": "Không có OT",
-    "nation": "United States",
-    "company_model": "Sản phẩm",
-    "company_size": "1-50 nhân viên",
-    "linh_vuc": "Môi Trường",
-    "createdAt": " Đăng 8 ngày trước",
-    "description": [
-      "Mô tả công việc",
-      "About Koidra\nKoidra is at the forefront of climate tech innovation, offering intelligent automation solutions that enable high-tech greenhouses, biomass energy facilities, and food processing plants to excel in both sustainability and production efficiency. We are dedicated to helping these industries reduce their environmental impact while maximizing operational effectiveness.",
-      "About Koidra",
-      "",
-      "By integrating advanced machine learning, IoT technologies, and principles from Math and Physics, our systems extend the precision and efficiency of operations beyond what's possible through human efforts alone. Koidra's smart automation empowers facilities to broaden their control, minimize reliance on manual expertise, and embrace a scalable approach to environmental responsibility in industrial automation.",
-      "Discover more about Koidra and our game-changing technology on our About Us page.",
-      "What will you do?",
-      "What will you do?",
-      "Implement responsive and intuitive UI for our products\nBuild efficient and reusable front-end systems and abstraction\nAnalyze and enhance application for maximum performance\nCollaborate with UI/UX designers to iterate on design and implementation \nCollaborate with backend engineers to effectively build features and ship experiments\nPractice disciplined software engineering (e.g. automated testing, code reviews, …)\nSupport, share knowledge and grow junior team members ",
-      "Implement responsive and intuitive UI for our products",
-      "Build efficient and reusable front-end systems and abstraction",
-      "Analyze and enhance application for maximum performance",
-      "Collaborate with UI/UX designers to iterate on design and implementation ",
-      "Collaborate with backend engineers to effectively build features and ship experiments",
-      "Practice disciplined software engineering (e.g. automated testing, code reviews, …)",
-      "Support, share knowledge and grow junior team members "
-    ],
-    "yc": [
-      "Yêu cầu công việc",
-      "5+ years of industry experience in a front-end engineering role\nProficient understanding of TypeScript and modern frontend stacks such as Vue.JS or React.JS\nExperience in system design and system optimization\nExperience collaborating directly with product team members\nProficient understanding of cross-browser compatibility to help long term maintenance\nYou find yourself fit our culture ",
-      "5+ years of industry experience in a front-end engineering role",
-      "Proficient understanding of TypeScript and modern frontend stacks such as Vue.JS or React.JS",
-      "Experience in system design and system optimization",
-      "Experience collaborating directly with product team members",
-      "Proficient understanding of cross-browser compatibility to help long term maintenance",
-      "You find yourself fit our culture "
-    ],
-    "linkJob": "https://itviec.com/viec-lam-it/senior-frontend-software-engineer-vuejs-reactjs-koidra-tech-4618?lab_feature=preview_jd_page",
-    "linkCompany": "",
-    "crawlTime": "24/10/2024",
-    "address": [
-      " 8-10 Tạ Hiện, P. Thạnh Mỹ Lợi, TP. Thủ Đức, TP. HCM, Thu Duc City, Ho Chi Minh "
-    ],
-    "workplace": "Tại văn phòng",
-    "skills": [
-      "VueJS",
-      "TypeScript",
-      "ReactJS"
-    ]
-  },
-  {
     "title": "Frontend Software Engineer (ReactJs)",
     "company": "Employment Hero",
-    "salary_range": "Tại văn phòng",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Australia",
     "company_model": "Sản phẩm",
     "company_size": "1000+ nhân viên",
     "linh_vuc": "Sản Phẩm Phần Mềm và Dịch Vụ Web",
-    "createdAt": " Đăng 16 ngày trước",
+    "createdAt": " Đăng 15 ngày trước",
     "description": [
       "Mô tả công việc",
       "Our mission and where you fit in",
@@ -309,7 +309,7 @@
     ],
     "linkJob": "https://itviec.com/viec-lam-it/frontend-software-engineer-reactjs-employment-hero-0731?lab_feature=preview_jd_page",
     "linkCompany": "",
-    "crawlTime": "24/10/2024",
+    "crawlTime": "23/10/2024",
     "address": [
       " Cach Mang Thang 8, District 10, Ho Chi Minh "
     ],

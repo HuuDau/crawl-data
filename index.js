@@ -1,21 +1,23 @@
 
-const puppeteer = require('puppeteer-core');
-const connectionURL = 'wss://browser.zenrows.com?apikey=8e269370f87a92768df84aaa7e0b17a2c017c207';
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+puppeteer.use(StealthPlugin());
 const fs = require('fs');
 const dayjs = require('dayjs');
-
+const proxy = 'http://148.113.194.171:80';
 const crawData = async () => {
   try {
-    const browser = await puppeteer.connect({ browserWSEndpoint: connectionURL });
+    const browser = await puppeteer.launch({
+      args: [`--proxy-server=${proxy}`] // Adding proxy
+    });
     const page = await browser.newPage();
     
     await page.goto('https://itviec.com/dang-nhap-tai-khoan');
-
     await page.type('#user_email', 'nguyendauhalf3@gmail.com');
     await page.type('#user_password', 'Nhd1503993@fpt');
     await page.click('button.ibtn.ibtn-md.ibtn-primary.w-100');
     await page.waitForNavigation();
-    // form-control is-valid
+  
     await page.goto('https://itviec.com/viec-lam-it/chuyen-gia-lap-trinh');
     
     const totalDocs = await page.evaluate(() => {
@@ -116,60 +118,20 @@ const crawData = async () => {
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
 
-    console.log(results.length, 'kết quả');
+    console.log(results.length, 'result');
 
     if (results.length > 0) {
       fs.writeFileSync('data.json', JSON.stringify(results, null, 2));
-      console.log('Dữ liệu đã được lưu vào data.json');
+      console.log('save to data.json');
     }
 
     await browser.close();
   } catch (error) {
-    console.error('Lỗi:', error);
+    console.error('error:', error);
   }
 };
 
 crawData();
-
-
-
-
-
-
-
-
-const createFolder = () => {
-
-  const folderPath = './15_linh_vuc';
-
-  if (!fs.existsSync(folderPath)) {
-    fs.mkdirSync(folderPath, { recursive: true });
-    console.log(`Thư mục ${folderPath} đã được tạo.`);
-  } else {
-    console.log(`Thư mục ${folderPath} đã tồn tại.`);
-  }
-
-  fs.readdir(folderPath, (err, files) => {
-    if (err) {
-      return console.error(`Error create folder: ${err}`);
-    }
-
-    const fileList = files.filter(file => fs.statSync(path.join(folderPath, file)).isFile());
-
-    fileList.forEach(file => {
-      const newFolderName = path.basename(file, path.extname(file));
-      const newFolderPath = path.join(folderPath, newFolderName);
-
-      fs.mkdir(newFolderPath, { recursive: true }, (err) => {
-        if (err) {
-          console.error(`Error create folder ${newFolderName}:`, err);
-        } else {
-          console.log(`create folder success: ${newFolderName}`);
-        }
-      });
-    });
-  });
-}
 
 
 
