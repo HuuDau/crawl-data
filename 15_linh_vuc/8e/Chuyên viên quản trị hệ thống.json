@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "Chuyên viên Phát triển, quản trị hệ thống Báo cáo (SQL)",
+    "company": "VRB",
+    "salary_range": "You'll love it",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Non-IT",
+    "company_size": "501-1000 nhân viên",
+    "linh_vuc": "Ngân Hàng",
+    "createdAt": " Đăng 13 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "Phát triển hệ thống báo cáo nội bộ, báo cáo phục vụ quản trị điều hành, tác nghiệp, hệ thống báo cáo cho các cơ quan quản lý nhà nước.\nThiết kế kho dữ liệu, mô hình dữ liệu (DataMart), xử lý ETL dữ liệu và khai thác dữ liệu.\nQuản trị, hỗ trợ vận hành sử dụng các hệ thống Báo cáo và các phần mềm ứng dụng theo phân công.\nTham gia triển khai các dự án CNTT.",
+      "Phát triển hệ thống báo cáo nội bộ, báo cáo phục vụ quản trị điều hành, tác nghiệp, hệ thống báo cáo cho các cơ quan quản lý nhà nước.",
+      "Phát triển hệ thống báo cáo nội bộ, báo cáo phục vụ quản trị điều hành, tác nghiệp, hệ thống báo cáo cho các cơ quan quản lý nhà nước.",
+      "Thiết kế kho dữ liệu, mô hình dữ liệu (DataMart), xử lý ETL dữ liệu và khai thác dữ liệu.",
+      "Thiết kế kho dữ liệu, mô hình dữ liệu (DataMart), xử lý ETL dữ liệu và khai thác dữ liệu.",
+      "Quản trị, hỗ trợ vận hành sử dụng các hệ thống Báo cáo và các phần mềm ứng dụng theo phân công.",
+      "Quản trị, hỗ trợ vận hành sử dụng các hệ thống Báo cáo và các phần mềm ứng dụng theo phân công.",
+      "Tham gia triển khai các dự án CNTT.",
+      "Tham gia triển khai các dự án CNTT."
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Trình độ đào tạo: Tốt nghiệp Đại học hoặc trên Đại học trong nước, nước ngoài; chuyên ngành Công nghệ thông tin, Tin học ứng dụng, Điện tử viễn thông, Kỹ thuật thông tin",
+      "Trình độ đào tạo: ",
+      "Yêu cầu kinh nghiệm:",
+      "Yêu cầu kinh nghiệm:",
+      "Thành thạo ngôn ngữ SQL\nCó kinh nghiệm về một hoặc nhiều giải pháp xây dựng, phát triển báo cáo và phân tích dữ liệu như: Tableau, SAP Business Objects, Microsoft Power BI, Oracle BI,..\nCó kiến thức và kinh nghiệm về quản trị cơ sở dữ liệu, xử lý ETL dữ liệu, thiết kế dữ liệu, sử dụng một trong các Hệ quản trị cơ sở dữ liệu như: Oracle, Ms SQL Server, My SQL, PostgreSQL …\nCó kinh nghiệm về các giải pháp Data warehouse, Data lake và Data lakehouse\nCó khả năng lập trình (là lợi thế tuyển dụng) một trong các ngôn ngữ như: .NET, Java, Python,…",
+      "Thành thạo ngôn ngữ SQL",
+      "Có kinh nghiệm về một hoặc nhiều giải pháp xây dựng, phát triển báo cáo và phân tích dữ liệu như: Tableau, SAP Business Objects, Microsoft Power BI, Oracle BI,..",
+      "Có kinh nghiệm về một hoặc nhiều giải pháp xây dựng, phát triển báo cáo và phân tích dữ liệu như: Tableau, SAP Business Objects, Microsoft Power BI, Oracle BI,..",
+      "Có kiến thức và kinh nghiệm về quản trị cơ sở dữ liệu, xử lý ETL dữ liệu, thiết kế dữ liệu, sử dụng một trong các Hệ quản trị cơ sở dữ liệu như: Oracle, Ms SQL Server, My SQL, PostgreSQL …",
+      "Có kinh nghiệm về các giải pháp Data warehouse, Data lake và Data lakehouse",
+      "Có khả năng lập trình (là lợi thế tuyển dụng) một trong các ngôn ngữ như: .NET, Java, Python,…",
+      "Ngoại ngữ: Có khả năng nói, viết bằng tiếng Anh thành thạo. Chứng chỉ tiếng Anh tương đương trình độ B1 trở lên theo khung tham chiếu trình độ ngoại ngữ chung Châu Âu. Có thể bổ sung bằng tiếng Anh trong vòng 6 tháng.\nTuổi: Không quá 40 tuổi.\nCác chứng chỉ khác (không bắt buộc): Các chứng chỉ về thiết kế, quản trị dữ liệu; chứng chỉ phân tích dữ liệu; chứng chỉ khoa học dữ liệu.",
+      "Ngoại ngữ:",
+      "",
+      "Tuổi:",
+      "",
+      "Các chứng chỉ khác (không bắt buộc): ",
+      " ",
+      "* Ứng viên vui lòng nộp hồ sơ bằng Tiếng Anh",
+      "* Ứng viên vui lòng nộp hồ sơ bằng Tiếng Anh"
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/chuyen-vien-phat-trien-quan-tri-he-thong-bao-cao-sql-vrb-4643?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "25/10/2024",
+    "address": [
+      " 75 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội, Hoan Kiem, Ha Noi ",
+      " Chấp nhận Fresher"
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "SQL",
+      "Oracle",
+      "Business Intelligence"
+    ]
+  }
+]
