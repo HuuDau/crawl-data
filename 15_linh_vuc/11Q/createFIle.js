@@ -27,7 +27,7 @@ const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 puppeteer.use(StealthPlugin());
 const fss = require('fs');
 const dayjs = require('dayjs');
-const arr = require('./11Q.json')
+
 
 const crawData = async (payload) => {
   try {
@@ -35,7 +35,7 @@ const crawData = async (payload) => {
     const page = await browser.newPage();
     
     await page.goto('https://itviec.com/dang-nhap-tai-khoan');
-    await page.type('#user_email', 'mihehe5924@acroins.com');
+    await page.type('#user_email', 'dopexo8493@ruhtan.com');
     await page.type('#user_password', 'Nhd1503993@fpt');
     await page.click('button.ibtn.ibtn-md.ibtn-primary.w-100');
     await page.waitForNavigation();

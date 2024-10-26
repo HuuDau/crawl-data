@@ -2,14 +2,14 @@
   {
     "title": "Database Administrator Expert (SQL Server, PostgreSQL)",
     "company": "FE CREDIT",
-    "salary_range": "Tại văn phòng",
+    "salary_range": "1,500 - 2,500 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
     "company_model": "Sản phẩm",
     "company_size": "1000+ nhân viên",
     "linh_vuc": "Dịch Vụ Tài Chính",
-    "createdAt": " Đăng 19 ngày trước",
+    "createdAt": " Đăng 20 ngày trước",
     "description": [
       "Mô tả công việc",
       "Database Administration:\n- Design, implement, and maintain complex database systems (e.g., Oracle, MySQL, PostgreSQL).\n- Ensure high levels of performance, availability, and security of databases.\n- Perform regular database maintenance, backups, and disaster recovery planning.\n- Monitor database performance, implement changes, and apply new patches and versions when required.\n- Manage database security and permissions.\nETL Development:\n- Design, develop, and optimize ETL processes to extract, transform, and load data from various sources into data warehouses.\n- Analysts to understand data requirements and translate them into robust ETL workflows.\n- Ensure data integrity, quality, and consistency across different data sources and destinations.\n- Implement best practices for ETL process design, development, and deployment.\nPerformance Tuning and Optimization:\n- Analyze and resolve database performance issues.\n- Optimize SQL queries and ETL processes for efficiency and speed.\n- Implement indexing, partitioning, and other optimization techniques to enhance database performance.\n- Documentation and Compliance:\n- Create and maintain detailed documentation of database configurations, ETL processes, and data workflows.\n- Ensure compliance with data governance and security policies.\n- Implement and enforce data privacy and security measures.\n- Monitor database performance, implement changes, and apply new patches and versions when required.\n- Manage database security and permissions.\nETL Development:\n- Design, develop, and optimize ETL processes to extract, transform, and load data from various sources into data warehouses.\n- Analysts to understand data requirements and translate them into robust ETL workflows.\n- Ensure data integrity, quality, and consistency across different data sources and destinations.\n- Implement best practices for ETL process design, development, and deployment.\nPerformance Tuning and Optimization:\n- Analyze and resolve database performance issues.\n- Optimize SQL queries and ETL processes for efficiency and speed.\n- Implement indexing, partitioning, and other optimization techniques to enhance database performance.\n- Documentation and Compliance:\n- Create and maintain detailed documentation of database configurations, ETL processes, and data workflows.\n- Ensure compliance with data governance and security policies.\n- Implement and enforce data privacy and security measures.",
@@ -80,7 +80,7 @@
   {
     "title": "Senior Database Administrator",
     "company": "NAB Innovation Centre Vietnam",
-    "salary_range": "Tại văn phòng",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Australia",
@@ -152,7 +152,7 @@
   {
     "title": "05 Database Administrator ( Oracle/ SQL)",
     "company": "Vega Corporation",
-    "salary_range": "Tại văn phòng",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",

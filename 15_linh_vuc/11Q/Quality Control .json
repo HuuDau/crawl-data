@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "title": "Quality Control Engineer (QC, Automation Test)",
+    "company": "FireGroup",
+    "salary_range": "You'll love it",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Sản phẩm",
+    "company_size": "151-300 nhân viên",
+    "linh_vuc": "Thương Mại Điện Tử",
+    "createdAt": " Đăng 17 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "Plan, create and execute Test case.\nDevelop, execute, maintain automated test scripts for UI and API using Playwright or similar tools.\nCI/CD Integration: Design and implement CI/CD pipelines to streamline the software development lifecycle.\nDesign and implement mock APIs to simulate backend services for front-end and integration testing.\nBehavior-Driven Development (BDD): Utilize BDD practices to ensure high-quality, behavior-driven test cases.\nCoach and motivate developers to ensure their features are of high test-ability.\nFollow the process and regulations at work.",
+      "Plan, create and execute Test case.",
+      "Develop, execute, maintain automated test scripts for UI and API using Playwright or similar tools.",
+      "CI/CD Integration: Design and implement CI/CD pipelines to streamline the software development lifecycle.",
+      "Design and implement mock APIs to simulate backend services for front-end and integration testing.",
+      "Behavior-Driven Development (BDD): Utilize BDD practices to ensure high-quality, behavior-driven test cases.",
+      "Coach and motivate developers to ensure their features are of high test-ability.",
+      "Follow the process and regulations at work."
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Graduated from College, University or equivalent certificates majoring in Information. Technology, Computer Science, Software Quality Testing Interest in software quality testing\nMinimum of 3 years of experience in both QC Automation and Manual testing.\nExperience with Webapp Testing (from 2 years of experience).\nWorking within agile development teams with a BDD approach and supporting the developers to quality assure developments early.\nExperience testing on a microservice-based system.\nExperience with Java or Typescript programming (or similar languages).\nExpert in one or more automation testing frameworks and tools (Playwright, Cypress, Selenium, Cucumber, Katalon, Browserstack, Lambdatest, Test Sigma,... ).\nGood command of GIT source code management tools.\nExtensive experience working with databases, specifically MySQL, MongoDB, and Scylla.\nUnderstanding and knowing about performance testing.\nHaving an ISTQB certificate is an advantage.",
+      "Graduated from College, University or equivalent certificates majoring in Information. Technology, Computer Science, Software Quality Testing Interest in software quality testing",
+      "Minimum of 3 years of experience in both QC Automation and Manual testing.",
+      "Experience with Webapp Testing (from 2 years of experience).",
+      "Working within agile development teams with a BDD approach and supporting the developers to quality assure developments early.",
+      "Experience testing on a microservice-based system.",
+      "Experience with Java or Typescript programming (or similar languages).",
+      "Expert in one or more automation testing frameworks and tools (Playwright, Cypress, Selenium, Cucumber, Katalon, Browserstack, Lambdatest, Test Sigma,... ).",
+      "Good command of GIT source code management tools.",
+      "Extensive experience working with databases, specifically MySQL, MongoDB, and Scylla.",
+      "Understanding and knowing about performance testing.",
+      "Having an ISTQB certificate is an advantage."
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/quality-control-engineer-qc-automation-test-firegroup-2426?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "26/10/2024",
+    "address": [
+      " Flemington Tower, 182 Le Dai Hanh Street, District 11, Ho Chi Minh "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "Automation Test",
+      "Agile",
+      "QA QC"
+    ]
+  }
+]

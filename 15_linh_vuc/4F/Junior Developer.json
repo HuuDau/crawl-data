@@ -2,7 +2,7 @@
   {
     "title": "Junior iOS Developer (Swift/ React Native/ Objective C)",
     "company": "Falcon Game Studio",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "500 - 1,000 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
@@ -60,7 +60,7 @@
   {
     "title": "Junior C++ Developer",
     "company": "DTS Software Vietnam",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "500 - 1,000 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Thêm lương OT",
     "nation": "Japan",
@@ -106,56 +106,9 @@
     ]
   },
   {
-    "title": "Java Developer (Level Junior - Senior) ~$2000 NET",
-    "company": "Giao Hàng Tiết Kiệm",
-    "salary_range": "Đăng nhập để xem mức lương",
-    "timeWork": "Thứ 2 - Thứ 7",
-    "timeOt": "Không có OT",
-    "nation": "Vietnam",
-    "company_model": "Sản phẩm",
-    "company_size": "1000+ nhân viên",
-    "linh_vuc": "Vận Tải, Logistics và Kho Hàng",
-    "createdAt": " Đăng 7 ngày trước",
-    "description": [
-      "Mô tả công việc",
-      "Trực tiếp tham gia phát triển 1 trong các Products trong hệ sinh thái của Giaohangtietkiem.\nXây dựng các API liên quan đến hệ thống chat; Hệ thống xác thực, hệ thống ví điện tử…\nThiết kế, thao tác cơ sở dữ liệu\nTìm hiểu và cải thiện hiệu năng của hệ thống (tối ưu truy vấn và các thành phần sử dụng)\nTraining, document và hỗ trợ các team khác trong quá trình tích hợp hệ thống,…",
-      "Trực tiếp tham gia phát triển 1 trong các Products trong hệ sinh thái của Giaohangtietkiem.",
-      "Xây dựng các API liên quan đến hệ thống chat; Hệ thống xác thực, hệ thống ví điện tử…",
-      "Thiết kế, thao tác cơ sở dữ liệu",
-      "Tìm hiểu và cải thiện hiệu năng của hệ thống (tối ưu truy vấn và các thành phần sử dụng)",
-      "Training, document và hỗ trợ các team khác trong quá trình tích hợp hệ thống,…"
-    ],
-    "yc": [
-      "Yêu cầu công việc",
-      "Có tối thiểu 1 năm kinh nghiệm làm việc với ngôn ngữ Java;\nSử dụng một trong các framework như Java như: Spring, Hibernate,..;\nThành thạo Java Core;\nThao tác với các cơ sở dữ liệu quan hệ, đặc biệt là MySQL;\nCó kinh nghiệm về triển khai các ứng dụng thông qua API;\nSử dụng các công nghệ như Kafka, Elasticsearch, Redis, Cassandra;\nBiết thao tác với server (linux) và CI/CD là một lợi thế;\nCó kinh nghiệm liên quan tới xử lý thanh toán, tích hợp cổng thanh toán, xử lý luồng xác thực OAuth2, OIDC, SAML là 1 lợi thế;\nCó khả năng tìm hiểu công nghệ mới và khắc phục sự cố;\nCó kỹ năng làm việc nhóm tốt;\nTốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc các chuyên ngành liên quan, ưu tiên ứng viên tốt nghiệp từ các trường: ĐH Bách Khoa, ĐH Công nghệ-ĐHQGHN, FPT, Bưu Chính Viễn Thông, ĐH Công Nghiệp,…",
-      "Có tối thiểu 1 năm kinh nghiệm làm việc với ngôn ngữ Java;",
-      "Sử dụng một trong các framework như Java như: Spring, Hibernate,..;",
-      "Thành thạo Java Core;",
-      "Thao tác với các cơ sở dữ liệu quan hệ, đặc biệt là MySQL;",
-      "Có kinh nghiệm về triển khai các ứng dụng thông qua API;",
-      "Sử dụng các công nghệ như Kafka, Elasticsearch, Redis, Cassandra;",
-      "Biết thao tác với server (linux) và CI/CD là một lợi thế;",
-      "Có kinh nghiệm liên quan tới xử lý thanh toán, tích hợp cổng thanh toán, xử lý luồng xác thực OAuth2, OIDC, SAML là 1 lợi thế;",
-      "Có khả năng tìm hiểu công nghệ mới và khắc phục sự cố;",
-      "Có kỹ năng làm việc nhóm tốt;",
-      "Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc các chuyên ngành liên quan, ưu tiên ứng viên tốt nghiệp từ các trường: ĐH Bách Khoa, ĐH Công nghệ-ĐHQGHN, FPT, Bưu Chính Viễn Thông, ĐH Công Nghiệp,…"
-    ],
-    "linkJob": "https://itviec.com/viec-lam-it/java-developer-level-junior-senior-2000-net-giao-hang-tiet-kiem-0555?lab_feature=preview_jd_page",
-    "linkCompany": "",
-    "crawlTime": "25/10/2024",
-    "address": [
-      " Tòa nhà VTV, số 8 Phạm Hùng, phường Mễ Trì, Nam Tu Liem, Ha Noi "
-    ],
-    "workplace": "Tại văn phòng",
-    "skills": [
-      "Java",
-      "Spring"
-    ]
-  },
-  {
     "title": "Junior/Middle Backend Developer (Golang, SQL, NoSQL)",
     "company": "AS Solutions",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "700 - 1,600 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
@@ -193,16 +146,63 @@
     ]
   },
   {
+    "title": "Java Developer (Level Junior - Senior) ~$2000 NET",
+    "company": "Giao Hàng Tiết Kiệm",
+    "salary_range": "500 - 2,000 USD",
+    "timeWork": "Thứ 2 - Thứ 7",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Sản phẩm",
+    "company_size": "1000+ nhân viên",
+    "linh_vuc": "Vận Tải, Logistics và Kho Hàng",
+    "createdAt": " Đăng 8 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "Trực tiếp tham gia phát triển 1 trong các Products trong hệ sinh thái của Giaohangtietkiem.\nXây dựng các API liên quan đến hệ thống chat; Hệ thống xác thực, hệ thống ví điện tử…\nThiết kế, thao tác cơ sở dữ liệu\nTìm hiểu và cải thiện hiệu năng của hệ thống (tối ưu truy vấn và các thành phần sử dụng)\nTraining, document và hỗ trợ các team khác trong quá trình tích hợp hệ thống,…",
+      "Trực tiếp tham gia phát triển 1 trong các Products trong hệ sinh thái của Giaohangtietkiem.",
+      "Xây dựng các API liên quan đến hệ thống chat; Hệ thống xác thực, hệ thống ví điện tử…",
+      "Thiết kế, thao tác cơ sở dữ liệu",
+      "Tìm hiểu và cải thiện hiệu năng của hệ thống (tối ưu truy vấn và các thành phần sử dụng)",
+      "Training, document và hỗ trợ các team khác trong quá trình tích hợp hệ thống,…"
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Có tối thiểu 1 năm kinh nghiệm làm việc với ngôn ngữ Java;\nSử dụng một trong các framework như Java như: Spring, Hibernate,..;\nThành thạo Java Core;\nThao tác với các cơ sở dữ liệu quan hệ, đặc biệt là MySQL;\nCó kinh nghiệm về triển khai các ứng dụng thông qua API;\nSử dụng các công nghệ như Kafka, Elasticsearch, Redis, Cassandra;\nBiết thao tác với server (linux) và CI/CD là một lợi thế;\nCó kinh nghiệm liên quan tới xử lý thanh toán, tích hợp cổng thanh toán, xử lý luồng xác thực OAuth2, OIDC, SAML là 1 lợi thế;\nCó khả năng tìm hiểu công nghệ mới và khắc phục sự cố;\nCó kỹ năng làm việc nhóm tốt;\nTốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc các chuyên ngành liên quan, ưu tiên ứng viên tốt nghiệp từ các trường: ĐH Bách Khoa, ĐH Công nghệ-ĐHQGHN, FPT, Bưu Chính Viễn Thông, ĐH Công Nghiệp,…",
+      "Có tối thiểu 1 năm kinh nghiệm làm việc với ngôn ngữ Java;",
+      "Sử dụng một trong các framework như Java như: Spring, Hibernate,..;",
+      "Thành thạo Java Core;",
+      "Thao tác với các cơ sở dữ liệu quan hệ, đặc biệt là MySQL;",
+      "Có kinh nghiệm về triển khai các ứng dụng thông qua API;",
+      "Sử dụng các công nghệ như Kafka, Elasticsearch, Redis, Cassandra;",
+      "Biết thao tác với server (linux) và CI/CD là một lợi thế;",
+      "Có kinh nghiệm liên quan tới xử lý thanh toán, tích hợp cổng thanh toán, xử lý luồng xác thực OAuth2, OIDC, SAML là 1 lợi thế;",
+      "Có khả năng tìm hiểu công nghệ mới và khắc phục sự cố;",
+      "Có kỹ năng làm việc nhóm tốt;",
+      "Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc các chuyên ngành liên quan, ưu tiên ứng viên tốt nghiệp từ các trường: ĐH Bách Khoa, ĐH Công nghệ-ĐHQGHN, FPT, Bưu Chính Viễn Thông, ĐH Công Nghiệp,…"
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/java-developer-level-junior-senior-2000-net-giao-hang-tiet-kiem-0555?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "25/10/2024",
+    "address": [
+      " Tòa nhà VTV, số 8 Phạm Hùng, phường Mễ Trì, Nam Tu Liem, Ha Noi "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "Java",
+      "Spring"
+    ]
+  },
+  {
     "title": "Junior Full Stack Developer",
     "company": "AlphaSphere",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "United States",
     "company_model": "Sản phẩm",
     "company_size": "1-50 nhân viên",
     "linh_vuc": "Dịch Vụ Chuyên Nghiệp",
-    "createdAt": " Đăng 13 ngày trước",
+    "createdAt": " Đăng 14 ngày trước",
     "description": [
       "Mô tả công việc",
       "We are looking for a motivated and enthusiastic junior full-stack web developer to join our team. As a full-stack web developer, you will work on both the front-end and back-end of web applications, collaborating with other team members to deliver high-quality solutions. Join us to continue expanding our unique B2B SaaS app portfolios with already over 20,000 customers.",
@@ -270,7 +270,7 @@
   {
     "title": "Fr/Junior Blockchain Developer (Python, JavaScript, Go)",
     "company": "Công ty TNHH Công nghệ RBX",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "Up to $1500",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
@@ -325,7 +325,7 @@
   {
     "title": "Junior C# Developer (C#, .NET, ASP.NET)",
     "company": "InMeeting JSC.",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "600 - 1,000 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
@@ -388,7 +388,7 @@
   {
     "title": "Junior (Associate) Back-end Developer (Ruby on Rails)",
     "company": "WebMD Health Services",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "United States",
@@ -478,14 +478,14 @@
   {
     "title": "Unity Games Developer (Senior/Junior)",
     "company": "Saigon PN Tech",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
     "company_model": "Sản phẩm",
     "company_size": "1-50 nhân viên",
     "linh_vuc": "Trò Chơi",
-    "createdAt": " Đăng 22 ngày trước",
+    "createdAt": " Đăng 23 ngày trước",
     "description": [
       "Mô tả công việc",
       "Phát triển và triển khai các tính năng của trò chơi bằng Unity và C#.\nTham gia và phát triển các dòng game Global: Puzzle, Casual, Hybrid, Platform…\nPhối hợp với team phát triển game 2D hoặc 3D bằng Unity \nKiến trúc hệ thống, giải thuật và tìm hiểu các công nghệ mới vào dự án.\nTối ưu hóa mã code để đạt được hiệu suất cao và độ ổn định trên các nền tảng khác nhau, đảm bảo trải nghiệm chơi game mượt mà cho người chơi.",
@@ -536,14 +536,14 @@
   {
     "title": "Junior/Senior Developer",
     "company": "FLINTERS VIETNAM",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "500 - 1,700 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Japan",
     "company_model": "Dịch vụ và Tư vấn giải pháp",
     "company_size": "151-300 nhân viên",
     "linh_vuc": "Thuê Ngoài Phát Triển Phần Mềm",
-    "createdAt": " Đăng 24 ngày trước",
+    "createdAt": " Đăng 25 ngày trước",
     "description": [
       "Mô tả công việc",
       "Tuân theo các quy tắc chuẩn, tạo ra các mã hóa có chất lượng cao và có thể bảo trì được;\nLuôn có động lực và cập nhật những phát triển và xu hướng mới nhất trong phát triển web;\nCố vấn và huấn luyện các thành viên cấp dưới để đạt được mức năng lực hoặc hiệu suất đáp ứng các mục tiêu của dự án (đối với level Senior).\nĐóng góp vào các hoạt động chia sẻ kiến thức và cải tiến liên tục.",
@@ -587,7 +587,7 @@
   {
     "title": "Junior Front End Dev (ReactJS, TypeScript)",
     "company": "Skylink Innovation",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
@@ -645,7 +645,7 @@
   {
     "title": "Junior Fullstack .Net Developer",
     "company": "Live Payments",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Australia",
@@ -722,7 +722,7 @@
   {
     "title": "Junior Developer (Java/ C#/JavaScript) - Chinese",
     "company": "Techzen Company Limited",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "You'll love it",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
@@ -763,7 +763,7 @@
   {
     "title": "Junior/Senior Frontend Developer (ReactJS)",
     "company": "Fullerton Health",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "700 - 2,300 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Singapore",
@@ -831,7 +831,7 @@
   {
     "title": "Junior Android Developer",
     "company": "TP Entertainment",
-    "salary_range": "Đăng nhập để xem mức lương",
+    "salary_range": "1,000 - 2,000 USD",
     "timeWork": "Thứ 2 - Thứ 6",
     "timeOt": "Không có OT",
     "nation": "Vietnam",
