@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "title": "Senior QC (Chuyên viên kiểm thử phần mềm)",
+    "company": "OneFin",
+    "salary_range": "600 - 1,000 USD",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Thêm lương OT",
+    "nation": "Vietnam",
+    "company_model": "Sản phẩm",
+    "company_size": "1-50 nhân viên",
+    "linh_vuc": "Dịch Vụ Tài Chính",
+    "createdAt": " Đăng 3 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "Nghiên cứu yêu cầu của khách hàng (Tài liệu phân tích yêu cầu người sử dụng), nghiên cứu chi tiết yêu cầu về phần mềm, thiết kế (Các tài liệu thiết kế tổng thể, phân tích CSDL và API, chức năng hệ thống,…) để xác định yêu cầu của dự án.\nLập kế hoạch kiểm thử phần mềm (Test plan)\nViết tài liệu kịch bản kiểm thử phần mềm (Test case).\nThực hiện kiểm thử phần mềm trên Web App, Mobile App bằng phương pháp Manual\nTesting hoặc Automation Testing\nThực hiện báo cáo lỗi của phần mềm lên các công cụ quản lý lỗi (Redmind, JIRA, …).\nViết báo cáo kiểm thử phần mềm, thống kê phân loại lỗi của phần mềm.\nĐưa ra phương án phân tích và cải thiện chất lượng sản phẩm và quy trinh chất lượng đối với các vị trí Leader.",
+      "Nghiên cứu yêu cầu của khách hàng (Tài liệu phân tích yêu cầu người sử dụng), nghiên cứu chi tiết yêu cầu về phần mềm, thiết kế (Các tài liệu thiết kế tổng thể, phân tích CSDL và API, chức năng hệ thống,…) để xác định yêu cầu của dự án.",
+      "Lập kế hoạch kiểm thử phần mềm (Test plan)",
+      "Viết tài liệu kịch bản kiểm thử phần mềm (Test case).",
+      "Thực hiện kiểm thử phần mềm trên Web App, Mobile App bằng phương pháp Manual\nTesting hoặc Automation Testing",
+      "",
+      "Thực hiện báo cáo lỗi của phần mềm lên các công cụ quản lý lỗi (Redmind, JIRA, …).",
+      "Viết báo cáo kiểm thử phần mềm, thống kê phân loại lỗi của phần mềm.",
+      "Đưa ra phương án phân tích và cải thiện chất lượng sản phẩm và quy trinh chất lượng đối với các vị trí Leader."
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      " Có tối thiểu 3 năm kinh nghiệm ở vị trí kiểm thử phần mềm.\nCó kinh nghiệm trong các hệ thống lĩnh vực tài chính, thanh toán là một lợi thế.\nCó khả năng làm việc nhóm, chịu áp lực để làm việc trong môi trường chuyên nghiệp có sức ép về deadline.\nCó kiến thức tốt về các loại hình kiểm thử (chức năng và phi chức năng), các kỹ thuật kiểm thử (các kỹ thuật kiểm thử hộp đen, hộp trắng...), các level của kiểm thử (kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận).\nCó khả năng phân tích và phản biện về đặc tả yêu cầu phần mềm đối với vị trí Leader.\nCó kinh nghiệm về truy vấn cơ sở dữ liệu: MySQL, MSSQL, mariaDB, mongoDB là một lợi thế.\nCó khả năng tư duy nhạy bén, nắm bắt và phân tích vấn đề từ nhiều góc độ khác nhau.\nCó kỹ năng sắp xếp công việc, sự tập trung và thái độ nghiêm túc với deadline đề ra.\nChủ động trong công việc, kỹ năng làm việc nhóm, phối hợp với các phòng ban. \nƯu tiên ứng viên Tốt nghiệp Đại học, Cảo đẳng chuyên ngành liên quan đến CNTT.",
+      " Có tối thiểu 3 năm kinh nghiệm ở vị trí kiểm thử phần mềm.",
+      "Có kinh nghiệm trong các hệ thống lĩnh vực tài chính, thanh toán là một lợi thế.",
+      "Có khả năng làm việc nhóm, chịu áp lực để làm việc trong môi trường chuyên nghiệp có sức ép về deadline.",
+      "Có kiến thức tốt về các loại hình kiểm thử (chức năng và phi chức năng), các kỹ thuật kiểm thử (các kỹ thuật kiểm thử hộp đen, hộp trắng...), các level của kiểm thử (kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận).",
+      "Có khả năng phân tích và phản biện về đặc tả yêu cầu phần mềm đối với vị trí Leader.",
+      "Có kinh nghiệm về truy vấn cơ sở dữ liệu: MySQL, MSSQL, mariaDB, mongoDB là một lợi thế.",
+      "Có khả năng tư duy nhạy bén, nắm bắt và phân tích vấn đề từ nhiều góc độ khác nhau.",
+      "Có kỹ năng sắp xếp công việc, sự tập trung và thái độ nghiêm túc với deadline đề ra.",
+      "Chủ động trong công việc, kỹ năng làm việc nhóm, phối hợp với các phòng ban. ",
+      "Ưu tiên ứng viên Tốt nghiệp Đại học, Cảo đẳng chuyên ngành liên quan đến CNTT."
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/senior-qc-chuyen-vien-kiem-thu-phan-mem-onefin-0120?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "26/10/2024",
+    "address": [
+      " Saigon Pearl, Ward 22, Binh Thanh, Ho Chi Minh ",
+      " Tầng 18, toà nhà 789, số 147 Hoàng Quốc Việt, P. Nghĩa Đô, Cau Giay, Ha Noi "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "QA QC",
+      "UI-UX",
+      "SQL"
+    ]
+  }
+]

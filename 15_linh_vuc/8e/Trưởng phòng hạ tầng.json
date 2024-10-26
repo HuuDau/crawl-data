@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "Trưởng phòng hạ tầng (System Engineer, Networking)",
+    "company": "Halotimes",
+    "salary_range": "You'll love it",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Sản phẩm",
+    "company_size": "1-50 nhân viên",
+    "linh_vuc": "Chưa có",
+    "createdAt": " Đăng 3 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "Quản lý hệ thống hạ tầng của công ty.\nĐề xuất các giải pháp để tối ưu hiệu quả hạ tầng của công ty.\nĐào tạo và phát triển nguồn nhân lực.\nTrao đổi chi tiết nội dung công việc khi tham gia phỏng vấn.",
+      "Quản lý hệ thống hạ tầng của công ty.",
+      "Đề xuất các giải pháp để tối ưu hiệu quả hạ tầng của công ty.",
+      "Đào tạo và phát triển nguồn nhân lực.",
+      "Trao đổi chi tiết nội dung công việc khi tham gia phỏng vấn."
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Tốt nghiệp Đại học ngành IT hoặc các ngành tương đương.\nCó kinh nghiệm tối thiếu 3 năm làm trưởng phòng hạ tầng hoặc các vị trí tương đương.\nCó kinh nghiệm làm việc với nền tảng Kubernetes.\nCó kinh nghiệm và kỹ năng quản lý đội nhóm từ 3-5 thành viên.\nCó kinh nghiệm quản trị hệ thống network, server cho các doanh nghiệp với quy mô 1000 Users.\nCó kinh nghiệm về điện toán đám mây (cloud), server vật lý.\nCó khả năng làm việc chuyên sâu với các thiết bị mạng và server của Cisco, HP, Fortinet, Dell.\nCó khả năng cài đặt, cấu hình thuần thục các dịch vụ trên nền tảng Windows Server\nCó khả năng cài đặt, cấu hình, quản trị hệ thống ảo hóa với Vmware.\nCó khả năng cài đặt, cấu hình, quản trị backup với Veeam\nCó khả năng cài đặt, cấu hình các dịch vụ HA Proxy, Loadbalancing, SQL Cluster\nChủ động trong công việc và có tinh thần trách nhiệm cao.",
+      "Tốt nghiệp Đại học ngành IT hoặc các ngành tương đương.",
+      "Có kinh nghiệm tối thiếu 3 năm làm trưởng phòng hạ tầng hoặc các vị trí tương đương.",
+      "Có kinh nghiệm làm việc với nền tảng Kubernetes.",
+      "Có kinh nghiệm và kỹ năng quản lý đội nhóm từ 3-5 thành viên.",
+      "Có kinh nghiệm quản trị hệ thống network, server cho các doanh nghiệp với quy mô 1000 Users.",
+      "Có kinh nghiệm về điện toán đám mây (cloud), server vật lý.",
+      "Có khả năng làm việc chuyên sâu với các thiết bị mạng và server của Cisco, HP, Fortinet, Dell.",
+      "Có khả năng cài đặt, cấu hình thuần thục các dịch vụ trên nền tảng Windows Server",
+      "Có khả năng cài đặt, cấu hình, quản trị hệ thống ảo hóa với Vmware.",
+      "Có khả năng cài đặt, cấu hình, quản trị backup với Veeam",
+      "Có khả năng cài đặt, cấu hình các dịch vụ HA Proxy, Loadbalancing, SQL Cluster",
+      "Chủ động trong công việc và có tinh thần trách nhiệm cao."
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/truong-phong-ha-tang-halotimes-4137?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "26/10/2024",
+    "address": [
+      " Số 39 đường 37, Phường An Khánh, Thu Duc City, Ho Chi Minh "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "Team Leader",
+      "System Engineer",
+      "Networking"
+    ]
+  }
+]

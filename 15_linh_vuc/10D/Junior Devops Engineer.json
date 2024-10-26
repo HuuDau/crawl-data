@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "title": "Junior DevOps Engineer (Linux/ English)",
+    "company": "DNSE",
+    "salary_range": "You'll love it",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Sản phẩm",
+    "company_size": "151-300 nhân viên",
+    "linh_vuc": "Dịch Vụ Tài Chính",
+    "createdAt": " Đăng 3 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "DevOps:",
+      "DevOps:",
+      "DevOps:",
+      "Triển khai mô hình DevOps, Container / Kubernetes với các dịch vụ phần mềm. Liên tục nghiên cứu các giải pháp, công nghệ mới để cải tiến mô hình DevOps tại công ty.\nTham gia xây dựng các hệ thống monitor chủ động cho toàn bộ hệ thống phần cứng và phần mềm của công ty.\nPhối hợp cùng đội phát triển và đội vận hành để đảm bảo tính sẵn sàng của hệ thống, xử lý các sự cố phát sinh. ",
+      "Triển khai mô hình DevOps, Container / Kubernetes với các dịch vụ phần mềm. Liên tục nghiên cứu các giải pháp, công nghệ mới để cải tiến mô hình DevOps tại công ty.",
+      "Tham gia xây dựng các hệ thống monitor chủ động cho toàn bộ hệ thống phần cứng và phần mềm của công ty.",
+      "Phối hợp cùng đội phát triển và đội vận hành để đảm bảo tính sẵn sàng của hệ thống, xử lý các sự cố phát sinh. ",
+      "CI/CD",
+      "CI/CD",
+      "CI/CD",
+      "Xây dựng và tối ưu các công cụ triển khai tự động CI/CD theo mô hình DevOps cho các dịch vụ của công ty\nCó khả năng thích ứng với nhiều mô hình và nhiều loại dự án khác nhau.\nCó khả năng phân tích hệ thống và xác định vấn đề trong quy trình phát triển / triển khai phần mềm và đề xuất giải pháp cải tiến,",
+      "Xây dựng và tối ưu các công cụ triển khai tự động CI/CD theo mô hình DevOps cho các dịch vụ của công ty",
+      "Có khả năng thích ứng với nhiều mô hình và nhiều loại dự án khác nhau.",
+      "Có khả năng phân tích hệ thống và xác định vấn đề trong quy trình phát triển / triển khai phần mềm và đề xuất giải pháp cải tiến,"
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Tốt nghiệp Cao đẳng, Đại học chuyên ngành Công nghệ thông tin hoặc các chuyên ngành khác có liên quan\nCó từ 1 - 2 năm kinh nghiệm làm việc với vị trí tương đương\nKinh nghiệm triển khai CI/CD, sử dụng các công cụ như Jenkins, GitlabCI hoặc ArgoCD\nCó kinh nghiệm làm việc trên các môi trường: Windows Server/Linux/Hyper-V/VMware vSphere\nCó kinh nghiệm với hệ thống giám sát tập trung (Solarwinds, Zabbix, Grafana, Prometheus…), hệ thống thu thập log tập trung (Splunk, Graylog…), hoặc các giải pháp / sản phẩm tương đương\nSử dụng, đọc hiểu tốt các tài liệu kỹ thuật tiếng Anh\nCó khả năng tư duy và phân tích công việc tốt, học hỏi nhanh\nCó khả năng làm việc độc lập và theo nhóm\nCó tinh thần trách nhiệm, chịu được áp lực cao trong công việc\nChăm chỉ, nhiệt tình, tận tâm với công việc\nƯu tiên ứng viên có kinh nghiệm làm việc tại các hệ thống thuộc domain Tài chính, Chứng khoán, Ngân hàng. \nƯu tiên ứng viên am hiểu về ATTT, các tiêu chuẩn bảo mật như PCIDSS, ISO 27000:27001",
+      "Tốt nghiệp Cao đẳng, Đại học chuyên ngành Công nghệ thông tin hoặc các chuyên ngành khác có liên quan",
+      "Có từ 1 - 2 năm kinh nghiệm làm việc với vị trí tương đương",
+      "Có từ 1 - 2 năm kinh nghiệm làm việc với vị trí tương đương",
+      "Kinh nghiệm triển khai CI/CD, sử dụng các công cụ như Jenkins, GitlabCI hoặc ArgoCD",
+      "Có kinh nghiệm làm việc trên các môi trường: Windows Server/Linux/Hyper-V/VMware vSphere",
+      "Có kinh nghiệm với hệ thống giám sát tập trung (Solarwinds, Zabbix, Grafana, Prometheus…), hệ thống thu thập log tập trung (Splunk, Graylog…), hoặc các giải pháp / sản phẩm tương đương",
+      "Sử dụng, đọc hiểu tốt các tài liệu kỹ thuật tiếng Anh",
+      "Có khả năng tư duy và phân tích công việc tốt, học hỏi nhanh",
+      "Có khả năng làm việc độc lập và theo nhóm",
+      "Có tinh thần trách nhiệm, chịu được áp lực cao trong công việc",
+      "Chăm chỉ, nhiệt tình, tận tâm với công việc",
+      "Ưu tiên ứng viên có kinh nghiệm làm việc tại các hệ thống thuộc domain Tài chính, Chứng khoán, Ngân hàng. ",
+      "Ưu tiên ứng viên có kinh nghiệm làm việc tại các hệ thống thuộc domain Tài chính, Chứng khoán, Ngân hàng. ",
+      "Ưu tiên ứng viên am hiểu về ATTT, các tiêu chuẩn bảo mật như PCIDSS, ISO 27000:27001",
+      "Ưu tiên ứng viên am hiểu về ATTT, các tiêu chuẩn bảo mật như PCIDSS, ISO 27000:27001"
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/junior-devops-engineer-linux-english-dnse-3001?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "26/10/2024",
+    "address": [
+      " Tầng 6 tòa nhà Pax Sky số 63-65 Ngô Thì Nhậm, Hai Ba Trung, Ha Noi "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "DevOps",
+      "Linux"
+    ]
+  }
+]

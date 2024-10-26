@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "title": "Network Administrator ( Linux/ System Engineer )",
+    "company": "MB Bank",
+    "salary_range": "You'll love it",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Sản phẩm",
+    "company_size": "1000+ nhân viên",
+    "linh_vuc": "Chưa có",
+    "createdAt": " Đăng 1 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "Triển khai, quản trị, giám sát, vận hành hệ thống mạng bao gồm hệ thống mạng tại Trung tâm dữ liệu và các chi nhánh bao gồm các thành phần như: CORE/ LAN/ WAN/ DMZ/ Internet/…trên nền tảng Cisco/ Cisco ACI\nTriển khai, vận hành, giám sát hệ thống mạng kết nối đến đối tác ngân hàng và tổ chức tài chính trong và ngoài nước nhu Internet/ P2P/ MPLS/….\nXây dựng các tài liệu, hướng dẫn, quy trình đảm bảo hoạt đồng an toàn hệ thống dựa trên các tiêu chuẩn như ISO27001, PCI DSS, NIST …\nGiám sát, phân tích và giải quyết các sự cố về hạ tầng mạng/ bảo mật/ ứng dụng liên quan\n\n ",
+      "Triển khai, quản trị, giám sát, vận hành hệ thống mạng bao gồm hệ thống mạng tại Trung tâm dữ liệu và các chi nhánh bao gồm các thành phần như: CORE/ LAN/ WAN/ DMZ/ Internet/…trên nền tảng Cisco/ Cisco ACI",
+      "Triển khai, vận hành, giám sát hệ thống mạng kết nối đến đối tác ngân hàng và tổ chức tài chính trong và ngoài nước nhu Internet/ P2P/ MPLS/….",
+      "Xây dựng các tài liệu, hướng dẫn, quy trình đảm bảo hoạt đồng an toàn hệ thống dựa trên các tiêu chuẩn như ISO27001, PCI DSS, NIST …",
+      "Giám sát, phân tích và giải quyết các sự cố về hạ tầng mạng/ bảo mật/ ứng dụng liên quan\n\n ",
+      "",
+      ""
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Tốt nghiệp hệ chính quy các trường Đại học/Cao học trở lên\nCó kinh nghiệm theo đúng mô tả công việc là một lợi thế\nCó kinh nghiệm, kiến thức về các mảng liên quan tại Ngân hàng, Tổ chức Tài chính là một lợi thế\nƯu tiên các ứng viên có kinh nghiệm vận hành thực tế các hệ thống mạng SDN như Cisco ACI, SDWAN,...",
+      "Tốt nghiệp hệ chính quy các trường Đại học/Cao học trở lên",
+      "Có kinh nghiệm theo đúng mô tả công việc là một lợi thế",
+      "Có kinh nghiệm, kiến thức về các mảng liên quan tại Ngân hàng, Tổ chức Tài chính là một lợi thế",
+      "Ưu tiên các ứng viên có kinh nghiệm vận hành thực tế các hệ thống mạng SDN như Cisco ACI, SDWAN,..."
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/network-administrator-linux-system-engineer-mb-bank-5538?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "26/10/2024",
+    "address": [
+      " Tòa nhà MB, số 18 Lê Văn Lương, Cau Giay, Ha Noi ",
+      " Chấp nhận Fresher"
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "System Engineer",
+      "Linux",
+      "Networking"
+    ]
+  },
+  {
+    "title": "Embedded Network Engineer (C, Linux, >1.5Y), upto $1500",
+    "company": "MARUSYS VINA",
+    "salary_range": "You'll love it",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "South Korea",
+    "company_model": "Sản phẩm",
+    "company_size": "51-150 nhân viên",
+    "linh_vuc": "Sản Xuất và Kỹ Thuật",
+    "createdAt": " Đăng 10 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "Humax Network is the strategy parter of Marusys Vina which provides stable and reliable networking devices to customers around the world. Our team is in charge of developing Firmware for GPON ONT (HGU, SFU), Home Router Gateway and Wireless AccessPoint, DOCSIS Cable Modem. We are looking for a new teammate who is passionate about creating quality products that bring convenience to customers.",
+      "Humax Network is the strategy parter of Marusys Vina which provides stable and reliable networking devices to customers around the world. ",
+      "Our team is in charge of developing Firmware for GPON ONT (HGU, SFU), Home Router Gateway and Wireless AccessPoint, DOCSIS Cable Modem. We are looking for a new teammate who is passionate about creating quality products that bring convenience to customers.",
+      " ",
+      "Job Description:",
+      "Job Description:",
+      "Job Description:",
+      "Develop and maintain software for home Wi-Fi routers\nWork on network protocols and embedded system software development\nDesign software modules for performance optimization and feature enhancement\nResearch and implement new technologies and trends",
+      "Develop and maintain software for home Wi-Fi routers",
+      "Work on network protocols and embedded system software development",
+      "Design software modules for performance optimization and feature enhancement",
+      "Research and implement new technologies and trends"
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "2. Qualifications",
+      "2. Qualifications",
+      "[Mandatory] At least 1.5 years  of software development experience\n[Mandatory] Experience in embedded system development using C and C++\n[Mandatory] Knowledge of and experience with network protocols (TCP/IP, DHCP, DNS, etc.)\n[Mandatory] Software development experience in Linux environments\n[Mandatory] Strong problem-solving skills and ability to optimize code\n[Preferred]Experience with platforms such as OpenWRT, prplOS, RDK-B, OpenSync\n[Preferred]Experience in developing mesh networks or Wi-Fi-related software\n[Preferred]Experience with OTA (Over-the-Air) updates or firmware development\n[Preferred]Familiarity with performance analysis and optimization tools\n[Preferred]Self-motivated individuals who continuously seek to grow through self-learning",
+      "[Mandatory] At least 1.5 years  of software development experience",
+      "[Mandatory] ",
+      " ",
+      "At least 1.5 years ",
+      "[Mandatory] Experience in embedded system development using C and C++",
+      "[Mandatory] ",
+      " ",
+      "[Mandatory] Knowledge of and experience with network protocols (TCP/IP, DHCP, DNS, etc.)",
+      "[Mandatory] ",
+      " ",
+      "[Mandatory] Software development experience in Linux environments",
+      "[Mandatory] ",
+      " ",
+      "[Mandatory] Strong problem-solving skills and ability to optimize code",
+      "[Mandatory] ",
+      " ",
+      "[Preferred]Experience with platforms such as OpenWRT, prplOS, RDK-B, OpenSync",
+      "[Preferred]Experience in developing mesh networks or Wi-Fi-related software",
+      "[Preferred]Experience with OTA (Over-the-Air) updates or firmware development",
+      "[Preferred]Familiarity with performance analysis and optimization tools",
+      "[Preferred]Self-motivated individuals who continuously seek to grow through self-learning"
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/embedded-network-engineer-linux-1-5yoe-upto-1500-marusys-vina-4549?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "26/10/2024",
+    "address": [
+      " Handico Tower. Pham Hung street, Nam Tu Liem, Ha Noi "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "C language",
+      "Linux"
+    ]
+  },
+  {
+    "title": "Network Engineer (ISP/Enterprise)",
+    "company": "TEDEV TECHNOLOGICAL DEVELOPMENT",
+    "salary_range": "You'll love it",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Thuê ngoài",
+    "company_size": "1-50 nhân viên",
+    "linh_vuc": "Dịch Vụ và Tư Vấn IT",
+    "createdAt": " Đăng 22 ngày trước",
+    "description": [
+      "Mô tả công việc",
+      "Triển khai, thực hiện các dự án liên quan đến Network cho các nhà mạng (ISP) và doanh nghiệp (Enterprise/Service Provider).\nTriển khai vận hành hệ thống mạng\nHỗ trợ khách hàng xử lý lỗi/hỗ trợ tìm lỗi và hỗ trợ khắc phục lỗi trong và sau khi triển khai.\nTriển khai các dự án tối ưu mạng lưới cho khách hàng.\nOnsite thực hiện dự án khi có yêu cầu.\nĐôn đốc, phân chia công việc cho các thành viên trong nhóm phù hợp với kỹ năng từng người, hỗ trợ các thành viên trong nhóm khi có yêu cầu.\nGiám sát và báo cáo tiến độ công việc cho ban giám đốc.",
+      "Triển khai, thực hiện các dự án liên quan đến Network cho các nhà mạng (ISP) và doanh nghiệp (Enterprise/Service Provider).",
+      "Triển khai vận hành hệ thống mạng",
+      "Hỗ trợ khách hàng xử lý lỗi/hỗ trợ tìm lỗi và hỗ trợ khắc phục lỗi trong và sau khi triển khai.",
+      "Triển khai các dự án tối ưu mạng lưới cho khách hàng.",
+      "Onsite thực hiện dự án khi có yêu cầu.",
+      "Đôn đốc, phân chia công việc cho các thành viên trong nhóm phù hợp với kỹ năng từng người, hỗ trợ các thành viên trong nhóm khi có yêu cầu.",
+      "Giám sát và báo cáo tiến độ công việc cho ban giám đốc."
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Làm việc tại Đà Nẵng\nTốt nghiệp ĐH chuyên ngành CNTT, ĐTVT.\nCó kinh nghiệm quản lý dự án là một lợi thế.\nKinh nghiệm từ 2-4 năm trong lĩnh vực CNTT và viễn thông.\nCó kiến thức nâng cao về Network, Security là một lợi thế. Ưu tiên ứng viên có các chứng chỉ CCNP, CCNP Service Provider, JNCIP-SP.\nTiếng Anh tốt (đọc hiểu tài liệu chuyên ngành, giao tiếp tiếng anh cơ bản).\nChủ động, khả năng học hỏi, sẵn sàng chịu trách nhiệm và thử thách, chịu được áp ứng công việc.\nKỹ năng giao tiếp khá và kỹ năng quản lý thời gian tốt.",
+      "Làm việc tại Đà Nẵng",
+      "Tốt nghiệp ĐH chuyên ngành CNTT, ĐTVT.",
+      "Có kinh nghiệm quản lý dự án là một lợi thế.",
+      "Kinh nghiệm từ 2-4 năm trong lĩnh vực CNTT và viễn thông.",
+      "Có kiến thức nâng cao về Network, Security là một lợi thế. Ưu tiên ứng viên có các chứng chỉ CCNP, CCNP Service Provider, JNCIP-SP.",
+      "Tiếng Anh tốt (đọc hiểu tài liệu chuyên ngành, giao tiếp tiếng anh cơ bản).",
+      "Chủ động, khả năng học hỏi, sẵn sàng chịu trách nhiệm và thử thách, chịu được áp ứng công việc.",
+      "Kỹ năng giao tiếp khá và kỹ năng quản lý thời gian tốt.",
+      "Ưu tiên:",
+      "Ưu tiên:",
+      "Kỹ năng code cơ bản, có kiến thức, kinh nghiệm làm việc xây dựng các hệ thống script/tool tự động hóa là lợi thế.\nKinh nghiệm làm việc tại các ISP tại Việt Nam. Chịu được áp lực từ khách hang là lợi thế.",
+      "Kỹ năng code cơ bản, có kiến thức, kinh nghiệm làm việc xây dựng các hệ thống script/tool tự động hóa là lợi thế.",
+      "Kinh nghiệm làm việc tại các ISP tại Việt Nam. Chịu được áp lực từ khách hang là lợi thế."
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/network-engineer-isp-enterprise-tedev-technological-development-1954?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "26/10/2024",
+    "address": [
+      " 15 Mỹ Đa Đông 8, Phường Mỹ An, Ngu Hanh Son, Da Nang "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "Networking",
+      "Security",
+      "System Admin"
+    ]
+  }
+]

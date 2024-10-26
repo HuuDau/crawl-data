@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "title": "Chuyên viên quản trị, vận hành cơ sở dữ liệu (DBA)",
+    "company": "VRB",
+    "salary_range": "You'll love it",
+    "timeWork": "Thứ 2 - Thứ 6",
+    "timeOt": "Không có OT",
+    "nation": "Vietnam",
+    "company_model": "Non-IT",
+    "company_size": "501-1000 nhân viên",
+    "linh_vuc": "Ngân Hàng",
+    "createdAt": " Đăng 4 giờ trước",
+    "description": [
+      "Mô tả công việc",
+      "Chịu trách nhiệm quản lý, quản trị các hệ thống cơ sở dữ liệu;\nQuản trị và vận hành các hệ thống cơ sở dữ liệu chính và dự phòng đảm bảo sự an toàn, tính sẵn sàng và tính toàn vẹn của cơ sở dữ liệu;\nGiám sát sao lưu/ clustering/ mirror/ replication và chống lỗi; Khôi phục và phục hồi cơ sở dữ liệu bị hỏng;\nPhối hợp thực hiện bảo mật và mã hóa cần thiết;\nPhân tích, củng cố và điều chỉnh cơ sở dữ liệu để đạt hiệu quả tối ưu sử dụng tài nguyên hệ thống; Khắc phục sự cố hệ thống cơ sở dữ liệu; Tạo kịch bản, ứng dụng cho tự động hóa nhiệm vụ;\nĐánh giá và đề xuất các công nghệ cơ sở dữ liệu mới;\nThiết kế và xây dựng tài liệu kiến trúc cơ sở dữ liệu;\nXây dựng quy trình, quy định về quản trị, vận hành giám sát hệ thống cơ sở dữ liệu;\nPhối hợp với các bộ phận liên quan trong việc quy hoạch hệ thống; phối hợp với các bộ phận DEV, Test để cung cấp các giải pháp DEV, Test cho các dự án CNTT;\nBáo cáo, tư vấn cho các cấp quản lý những vấn đề phát sinh liên quan tới các hệ thống cơ sở dữ liệu được giao.",
+      "Chịu trách nhiệm quản lý, quản trị các hệ thống cơ sở dữ liệu;",
+      "Quản trị và vận hành các hệ thống cơ sở dữ liệu chính và dự phòng đảm bảo sự an toàn, tính sẵn sàng và tính toàn vẹn của cơ sở dữ liệu;",
+      "Giám sát sao lưu/ clustering/ mirror/ replication và chống lỗi; Khôi phục và phục hồi cơ sở dữ liệu bị hỏng;",
+      "Phối hợp thực hiện bảo mật và mã hóa cần thiết;",
+      "Phân tích, củng cố và điều chỉnh cơ sở dữ liệu để đạt hiệu quả tối ưu sử dụng tài nguyên hệ thống; Khắc phục sự cố hệ thống cơ sở dữ liệu; Tạo kịch bản, ứng dụng cho tự động hóa nhiệm vụ;",
+      "Đánh giá và đề xuất các công nghệ cơ sở dữ liệu mới;",
+      "Thiết kế và xây dựng tài liệu kiến trúc cơ sở dữ liệu;",
+      "Xây dựng quy trình, quy định về quản trị, vận hành giám sát hệ thống cơ sở dữ liệu;",
+      "Phối hợp với các bộ phận liên quan trong việc quy hoạch hệ thống; phối hợp với các bộ phận DEV, Test để cung cấp các giải pháp DEV, Test cho các dự án CNTT;",
+      "Báo cáo, tư vấn cho các cấp quản lý những vấn đề phát sinh liên quan tới các hệ thống cơ sở dữ liệu được giao."
+    ],
+    "yc": [
+      "Yêu cầu công việc",
+      "Trình độ đào tạo: Tốt nghiệp Đại học hoặc trên Đại học trong nước, nước ngoài; chuyên ngành Công nghệ thông tin, Tin học ứng dụng, Điện tử viễn thông, Kỹ thuật thông tin\nYêu cầu kinh nghiệm:",
+      "Trình độ đào tạo: ",
+      "",
+      "Yêu cầu kinh nghiệm:",
+      "Có ít nhất 01 năm kinh nghiệm làm việc trong lĩnh vực quản trị cơ sở dữ liệu, ưu tiên các ứng viên có kinh nghiệm chuyên môn làm việc với cơ sở dữ liệu Oracle;\nCó và/hoặc chứng chỉ Oracle: OCA, OGG, OCP, ... là lợi thế tuyển dụng;",
+      "Có ít nhất 01 năm kinh nghiệm làm việc trong lĩnh vực quản trị cơ sở dữ liệu, ưu tiên các ứng viên có kinh nghiệm chuyên môn làm việc với cơ sở dữ liệu Oracle;",
+      "Có và/hoặc chứng chỉ Oracle: OCA, OGG, OCP, ... là lợi thế tuyển dụng;",
+      "Ngoại ngữ: Có khả năng nói, viết bằng tiếng Anh thành thạo. Chứng chỉ tiếng Anh tương đương trình độ B1 trở lên theo khung tham chiếu trình độ ngoại ngữ chung Châu Âu. Có thể bổ sung bằng tiếng Anh trong vòng 6 tháng.\nTuổi: Không quá 40 tuổi.\nYêu cầu khác:",
+      "Ngoại ngữ:",
+      "",
+      "Tuổi:",
+      "",
+      "Yêu cầu khác:",
+      "Chịu được áp lực công việc, sẵn sàng làm ngoài giờ khi có sự cố cần xử lý.\nNghiêm túc, cầu tiến, chịu khó, nhiệt tình trong công việc.\nỨng viên vui lòng nộp hồ sơ bằng Tiếng Anh",
+      "Chịu được áp lực công việc, sẵn sàng làm ngoài giờ khi có sự cố cần xử lý.",
+      "Nghiêm túc, cầu tiến, chịu khó, nhiệt tình trong công việc.",
+      "Ứng viên vui lòng nộp hồ sơ bằng Tiếng Anh",
+      "Ứng viên vui lòng nộp hồ sơ bằng Tiếng Anh"
+    ],
+    "linkJob": "https://itviec.com/viec-lam-it/chuyen-vien-quan-tri-van-hanh-co-so-du-lieu-dba-vrb-1618?lab_feature=preview_jd_page",
+    "linkCompany": "",
+    "crawlTime": "26/10/2024",
+    "address": [
+      " 75 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội, Hoan Kiem, Ha Noi "
+    ],
+    "workplace": "Tại văn phòng",
+    "skills": [
+      "Database",
+      "SQL",
+      "Oracle"
+    ]
+  }
+]
