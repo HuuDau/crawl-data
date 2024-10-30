@@ -1,0 +1,3443 @@
+[
+  {
+    "id": 2034591,
+    "title": "Business Analyst",
+    "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Define business problems&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Develop business requirements via in</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Depth analysis and investigation&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Determine the necessary scope for the task and manage the schedule.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Propose possible solutions as well as contribute to solving common system problems.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Collaborate with Front-end and Back-end developers to align on specific requirements, facilitate development progress, and oversee project timelines.&nbsp;</span></li>\r\n</ul>",
+    "benefits": [
+      {
+        "icon": null,
+        "value": null
+      }
+    ],
+    "owned_id": 94416,
+    "company": {
+      "id": 94416,
+      "display_name": "LightVision Inc.",
+      "image_logo": "https://assets.topdev.vn/images/2023/11/08/TopDev-LV2_()-1699435426.png",
+      "slug": "lightvision-inc",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/lightvision-inc-94416",
+      "tagline": "Our goal is to solve social issues with AI",
+      "company_size": "25-99",
+      "addresses": {
+        "address_region_ids": [
+          "79"
+        ],
+        "address_region_list": "Thành phố Hồ Chí Minh",
+        "address_region_array": [
+          "Thành phố Hồ Chí Minh"
+        ],
+        "full_addresses": [
+          "Unit 1505, Mplaza, Ben Nghe Ward, District 1, HCMC, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+        ],
+        "sort_addresses": "Quận 1, Hồ Chí Minh",
+        "collection_addresses": [
+          {
+            "id": 190949,
+            "ward": {
+              "id": "26740",
+              "value": "Phường Bến Nghé"
+            },
+            "province": {
+              "id": "79",
+              "value": "Thành phố Hồ Chí Minh"
+            },
+            "district": {
+              "id": "760",
+              "value": "Quận 1"
+            },
+            "postal_code": "700000",
+            "full_address": "Unit 1505, Mplaza, Ben Nghe Ward, District 1, HCMC, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+            "latitude": null,
+            "longitude": null,
+            "street": "Unit 1505, Mplaza, Ben Nghe Ward, District 1, HCMC"
+          }
+        ],
+        "address_short_region_list": "Hồ Chí Minh"
+      },
+      "num_job_openings": 2,
+      "num_employees": "4280",
+      "image_cover": "https://assets.topdev.vn/images/2023/11/08/TopDev-fffff-1699435426.png",
+      "image_galleries": [
+        {
+          "id": 504882,
+          "url": "https://assets.topdev.vn/images/2023/11/08/TopDev-893f69cfab37ee50832efabb2d4f1744-1699435426.png",
+          "path": "/images/2023/11/08/TopDev-893f69cfab37ee50832efabb2d4f1744-1699435426.png",
+          "name": "893f69cfab37ee50832efabb2d4f1744.png",
+          "uploaded": {
+            "date": "08-11-2023",
+            "datetime": "2023-11-08 16:23:47",
+            "since": "11 months ago",
+            "timestamp": 1699435427
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "value": "Peformance Bonus<br>Technical Training"
+        }
+      ],
+      "nationalities_str": "South-Korea",
+      "skills_ids": [
+        3,
+        21,
+        75,
+        1546
+      ],
+      "skills_str": "CSS, Java, HTML, Flutter",
+      "skills_arr": [
+        "CSS",
+        "Java",
+        "HTML",
+        "Flutter"
+      ],
+      "industries_ids": [
+        8726
+      ],
+      "industries_arr": [
+        "Artificial Intelligence"
+      ],
+      "industries_str": "Artificial Intelligence",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "Business Analyst",
+    "skills_arr": [
+      "Business Analyst"
+    ],
+    "skills_ids": [
+      1456
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Fresher",
+    "job_levels_arr": [
+      "Fresher"
+    ],
+    "job_levels_ids": [
+      1617
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "79"
+      ],
+      "address_region_list": "Thành phố Hồ Chí Minh",
+      "address_region_array": [
+        "Thành phố Hồ Chí Minh"
+      ],
+      "full_addresses": [
+        "Unit 1505, Mplaza, Ben Nghe Ward, District 1, HCMC, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+      ],
+      "sort_addresses": "Quận 1, Hồ Chí Minh",
+      "collection_addresses": [
+        {
+          "id": 190949,
+          "ward": {
+            "id": "26740",
+            "value": "Phường Bến Nghé"
+          },
+          "province": {
+            "id": "79",
+            "value": "Thành phố Hồ Chí Minh"
+          },
+          "district": {
+            "id": "760",
+            "value": "Quận 1"
+          },
+          "postal_code": "700000",
+          "full_address": "Unit 1505, Mplaza, Ben Nghe Ward, District 1, HCMC, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+          "latitude": null,
+          "longitude": null,
+          "street": "Unit 1505, Mplaza, Ben Nghe Ward, District 1, HCMC"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/business-analyst-lightvision-inc-2034591",
+    "job_url": "",
+    "slug": "business-analyst-lightvision-inc",
+    "salary": {
+      "is_negotiable": "0",
+      "unit": "MONTH",
+      "min": "10000000",
+      "max": "0",
+      "currency": "VND",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "Từ 10.000.000 VND"
+    },
+    "features": [
+      "FresherPage"
+    ],
+    "packages": [
+      "distinction"
+    ],
+    "is_free": false,
+    "is_basic": false,
+    "is_basic_plus": false,
+    "is_distinction": true,
+    "is_salary_visible": true,
+    "published": {
+      "date": "22-10-2024",
+      "datetime": "00:00:00 22-10-2024",
+      "since": "6 ngày trước"
+    },
+    "refreshed": {
+      "date": "27-10-2024",
+      "datetime": "02:00:05 27-10-2024",
+      "since": "1 ngày trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "Qualifications:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Bachelor's degree in IT, Computer Science, Business, Economics",
+          "Finance, or a related field.",
+          "Strong skills in stakeholder engagement and leadership."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Priority Conditions:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Fluent in English. (Proficiency in advanced level English required)"
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Experience:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Not required, have experience in a business analyst position is preferred",
+          "Experience in developing new businesses or planning and implementing new projects of IT."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Certification:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Bachelor's degree or equivalent"
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Technical Competencies:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "IT System & Database Architecture: Understanding of IT system and database architecture.",
+          "System Integration: Knowledge of system integration of IT systems."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Note: Please send CV in English"
+        ],
+        "icon": null
+      }
+    ]
+  },
+  {
+    "id": 2034435,
+    "title": "Chuyên viên Phân tích nghiệp vụ và kiểm thử ứng dụng",
+    "content": "<p style=\"text-align: justify;\"><strong><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">VAI TR&Ograve;:</span></strong></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave; người trực tiếp khảo s&aacute;t, thu thập th&ocirc;ng tin, ph&acirc;n t&iacute;ch v&agrave; đặc tả theo y&ecirc;u cầu của nghiệp vụ.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave; người trực tiếp thực hiện qu&aacute; tr&igrave;nh thử nghiệm v&agrave; nghiệm thu c&aacute;c dịch vụ được c&aacute;c nh&agrave; cung cấp (c&aacute;c ph&ograve;ng ban của Khối C&ocirc;ng nghệ v&agrave; c&aacute;c đối t&aacute;c thu&ecirc; b&ecirc;n ngo&agrave;i) trước khi đưa v&agrave;o vận h&agrave;nh phục vụ người d&ugrave;ng.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Đưa ra những giải ph&aacute;p, s&aacute;ng kiến ph&aacute;t triển phần mềm nội bộ cho ng&acirc;n h&agrave;ng.</span></li>\r\n</ul>",
+    "benefits": [
+      {
+        "icon": null,
+        "value": null
+      }
+    ],
+    "owned_id": 94116,
+    "company": {
+      "id": 94116,
+      "display_name": "Ngân Hàng TMCP Đông Á (DongA Bank)",
+      "image_logo": "https://assets.topdev.vn/images/2023/06/22/TopDev-logo-Dong-A-Bank-1687423602.png",
+      "slug": "ngan-hang-tmcp-dong-a-donga-bank",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/ngan-hang-tmcp-dong-a-donga-bank-94116",
+      "tagline": "Ngân hàng trách nhiệm, Ngân hàng của những trái tim.",
+      "company_size": "Hơn 1000",
+      "addresses": {
+        "address_region_ids": [
+          "79"
+        ],
+        "address_region_list": "Thành phố Hồ Chí Minh",
+        "address_region_array": [
+          "Thành phố Hồ Chí Minh"
+        ],
+        "full_addresses": [
+          "418 Trần Phú, Phường 07, Quận 5, Thành phố Hồ Chí Minh"
+        ],
+        "sort_addresses": "Quận 5, Hồ Chí Minh",
+        "collection_addresses": [
+          {
+            "id": 176781,
+            "ward": {
+              "id": "27322",
+              "value": "Phường 07"
+            },
+            "province": {
+              "id": "79",
+              "value": "Thành phố Hồ Chí Minh"
+            },
+            "district": {
+              "id": "774",
+              "value": "Quận 5"
+            },
+            "postal_code": "700000",
+            "full_address": "418 Trần Phú, Phường 07, Quận 5, Thành phố Hồ Chí Minh",
+            "latitude": null,
+            "longitude": null,
+            "street": "418 Trần Phú"
+          }
+        ],
+        "address_short_region_list": "Hồ Chí Minh"
+      },
+      "num_job_openings": 4,
+      "num_employees": "4284",
+      "image_cover": "https://assets.topdev.vn/images/2024/10/02/TopDev-685301e50e15f057d45c899348c44895-1727854162.png",
+      "image_galleries": [
+        {
+          "id": 436822,
+          "url": "https://assets.topdev.vn/images/2023/06/22/TopDev-e0dbaafaa33f86d73622b2ff4707fcaf-1687423275.jpg",
+          "path": "/images/2023/06/22/TopDev-e0dbaafaa33f86d73622b2ff4707fcaf-1687423275.jpg",
+          "name": "e0dbaafaa33f86d73622b2ff4707fcaf.jpg",
+          "uploaded": {
+            "date": "22-06-2023",
+            "datetime": "2023-06-22 15:41:16",
+            "since": "1 year ago",
+            "timestamp": 1687423276
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 436823,
+          "url": "https://assets.topdev.vn/images/2023/06/22/TopDev-0efaa1d769bcd4dd1a028ee2a7611507-1687423276.jpg",
+          "path": "/images/2023/06/22/TopDev-0efaa1d769bcd4dd1a028ee2a7611507-1687423276.jpg",
+          "name": "0efaa1d769bcd4dd1a028ee2a7611507.jpg",
+          "uploaded": {
+            "date": "22-06-2023",
+            "datetime": "2023-06-22 15:41:16",
+            "since": "1 year ago",
+            "timestamp": 1687423276
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 436824,
+          "url": "https://assets.topdev.vn/images/2023/06/22/TopDev-Hinh-2-(Hoi-so)--1687423277.jpg",
+          "path": "/images/2023/06/22/TopDev-Hinh-2-(Hoi-so)--1687423277.jpg",
+          "name": "Hình 2 (Hội sở) .jpg",
+          "uploaded": {
+            "date": "22-06-2023",
+            "datetime": "2023-06-22 15:41:17",
+            "since": "1 year ago",
+            "timestamp": 1687423277
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "icon": null,
+          "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Mức lương và các chế độ phúc lợi đãi ngộ xứng đáng.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Bảo hiểm xã hội, bảo hiểm y tế và chế độ nghỉ mát.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổ chức thăm khám, kiểm tra sức khỏe định kỳ miễn phí cho nhân viên hằng năm</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thời gian làm việc: Thứ 2 – 6, Sáng từ 7g30-11g30, Chiều từ 13g00-17g00</span></li>\r\n</ul>"
+        }
+      ],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        21,
+        213,
+        6034
+      ],
+      "skills_str": "Java, DevOps, Oracle & Plsql",
+      "skills_arr": [
+        "Java",
+        "DevOps",
+        "Oracle & Plsql"
+      ],
+      "industries_ids": [
+        3935
+      ],
+      "industries_arr": [
+        "Ngân Hàng"
+      ],
+      "industries_str": "Ngân Hàng",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "SQL, Tester, Business Analyst, PL/SQL, Mobile Tester",
+    "skills_arr": [
+      "SQL",
+      "Tester",
+      "Business Analyst",
+      "PL/SQL",
+      "Mobile Tester"
+    ],
+    "skills_ids": [
+      28,
+      78,
+      1456,
+      1463,
+      8071
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Middle, Senior",
+    "job_levels_arr": [
+      "Middle",
+      "Senior"
+    ],
+    "job_levels_ids": [
+      8665,
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "79"
+      ],
+      "address_region_list": "Thành phố Hồ Chí Minh",
+      "address_region_array": [
+        "Thành phố Hồ Chí Minh"
+      ],
+      "full_addresses": [
+        "418 Trần Phú, Phường 07, Quận 5, Thành phố Hồ Chí Minh"
+      ],
+      "sort_addresses": "Quận 5, Hồ Chí Minh",
+      "collection_addresses": [
+        {
+          "id": 176781,
+          "ward": {
+            "id": "27322",
+            "value": "Phường 07"
+          },
+          "province": {
+            "id": "79",
+            "value": "Thành phố Hồ Chí Minh"
+          },
+          "district": {
+            "id": "774",
+            "value": "Quận 5"
+          },
+          "postal_code": "700000",
+          "full_address": "418 Trần Phú, Phường 07, Quận 5, Thành phố Hồ Chí Minh",
+          "latitude": null,
+          "longitude": null,
+          "street": "418 Trần Phú"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/chuyen-vien-phan-tich-nghiep-vu-va-kiem-thu-ung-dung-ngan-hang-tmcp-dong-a-donga-bank-2034435",
+    "job_url": "",
+    "slug": "chuyen-vien-phan-tich-nghiep-vu-va-kiem-thu-ung-dung-ngan-hang-tmcp-dong-a-donga-bank",
+    "salary": {
+      "is_negotiable": 0,
+      "unit": "MONTH",
+      "min": 0,
+      "max": 0,
+      "currency": "VND",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "Thương lượng"
+    },
+    "features": [],
+    "packages": [
+      "distinction"
+    ],
+    "is_free": false,
+    "is_basic": false,
+    "is_basic_plus": false,
+    "is_distinction": true,
+    "is_salary_visible": true,
+    "published": {
+      "date": "01-10-2024",
+      "datetime": "00:00:00 01-10-2024",
+      "since": "3 tuần trước"
+    },
+    "refreshed": {
+      "date": "26-10-2024",
+      "datetime": "02:00:06 26-10-2024",
+      "since": "2 ngày trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "Trình độ - Kinh nghiệm"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Trình độ học vấn Đại học trở lên. Chuyên ngành: Công nghệ thông tin, Hệ thống thông tin quản lý, Điện tử viễn thông, Công nghệ phần mềm và các chuyên ngành khác liên quan đến nghiệp vụ thực hiện.",
+          "Tối thiểu 02 năm kinh nghiệm trong thu thập, phân tích và đặc tả yêu cầu của nghiệp vụ.",
+          "Tối thiểu 02 năm kinh nghiệm trong kiểm thử các ứng dụng",
+          "Kinh nghiệm về các công việc đặc tả, thiết kế các ứng dụng.",
+          "Kinh nghiệm query dữ liệu bằng PL/SQL"
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kiến thức"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Có khả năng tiếp cận, nắm bắt nhanh các công cụ BA/testing mới.",
+          "Có kinh nghiệm về ứng dụng tài chính.",
+          "Ưu tiên có kinh nghiệm trong kiểm thử các ứng dụng mobile.",
+          "Ưu tiên có kinh nghiệm đặc tả, thiết kế các ứng dụng mobile.",
+          "Hiểu biết về các hoạt động, tính chất và quy mô kinh doanh của Ngân hàng."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kỹ năng"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Có khả năng tìm hiểu, nghiên cứu và ứng dụng các công nghệ mới.",
+          "Chủ động trong công việc, có khả năng làm việc nhóm.",
+          "Tiếng Anh đọc & hiểu tài liệu kỹ thuật tốt."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Các yêu cầu khác"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Có tinh thần học hỏi, cầu tiến và trách nhiệm cao.",
+          "Cẩn thận, tiếp thu nhanh các giải pháp công nghệ mới và vận dụng vào trong công việc.",
+          "Chịu được áp lực công việc cao."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034547,
+    "title": "Kỹ sư giải pháp nghiệp vụ  (Senior/Leader Software Engineer)",
+    "content": "",
+    "benefits": [
+      {
+        "icon": null,
+        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thu nhập hấp dẫn.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Phụ cấp ăn trưa: 730.000 VNĐ/th&aacute;ng. Điện thoại: 200.000 VNĐ/th&aacute;ng.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế độ thưởng theo qu&yacute;, năm; tiền qu&agrave; c&aacute;c ng&agrave;y Lễ, Tết, ng&agrave;y th&agrave;nh lập Tập đo&agrave;n; hỗ trợ chi ph&iacute; nghỉ dưỡng hằng năm...</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hưởng Bảo hiểm X&atilde; hội, Bảo hiểm Y tế theo quy định của Luật Lao động v&agrave; của Tập đo&agrave;n</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Bảo hiểm sức khỏe (Chi trả 100% theo thực tế ph&aacute;t sinh chi ph&iacute; thuộc phạm vi bảo hiểm, Kh&ocirc;ng vượt qu&aacute; hạn mức bảo hiểm)</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường chuy&ecirc;n nghiệp, s&aacute;ng tạo, cạnh tranh, ph&aacute;t triển, năng động c&oacute; nhiều cơ hội thăng tiến.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội học tập, nghi&ecirc;n cứu, l&agrave;m việc trong nước v&agrave; c&aacute;c nước tr&ecirc;n thế giới.</span></li>\r\n</ul>"
+      }
+    ],
+    "owned_id": 91886,
+    "company": {
+      "id": 91886,
+      "display_name": "Viettel Solutions",
+      "image_logo": "https://assets.topdev.vn/images/2021/05/21/logoVc5HjjKnsBRMpEsj0Rymo1szjM9wMNWw-8CUJ7.png",
+      "slug": "viettel-solutions",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-solutions-91886",
+      "tagline": "Say it your way",
+      "company_size": "Hơn 1000",
+      "addresses": {
+        "address_region_ids": [
+          "01",
+          "79",
+          "48"
+        ],
+        "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Đà Nẵng",
+        "address_region_array": [
+          "Thành phố Hà Nội",
+          "Thành phố Hồ Chí Minh",
+          "Thành phố Đà Nẵng"
+        ],
+        "full_addresses": [
+          "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+          "Tầng 19 sảnh A2, Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+          "Tòa nhà 271 Nguyễn Văn Linh, Phường Vĩnh Trung, Quận Thanh Khê, Thành phố Đà Nẵng"
+        ],
+        "sort_addresses": "Quận Nam Từ Liêm, Hà Nội - Quận 10, Hồ Chí Minh - Quận Thanh Khê, Đà Nẵng",
+        "collection_addresses": [
+          {
+            "id": 123852,
+            "ward": {
+              "id": "00626",
+              "value": "Phường Mỹ Đình 2"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "019",
+              "value": "Quận Nam Từ Liêm"
+            },
+            "postal_code": "100000",
+            "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+          },
+          {
+            "id": 124657,
+            "ward": {
+              "id": "27172",
+              "value": "Phường 12"
+            },
+            "province": {
+              "id": "79",
+              "value": "Thành phố Hồ Chí Minh"
+            },
+            "district": {
+              "id": "771",
+              "value": "Quận 10"
+            },
+            "postal_code": "700000",
+            "full_address": "Tầng 19 sảnh A2, Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tầng 19 sảnh A2, Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám"
+          },
+          {
+            "id": 130598,
+            "ward": {
+              "id": "20218",
+              "value": "Phường Vĩnh Trung"
+            },
+            "province": {
+              "id": "48",
+              "value": "Thành phố Đà Nẵng"
+            },
+            "district": {
+              "id": "491",
+              "value": "Quận Thanh Khê"
+            },
+            "postal_code": "550000",
+            "full_address": "Tòa nhà 271 Nguyễn Văn Linh, Phường Vĩnh Trung, Quận Thanh Khê, Thành phố Đà Nẵng",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tòa nhà 271 Nguyễn Văn Linh"
+          }
+        ],
+        "address_short_region_list": "Hà Nội, Hồ Chí Minh, Đà Nẵng"
+      },
+      "num_job_openings": 2,
+      "num_employees": "4284",
+      "image_cover": "https://assets.topdev.vn/images/2020/12/15/ViettelSolution-Image-2-xbEWy.png",
+      "image_galleries": [
+        {
+          "id": 207837,
+          "url": "https://assets.topdev.vn/images/2020/12/15/ViettelSolution-Image-SgFyB.png",
+          "path": "/images/2020/12/15/ViettelSolution-Image-SgFyB.png",
+          "name": "ViettelSolution-Image.png",
+          "uploaded": {
+            "date": "15-12-2020",
+            "datetime": "2020-12-15 17:22:11",
+            "since": "3 years ago",
+            "timestamp": 1608027731
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 207838,
+          "url": "https://assets.topdev.vn/images/2020/12/15/viettelsolution-image-1-hz68Q.png",
+          "path": "/images/2020/12/15/viettelsolution-image-1-hz68Q.png",
+          "name": "viettelsolution-image-1.png",
+          "uploaded": {
+            "date": "15-12-2020",
+            "datetime": "2020-12-15 17:22:11",
+            "since": "3 years ago",
+            "timestamp": 1608027731
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 207839,
+          "url": "https://assets.topdev.vn/images/2020/12/15/eaa4127d83e37844bb4d51f4343472d8-HWCv8.png",
+          "path": "/images/2020/12/15/eaa4127d83e37844bb4d51f4343472d8-HWCv8.png",
+          "name": "eaa4127d83e37844bb4d51f4343472d8.png",
+          "uploaded": {
+            "date": "15-12-2020",
+            "datetime": "2020-12-15 17:22:11",
+            "since": "3 years ago",
+            "timestamp": 1608027731
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 207840,
+          "url": "https://assets.topdev.vn/images/2020/12/15/ViettelSolution-Image-3-rFBxL.png",
+          "path": "/images/2020/12/15/ViettelSolution-Image-3-rFBxL.png",
+          "name": "ViettelSolution-Image-3.png",
+          "uploaded": {
+            "date": "15-12-2020",
+            "datetime": "2020-12-15 17:22:11",
+            "since": "3 years ago",
+            "timestamp": 1608027731
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 207841,
+          "url": "https://assets.topdev.vn/images/2020/12/15/ViettelSolution-Image-4-S0mSI.png",
+          "path": "/images/2020/12/15/ViettelSolution-Image-4-S0mSI.png",
+          "name": "ViettelSolution-Image-4.png",
+          "uploaded": {
+            "date": "15-12-2020",
+            "datetime": "2020-12-15 17:22:11",
+            "since": "3 years ago",
+            "timestamp": 1608027731
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "icon": null,
+          "value": "<p>Cơ hội được l&agrave;m việc tại Tập đo&agrave;n ti&ecirc;n phong mở đường , kiến tạo tương lai th&ocirc;ng minh, gắn kết của Việt Nam.<br />Cơ hội được thử sức trong những lĩnh vực c&ocirc;ng nghệ ti&ecirc;n tiến, hiện đại nhất.<br />M&ocirc;i trường l&agrave;m việc cởi mở v&agrave; năng động, khuyến kh&iacute;ch trao đổi &yacute; tưởng ở mọi cấp, cho ph&eacute;p bạn l&agrave;m việc, s&aacute;ng tạo theo c&aacute;ch ri&ecirc;ng.<br />Được khơi gợi cảm hứng l&agrave;m việc với văn ph&ograve;ng xanh, kh&ocirc;ng gian mở, hiện đại ti&ecirc;u chuẩn quốc tế.<br />&Aacute;p dụng kiến thức, kĩ năng, kinh nghiệm chuy&ecirc;n m&ocirc;n giải quyết c&aacute;c b&agrave;i to&aacute;n hấp dẫn, thử th&aacute;ch tại Viettel.<br />Cơ hội thử sức ở nhiều lĩnh vực, sản phẩm v&agrave; quốc gia kh&aacute;c nhau g&oacute;p phần thay đổi x&atilde; hội.<br />Viettel cam kết cho bạn nền tảng vững chắc để học hỏi v&agrave; ph&aacute;t triển.<br />Sẵn s&agrave;ng trao quyền, cơ hội đột ph&aacute; cho những người trẻ tuổi.<br />Cơ hội học hỏi từ c&aacute;c chuy&ecirc;n gia h&agrave;ng đầu, l&atilde;nh đạo v&agrave; đồng nghiệp ưu t&uacute;.<br />Cơ hội được đ&agrave;o tạo, trao dồi kĩ năng định k&igrave; v&agrave; nhu cầu thực tế.<br />Lương thưởng cạnh tranh tr&ecirc;n thị trường, phản &aacute;nh đ&uacute;ng năng lực thực tế.<br />Được thư gi&atilde;n, khơi nguồn s&aacute;ng tạo với Happy Time mỗi ng&agrave;y.<br />Thưởng thức bữa trưa thơm ngon tại Tập đo&agrave;n, được chọn lọc bởi c&aacute;c chuy&ecirc;n gia dinh dưỡng.<br />Cơ hội tham gia gắn kết với tập thể, tổ chức với c&aacute;c hoạt động team building th&uacute; vị.<br />Chế độ chăm s&oacute;c y tế đặc biệt cho CBNV v&agrave; người th&acirc;n với trang thiết bị hiện đại.<br />Thời gian l&agrave;m việc: Chế độ 8 tiếng/ng&agrave;y từ Thứ 2 &ndash; Thứ 6 (Đi l&agrave;m 1 ng&agrave;y thứ 7 đầu ti&ecirc;n mỗi th&aacute;ng), s&aacute;ng 08:00-12:00, chiều 13:30-17:30</p>"
+        }
+      ],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        1,
+        8,
+        9,
+        21,
+        73,
+        1552
+      ],
+      "skills_str": "PHP, Android, iOS, Java, .NET, Java Core",
+      "skills_arr": [
+        "PHP",
+        "Android",
+        "iOS",
+        "Java",
+        ".NET",
+        "Java Core"
+      ],
+      "industries_ids": [
+        3939
+      ],
+      "industries_arr": [
+        "Phần Mềm"
+      ],
+      "industries_str": "Phần Mềm",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "UML, Business Analyst, System Architect",
+    "skills_arr": [
+      "UML",
+      "Business Analyst",
+      "System Architect"
+    ],
+    "skills_ids": [
+      107,
+      1456,
+      8623
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Trưởng Nhóm, Senior",
+    "job_levels_arr": [
+      "Trưởng Nhóm",
+      "Senior"
+    ],
+    "job_levels_ids": [
+      7276,
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "01"
+      ],
+      "address_region_list": "Thành phố Hà Nội",
+      "address_region_array": [
+        "Thành phố Hà Nội"
+      ],
+      "full_addresses": [
+        "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội"
+      ],
+      "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+      "collection_addresses": [
+        {
+          "id": 123852,
+          "ward": {
+            "id": "00626",
+            "value": "Phường Mỹ Đình 2"
+          },
+          "province": {
+            "id": "01",
+            "value": "Thành phố Hà Nội"
+          },
+          "district": {
+            "id": "019",
+            "value": "Quận Nam Từ Liêm"
+          },
+          "postal_code": "100000",
+          "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+          "latitude": null,
+          "longitude": null,
+          "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/ky-su-giai-phap-nghiep-vu-senior-leader-software-engineer-viettel-solutions-2034547",
+    "job_url": "",
+    "slug": "ky-su-giai-phap-nghiep-vu-senior-leader-software-engineer-viettel-solutions",
+    "salary": {
+      "is_negotiable": "1",
+      "unit": "MONTH",
+      "min": 0,
+      "max": 0,
+      "currency": "VND",
+      "min_estimate": "0",
+      "max_estimate": "0",
+      "currency_estimate": "VND",
+      "value": "Thương lượng"
+    },
+    "features": [],
+    "packages": [
+      "distinction"
+    ],
+    "is_free": false,
+    "is_basic": false,
+    "is_basic_plus": false,
+    "is_distinction": true,
+    "is_salary_visible": true,
+    "published": {
+      "date": "15-10-2024",
+      "datetime": "00:00:00 15-10-2024",
+      "since": "1 tuần trước"
+    },
+    "refreshed": {
+      "date": "25-10-2024",
+      "datetime": "00:00:14 25-10-2024",
+      "since": "3 ngày trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "Tốt nghiệp Đại học loại Khá trở lên các khối ngành CNTT, Điện tử viễn thông...",
+          "Có tối thiểu 03 năm kinh nghiệm liên quan đến vị trí ứng tuyển; kinh nghiệm quản lý team",
+          "Có chứng chỉ tiếng anh quốc tế Toeic 650 điểm hoặc các chứng chỉ tương đương khác.",
+          "Có kiến thức về các kĩ thuật phân tích nghiệp vụ, mô hình hóa các luồng nghiệp vụ như: các mô hình chức năng nghiệp vụ, mô hình dữ liệu quan hệ, ngôn ngữ UML, tạo Use case, BPMN,..",
+          "Biết cách xây dựng prototype của sản phẩm/ứng dụng.",
+          "Có khả năng giao tiếp, diễn đạt tốt",
+          "Tư duy phản biện",
+          "Kỹ năng đàm phán",
+          "Tổ chức các cuộc họp."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034564,
+    "title": "Business Analyst (Korean speaking)",
+    "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">C&ocirc;ng ty TNHH Megazone Việt Nam tuyển dụng Business Analyst (Korean speaking). Megazone l&agrave; c&ocirc;ng ty IT c&oacute; trụ sở tại H&agrave;n Quốc, chuy&ecirc;n về ph&aacute;t triển phần mềm, điện to&aacute;n đ&aacute;m m&acirc;y v&agrave; c&aacute;c giải ph&aacute;p c&ocirc;ng nghệ.</span></p>",
+    "benefits": [
+      {
+        "icon": null,
+        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thử việc 2 th&aacute;ng với 100% lương</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Đ&oacute;ng bảo hiểm full lương sau thời gian thử việc</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tham gia g&oacute;i bảo hiểm sức khảo PVI, kh&aacute;m sức khỏe định kỳ h&agrave;ng năm</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Lương th&aacute;ng 13, thưởng sinh nhật, thưởng năm mới, qu&agrave; Trung thu, qu&agrave; Gi&aacute;ng sinh, qu&agrave; 8/3, qu&agrave; 20/10,...</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được đ&agrave;o tạo về IT, t&agrave;i trợ chi ph&iacute; thi lấy chứng chỉ nghiệp vụ</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế độ đ&aacute;nh gi&aacute; performance, tăng lương định kỳ</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thời gian l&agrave;m việc: 8:30 &ndash; 17:30 từ thứ Hai đến thứ S&aacute;u</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Địa điểm l&agrave;m việc: Lotte Center Hanoi, 54 Liễu Giai, Ba Đ&igrave;nh, H&agrave; Nội</span></li>\r\n</ul>"
+      }
+    ],
+    "owned_id": 91783,
+    "company": {
+      "id": 91783,
+      "display_name": "Megazone Vietnam Company Limited",
+      "image_logo": "https://assets.topdev.vn/images/2020/11/26/Megazone-Vietnam-Logo-IICyL.png",
+      "slug": "megazone-vietnam-company-limited",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/megazone-vietnam-company-limited-91783",
+      "tagline": "",
+      "company_size": "25-99",
+      "addresses": {
+        "address_region_ids": [
+          "01",
+          "79"
+        ],
+        "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh",
+        "address_region_array": [
+          "Thành phố Hà Nội",
+          "Thành phố Hồ Chí Minh"
+        ],
+        "full_addresses": [
+          "Tầng 27 tòa Đông, Lotte Center Hà Nội, 54 Liễu Giai, Phường Cống Vị, Quận Ba Đình, Thành phố Hà Nội",
+          "Tòa nhà Bitexco, Ho Chi Minh City, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+        ],
+        "sort_addresses": "Quận Ba Đình, Hà Nội - Quận 1, Hồ Chí Minh",
+        "collection_addresses": [
+          {
+            "id": 121655,
+            "ward": {
+              "id": "00007",
+              "value": "Phường Cống Vị"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "001",
+              "value": "Quận Ba Đình"
+            },
+            "postal_code": "100000",
+            "full_address": "Tầng 27 tòa Đông, Lotte Center Hà Nội, 54 Liễu Giai, Phường Cống Vị, Quận Ba Đình, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tầng 27 tòa Đông, Lotte Center Hà Nội, 54 Liễu Giai"
+          },
+          {
+            "id": 194835,
+            "ward": {
+              "id": "26740",
+              "value": "Phường Bến Nghé"
+            },
+            "province": {
+              "id": "79",
+              "value": "Thành phố Hồ Chí Minh"
+            },
+            "district": {
+              "id": "760",
+              "value": "Quận 1"
+            },
+            "postal_code": "700000",
+            "full_address": "Tòa nhà Bitexco, Ho Chi Minh City, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tòa nhà Bitexco, Ho Chi Minh City"
+          }
+        ],
+        "address_short_region_list": "Hà Nội, Hồ Chí Minh"
+      },
+      "num_job_openings": 2,
+      "num_employees": "4280",
+      "image_cover": "https://assets.topdev.vn/images/2023/06/16/TopDev-Screenshot-2023-06-16-134948-1686898222.png",
+      "image_galleries": [
+        {
+          "id": 433958,
+          "url": "https://assets.topdev.vn/images/2023/06/16/TopDev-34f251de7355ae23679526d7481bfcc5-1686898300.png",
+          "path": "/images/2023/06/16/TopDev-34f251de7355ae23679526d7481bfcc5-1686898300.png",
+          "name": "34f251de7355ae23679526d7481bfcc5.png",
+          "uploaded": {
+            "date": "16-06-2023",
+            "datetime": "2023-06-16 13:51:40",
+            "since": "1 year ago",
+            "timestamp": 1686898300
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 433959,
+          "url": "https://assets.topdev.vn/images/2023/06/16/TopDev-0fca6769821c8dda97ba41ebf93123eb-1686898301.png",
+          "path": "/images/2023/06/16/TopDev-0fca6769821c8dda97ba41ebf93123eb-1686898301.png",
+          "name": "0fca6769821c8dda97ba41ebf93123eb.png",
+          "uploaded": {
+            "date": "16-06-2023",
+            "datetime": "2023-06-16 13:51:41",
+            "since": "1 year ago",
+            "timestamp": 1686898301
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "icon": null,
+          "value": "<p>Product company with global reputation specialized in end-point security<br />Very attractive salary<br />Global standard working environment<br />100% salary during probation period<br />13th month salary<br />Birthday Bonus, New Year Bonus<br />Social Insurance, health insurance, unemployment insurance on total salary after probation period<br />Bao Viet Healthcare Insurance<br />Health Check<br />Team Building<br />Flexible working hours<br />Training &amp; development opportunities<br />Laptop and PC for everyone</p>"
+        }
+      ],
+      "nationalities_str": "South-Korea, Vietnam",
+      "skills_ids": [
+        1,
+        3,
+        12,
+        21,
+        22,
+        28,
+        209,
+        210,
+        211,
+        213,
+        214,
+        237,
+        353,
+        1298,
+        5317,
+        5928
+      ],
+      "skills_str": "PHP, CSS, Unity, Java, JavaScript, SQL, Front-End, Back-End, Full-Stack, DevOps, ReactJS, Motion Graphic Design, HTML & CSS, Cloud, 3D Modelling, Videos Editor",
+      "skills_arr": [
+        "PHP",
+        "CSS",
+        "Unity",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Front-End",
+        "Back-End",
+        "Full-Stack",
+        "DevOps",
+        "ReactJS",
+        "Motion Graphic Design",
+        "HTML & CSS",
+        "Cloud",
+        "3D Modelling",
+        "Videos Editor"
+      ],
+      "industries_ids": [
+        3939,
+        3936,
+        6845
+      ],
+      "industries_arr": [
+        "Phần Mềm",
+        "Dịch vụ doanh nghiệp",
+        "E-commerce Platforms"
+      ],
+      "industries_str": "Phần Mềm, Dịch vụ doanh nghiệp, E-commerce Platforms",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "Business Analyst, IT Comtor, Korean",
+    "skills_arr": [
+      "Business Analyst",
+      "IT Comtor",
+      "Korean"
+    ],
+    "skills_ids": [
+      1456,
+      1556,
+      7351
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Senior",
+    "job_levels_arr": [
+      "Senior"
+    ],
+    "job_levels_ids": [
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "01"
+      ],
+      "address_region_list": "Thành phố Hà Nội",
+      "address_region_array": [
+        "Thành phố Hà Nội"
+      ],
+      "full_addresses": [
+        "Tầng 27 tòa Đông, Lotte Center Hà Nội, 54 Liễu Giai, Phường Cống Vị, Quận Ba Đình, Thành phố Hà Nội"
+      ],
+      "sort_addresses": "Quận Ba Đình, Hà Nội",
+      "collection_addresses": [
+        {
+          "id": 121655,
+          "ward": {
+            "id": "00007",
+            "value": "Phường Cống Vị"
+          },
+          "province": {
+            "id": "01",
+            "value": "Thành phố Hà Nội"
+          },
+          "district": {
+            "id": "001",
+            "value": "Quận Ba Đình"
+          },
+          "postal_code": "100000",
+          "full_address": "Tầng 27 tòa Đông, Lotte Center Hà Nội, 54 Liễu Giai, Phường Cống Vị, Quận Ba Đình, Thành phố Hà Nội",
+          "latitude": null,
+          "longitude": null,
+          "street": "Tầng 27 tòa Đông, Lotte Center Hà Nội, 54 Liễu Giai"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/business-analyst-korean-speaking-megazone-vietnam-company-limited-2034564",
+    "job_url": "",
+    "slug": "business-analyst-korean-speaking-megazone-vietnam-company-limited",
+    "salary": {
+      "is_negotiable": "0",
+      "unit": "MONTH",
+      "min": "0",
+      "max": "1500",
+      "currency": "USD",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "Lên tới 1.500 USD"
+    },
+    "features": [],
+    "packages": [
+      "basic-plus"
+    ],
+    "is_free": false,
+    "is_basic": false,
+    "is_basic_plus": true,
+    "is_distinction": false,
+    "is_salary_visible": true,
+    "published": {
+      "date": "18-10-2024",
+      "datetime": "00:00:00 18-10-2024",
+      "since": "1 tuần trước"
+    },
+    "refreshed": {
+      "date": "28-10-2024",
+      "datetime": "02:00:06 28-10-2024",
+      "since": "19 giờ trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "Thành thạo 4 kỹ năng nghe, nói, đọc, viết tiếng Hàn. Ưu tiên ứng viên giao tiếp được cả tiếng Anh (mức trung bình);",
+          "Ứng viên có trên 5 năm kinh nghiệm làm việc ở vị trí BA hoặc IT Comtor;",
+          "Ứng viên có trên 5 năm làm việc trực tiếp với người Hàn Quốc;",
+          "Có kinh nghiệm tham gia các dự án cộng tác (Solution based SI/SM project or ITO project);",
+          "Có kinh nghiệm tham gia các dự án Platform-based (Enterprise solution) Ex. CRM lives Salesforce, v.v;",
+          "Có kỹ năng quản lý resource và workload;",
+          "Có kỹ năng điều phối lịch trình và quản lý tiến độ dự án (Dựa trên Road map);",
+          "Có kinh nghiệm sử dụng các hệ thống quản lý dự án như Jira, v.v."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034620,
+    "title": "Viettel Telecom - Product Manager (Quản lý sản phẩm)",
+    "content": "",
+    "benefits": [
+      {
+        "icon": null,
+        "value": null
+      }
+    ],
+    "owned_id": 84011,
+    "company": {
+      "id": 84011,
+      "display_name": "Viettel Group",
+      "image_logo": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Logo-Original-1675389520.png",
+      "slug": "viettel-group",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-group-84011",
+      "tagline": "Viettel - Show us your way",
+      "company_size": "Hơn 1000",
+      "addresses": {
+        "address_region_ids": [
+          "01",
+          "01",
+          "01",
+          "79",
+          "01",
+          "01",
+          "01",
+          "01"
+        ],
+        "address_region_list": "Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội",
+        "address_region_array": [
+          "Thành phố Hà Nội",
+          "Thành phố Hà Nội",
+          "Thành phố Hà Nội",
+          "Thành phố Hồ Chí Minh",
+          "Thành phố Hà Nội",
+          "Thành phố Hà Nội",
+          "Thành phố Hà Nội",
+          "Thành phố Hà Nội"
+        ],
+        "full_addresses": [
+          "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+          "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+          "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+          "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+          "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+          "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+          "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+          "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+        ],
+        "sort_addresses": "Quận Cầu Giấy, Hà Nội - Quận Cầu Giấy, Hà Nội - Quận Nam Từ Liêm, Hà Nội - Quận 10, Hồ Chí Minh - Quận Ba Đình, Hà Nội - Huyện Thạch Thất, Hà Nội - Quận Tây Hồ, Hà Nội - Quận Nam Từ Liêm, Hà Nội",
+        "collection_addresses": [
+          {
+            "id": 107607,
+            "ward": {
+              "id": "00172",
+              "value": "Phường Yên Hoà"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "005",
+              "value": "Quận Cầu Giấy"
+            },
+            "postal_code": "100000",
+            "full_address": "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Lô D26 Khu đô thị mới Cầu Giấy"
+          },
+          {
+            "id": 165927,
+            "ward": {
+              "id": "00167",
+              "value": "Phường Dịch Vọng Hậu"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "005",
+              "value": "Quận Cầu Giấy"
+            },
+            "postal_code": "100000",
+            "full_address": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân"
+          },
+          {
+            "id": 172304,
+            "ward": {
+              "id": "00626",
+              "value": "Phường Mỹ Đình 2"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "019",
+              "value": "Quận Nam Từ Liêm"
+            },
+            "postal_code": "100000",
+            "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+          },
+          {
+            "id": 172305,
+            "ward": {
+              "id": "27172",
+              "value": "Phường 12"
+            },
+            "province": {
+              "id": "79",
+              "value": "Thành phố Hồ Chí Minh"
+            },
+            "district": {
+              "id": "771",
+              "value": "Quận 10"
+            },
+            "postal_code": "700000",
+            "full_address": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám"
+          },
+          {
+            "id": 187929,
+            "ward": {
+              "id": "00028",
+              "value": "Phường Kim Mã"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "001",
+              "value": "Quận Ba Đình"
+            },
+            "postal_code": "100000",
+            "full_address": "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Số 1 Giang Văn Minh"
+          },
+          {
+            "id": 193519,
+            "ward": {
+              "id": "10000",
+              "value": "Xã Tân Xã"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "276",
+              "value": "Huyện Thạch Thất"
+            },
+            "postal_code": "100000",
+            "full_address": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc"
+          },
+          {
+            "id": 193578,
+            "ward": {
+              "id": "00103",
+              "value": "Phường Xuân La"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "003",
+              "value": "Quận Tây Hồ"
+            },
+            "postal_code": "100000",
+            "full_address": "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Số 380 Lạc Long Quân"
+          },
+          {
+            "id": 193579,
+            "ward": {
+              "id": "00631",
+              "value": "Phường Mễ Trì"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "019",
+              "value": "Quận Nam Từ Liêm"
+            },
+            "postal_code": "100000",
+            "full_address": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng"
+          }
+        ],
+        "address_short_region_list": "Hà Nội, Hà Nội, Hà Nội, Hồ Chí Minh, Hà Nội, Hà Nội, Hà Nội, Hà Nội"
+      },
+      "num_job_openings": 5,
+      "num_employees": "4284",
+      "image_cover": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-show-us-your-way-Logo-1675389522.png",
+      "image_galleries": [
+        {
+          "id": 378815,
+          "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+          "path": "/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+          "name": "c3951abdd902c508b2d82e83fadbba79.png",
+          "uploaded": {
+            "date": "03-02-2023",
+            "datetime": "2023-02-03 08:58:44",
+            "since": "1 year ago",
+            "timestamp": 1675389524
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 378816,
+          "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+          "path": "/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+          "name": "Viettel-Image-1.JPG",
+          "uploaded": {
+            "date": "03-02-2023",
+            "datetime": "2023-02-03 08:58:45",
+            "since": "1 year ago",
+            "timestamp": 1675389525
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "icon": null,
+          "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Dẫn đầu thị trường:</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội được trải nghiệm, tiếp cận v&agrave; l&agrave;m việc tại Tập đo&agrave;n ti&ecirc;n phong mở đường, kiến tạo tương lai th&ocirc;ng minh, gắn kết của Việt Nam.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội được thử sức trong những lĩnh vực c&ocirc;ng nghệ ti&ecirc;n tiến, hiện đại nhất.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội được trở th&agrave;nh nh&acirc;n vi&ecirc;n ch&iacute;nh thức ngay sau khi tốt nghiệp m&agrave; kh&ocirc;ng cần trải qua thử việc.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường năng động s&aacute;ng tạo:</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường l&agrave;m việc cởi mở v&agrave; năng động, khuyến kh&iacute;ch trao đổi &yacute; tưởng ở mọi cấp, cho ph&eacute;p bạn l&agrave;m việc, s&aacute;ng tạo theo c&aacute;ch ri&ecirc;ng.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được khơi gợi cảm hứng l&agrave;m việc với văn ph&ograve;ng xanh, kh&ocirc;ng gian mở, hiện đại ti&ecirc;u chuẩn quốc tế.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội thử th&aacute;ch v&agrave; ph&aacute;t triển:</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">&Aacute;p dụng kiến thức, kĩ năng, kinh nghiệm chuy&ecirc;n m&ocirc;n giải quyết c&aacute;c b&agrave;i to&aacute;n hấp dẫn, thử th&aacute;ch tại Viettel.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội thử sức ở nhiều lĩnh vực, sản phẩm v&agrave; quốc gia kh&aacute;c nhau g&oacute;p phần thay đổi x&atilde; hội.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Viettel cam kết cho bạn nền tảng vững chắc để học hỏi v&agrave; ph&aacute;t triển.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Sẵn s&agrave;ng trao quyền, cơ hội đột ph&aacute; cho những người trẻ tuổi.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội học hỏi từ c&aacute;c chuy&ecirc;n gia h&agrave;ng đầu, l&atilde;nh đạo v&agrave; đồng nghiệp ưu t&uacute;.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội được đ&agrave;o tạo, trao dồi kĩ năng định k&igrave; v&agrave; nhu cầu thực tế.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế ngộ đ&atilde;i ngộ hấp dẫn:</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được hưởng lương phản &aacute;nh đ&uacute;ng năng lực v&agrave; cạnh tranh tr&ecirc;n thị trường (From $700, Up to $10,000).</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được thư gi&atilde;n, khơi nguồn s&aacute;ng tạo với Happy Time mỗi ng&agrave;y.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội tham gia gắn kết với tập thể, tổ chức với c&aacute;c hoạt động team building th&uacute; vị.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thời gian l&agrave;m việc: Từ thứ 2 đến thứ 6 (S&aacute;ng 8h00-12h00, Chiều 13h30-17h30).</span></li>\r\n</ul>"
+        }
+      ],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        1,
+        21,
+        22
+      ],
+      "skills_str": "PHP, Java, JavaScript",
+      "skills_arr": [
+        "PHP",
+        "Java",
+        "JavaScript"
+      ],
+      "industries_ids": [
+        3956,
+        3939,
+        3936
+      ],
+      "industries_arr": [
+        "Viễn Thông",
+        "Phần Mềm",
+        "Dịch vụ doanh nghiệp"
+      ],
+      "industries_str": "Viễn Thông, Phần Mềm, Dịch vụ doanh nghiệp",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "Product Manager, Business Analyst",
+    "skills_arr": [
+      "Product Manager",
+      "Business Analyst"
+    ],
+    "skills_ids": [
+      30,
+      1456
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Junior, Middle, Senior",
+    "job_levels_arr": [
+      "Junior",
+      "Middle",
+      "Senior"
+    ],
+    "job_levels_ids": [
+      8664,
+      8665,
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "01"
+      ],
+      "address_region_list": "Thành phố Hà Nội",
+      "address_region_array": [
+        "Thành phố Hà Nội"
+      ],
+      "full_addresses": [
+        "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội"
+      ],
+      "sort_addresses": "Quận Ba Đình, Hà Nội",
+      "collection_addresses": [
+        {
+          "id": 187929,
+          "ward": {
+            "id": "00028",
+            "value": "Phường Kim Mã"
+          },
+          "province": {
+            "id": "01",
+            "value": "Thành phố Hà Nội"
+          },
+          "district": {
+            "id": "001",
+            "value": "Quận Ba Đình"
+          },
+          "postal_code": "100000",
+          "full_address": "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+          "latitude": null,
+          "longitude": null,
+          "street": "Số 1 Giang Văn Minh"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/viettel-telecom-product-manager-quan-ly-san-pham-viettel-group-2034620",
+    "job_url": "",
+    "slug": "viettel-telecom-product-manager-quan-ly-san-pham-viettel-group",
+    "salary": {
+      "is_negotiable": "0",
+      "unit": "MONTH",
+      "min": "1000",
+      "max": "3500",
+      "currency": "USD",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "1.000 USD to 3.500 USD"
+    },
+    "features": [
+      "hot_label"
+    ],
+    "packages": [
+      "basic-plus"
+    ],
+    "is_free": false,
+    "is_basic": false,
+    "is_basic_plus": true,
+    "is_distinction": false,
+    "is_salary_visible": true,
+    "published": {
+      "date": "24-10-2024",
+      "datetime": "00:00:00 24-10-2024",
+      "since": "4 ngày trước"
+    },
+    "refreshed": {
+      "date": "24-10-2024",
+      "datetime": "13:54:25 24-10-2024",
+      "since": "4 ngày trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "1. Trình độ: Tốt nghiệp Đại học trở lên chuyên ngành CNTT/ĐTVT/Ngành liên quan"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "2. Tiếng Anh: chứng chỉ TOEIC, TOEFL hoặc IELTS tương đương với TOEIC 550 trở lên"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "3. Kiến thức:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Có chứng chỉ BA hoặc tương đương (điều kiện bắt buộc nếu tốt nghiệp đại học trở lên chuyên ngành ngoài CNTT)",
+          "Có kiến thức kĩ thuật phân tích nghiệp vụ như: các mô hình chức năng nghiệp vụ, mô hình dữ liệu quan hệ, ngôn ngữ UML, tạo Use case..",
+          "Sử dụng các công cụ viết story, bug, roadmap. Thực hiện các phân tích nâng cao. Xây dựng prototype. Hiểu các nguyên tắc cơ bản về SEO",
+          "Có kiến thức UX. Định hướng UX của ứng dụng/sản phẩm. Thẩm định các thiết kế về UX.",
+          "Thành thạo xây dựng prototype và Visual design của sản phẩm/ứng dụng.",
+          "Có kiến thức chuyên sâu về nghiệp vụ trong lĩnh vực liên quan (tài chính, tài sản, nhân sự,...)"
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034610,
+    "title": "Chuyên viên Phân tích nghiệp vụ (BA)",
+    "content": "<p style=\"text-align: justify;\"><em><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">C&ocirc;ng ty Dịch vụ Số Bưu điện (Vietnam Post Digital) l&agrave; một trong những đơn vị trẻ tuổi nhất thuộc Tổng c&ocirc;ng ty Bưu điện Việt Nam. VNPD được th&agrave;nh lập v&agrave;o đầu năm 2022 với đội ngũ nh&acirc;n sự trẻ, năng động, s&aacute;ng tạo c&ugrave;ng ban l&atilde;nh đạo d&agrave;y dặn kinh nghiệm trong mảng t&agrave;i ch&iacute;nh, ng&acirc;n h&agrave;ng v&agrave; trung gian thanh to&aacute;n.</span></em></p>\r\n<p style=\"text-align: justify;\"><em><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Vietnam Post Digital x&aacute;c định r&otilde; mục ti&ecirc;u x&acirc;y dựng hệ sinh th&aacute;i sản phẩm dịch vụ số, kh&eacute;p k&iacute;n d&ograve;ng tiền của Bưu điện Việt Nam. V&iacute; điện tử PostPay l&agrave; một trong những sản phẩm cốt l&otilde;i được triển khai bởi VNPD nhằm đ&aacute;p ứng mọi hoạt động v&agrave; nhu cầu thanh to&aacute;n thiết yếu của người d&ugrave;ng, đặc biệt l&agrave; người d&acirc;n tại địa b&agrave;n v&ugrave;ng s&acirc;u v&ugrave;ng xa, kh&oacute; tiếp cận với dịch vụ t&agrave;i ch&iacute;nh v&agrave; thanh to&aacute;n kh&ocirc;ng d&ugrave;ng tiền mặt.</span></em></p>\r\n<p style=\"text-align: justify;\"><em><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">\"Nh&acirc;n sự l&agrave; cốt l&otilde;i của doanh nghiệp\" - Vietnam Post Digital đang t&igrave;m kiếm những mảnh gh&eacute;p nhiệt huyết v&agrave; t&agrave;i năng, ch&uacute;ng t&ocirc;i tin bạn ch&iacute;nh l&agrave; ứng vi&ecirc;n tiềm năng!</span></em></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><strong><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Vị tr&iacute;: Chuy&ecirc;n vi&ecirc;n Ph&acirc;n t&iacute;ch nghiệp vụ (BA)</span></strong></li>\r\n<li style=\"text-align: justify;\"><strong><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Số lượng tuyển dụng: 07</span></strong></li>\r\n<li style=\"text-align: justify;\"><strong><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Địa điểm l&agrave;m việc: Số 5 Phạm H&ugrave;ng, Mỹ Đ&igrave;nh 2, Nam Từ Li&ecirc;m, H&agrave; Nội</span></strong></li>\r\n</ul>",
+    "benefits": [
+      {
+        "icon": null,
+        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thu nhập: 10.000.000 VNĐ &ndash; 25.000.000 VNĐ (Junior); 25.000.000 VNĐ &ndash; 40.000.000 VNĐ (mid-level) &ndash; Thỏa thuận theo năng lực, kinh nghiệm</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được x&eacute;t tăng lương theo định kỳ hoặc theo năng lực kh&ocirc;ng giới hạn thời gian.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thưởng lễ, Tết, phụ cấp ăn trưa,... theo chế độ của C&ocirc;ng ty.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Du lịch nghỉ m&aacute;t 01 lần/năm.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được tham gia c&aacute;c kh&oacute;a đ&agrave;o tạo theo lĩnh vực chuy&ecirc;n m&ocirc;n của Tổng c&ocirc;ng ty ở trong nước v&agrave; nước ngo&agrave;i.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường l&agrave;m việc chuy&ecirc;n nghiệp, trẻ trung, năng động.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Đ&oacute;ng BHXH, BHYT, BH sức khỏe v&agrave; hưởng c&aacute;c chế độ theo quy định của Nh&agrave; nước.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thời gian l&agrave;m việc: 8h &ndash; 18h từ Thứ 2 &ndash; thứ 5; 8h &ndash; 17h thứ 6.</span></li>\r\n</ul>"
+      }
+    ],
+    "owned_id": 94777,
+    "company": {
+      "id": 94777,
+      "display_name": "Công ty Dịch vụ Số Bưu điện (Vietnam Post Digital)",
+      "image_logo": "https://assets.topdev.vn/images/2024/07/01/TopDev-izX7asZUwlKkmq2jtfCSP6aRtZ5xVshd_1654567192____6874f3053275a51e231270f93b18a628---Han-Thai-Ngoc-1719802675.jpg",
+      "slug": "cong-ty-dich-vu-so-buu-dien-vietnam-post-digital",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-dich-vu-so-buu-dien-vietnam-post-digital-94777",
+      "tagline": "Gửi cả niềm tin",
+      "company_size": "Hơn 1000",
+      "addresses": {
+        "address_region_ids": [
+          "01"
+        ],
+        "address_region_list": "Thành phố Hà Nội",
+        "address_region_array": [
+          "Thành phố Hà Nội"
+        ],
+        "full_addresses": [
+          "Số 5, Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội"
+        ],
+        "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+        "collection_addresses": [
+          {
+            "id": 203265,
+            "ward": {
+              "id": "00626",
+              "value": "Phường Mỹ Đình 2"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "019",
+              "value": "Quận Nam Từ Liêm"
+            },
+            "postal_code": "100000",
+            "full_address": "Số 5, Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Số 5, Phạm Hùng"
+          }
+        ],
+        "address_short_region_list": "Hà Nội"
+      },
+      "num_job_openings": 4,
+      "num_employees": "4284",
+      "image_cover": "https://assets.topdev.vn/images/2024/08/16/TopDev-cover1-1723792941.png",
+      "image_galleries": [
+        {
+          "id": 620691,
+          "url": "https://assets.topdev.vn/images/2024/07/03/TopDev-z5597384847965_991a37f29b84a60a6cb17d6a528860f2-1719997341.jpg",
+          "path": "/images/2024/07/03/TopDev-z5597384847965_991a37f29b84a60a6cb17d6a528860f2-1719997341.jpg",
+          "name": "z5597384847965_991a37f29b84a60a6cb17d6a528860f2.jpg",
+          "uploaded": {
+            "date": "03-07-2024",
+            "datetime": "2024-07-03 16:02:21",
+            "since": "3 months ago",
+            "timestamp": 1719997341
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 620692,
+          "url": "https://assets.topdev.vn/images/2024/07/03/TopDev-z5597384871571_770257a46945a365ef83588cabd5fb57-1719997341.jpg",
+          "path": "/images/2024/07/03/TopDev-z5597384871571_770257a46945a365ef83588cabd5fb57-1719997341.jpg",
+          "name": "z5597384871571_770257a46945a365ef83588cabd5fb57.jpg",
+          "uploaded": {
+            "date": "03-07-2024",
+            "datetime": "2024-07-03 16:02:22",
+            "since": "3 months ago",
+            "timestamp": 1719997342
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 620693,
+          "url": "https://assets.topdev.vn/images/2024/07/03/TopDev-z5597384871617_a578362feebf14bca7200edac1d20947-1719997342.jpg",
+          "path": "/images/2024/07/03/TopDev-z5597384871617_a578362feebf14bca7200edac1d20947-1719997342.jpg",
+          "name": "z5597384871617_a578362feebf14bca7200edac1d20947.jpg",
+          "uploaded": {
+            "date": "03-07-2024",
+            "datetime": "2024-07-03 16:02:22",
+            "since": "3 months ago",
+            "timestamp": 1719997342
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 620694,
+          "url": "https://assets.topdev.vn/images/2024/07/03/TopDev-z5597384871619_984f30e135872f898f496fdae6c30a7c-1719997342.jpg",
+          "path": "/images/2024/07/03/TopDev-z5597384871619_984f30e135872f898f496fdae6c30a7c-1719997342.jpg",
+          "name": "z5597384871619_984f30e135872f898f496fdae6c30a7c.jpg",
+          "uploaded": {
+            "date": "03-07-2024",
+            "datetime": "2024-07-03 16:02:23",
+            "since": "3 months ago",
+            "timestamp": 1719997343
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 620695,
+          "url": "https://assets.topdev.vn/images/2024/07/03/TopDev-z5597384871620_5b5b4c8120a4ba1741e2f6b15033f2e6-1719997343.jpg",
+          "path": "/images/2024/07/03/TopDev-z5597384871620_5b5b4c8120a4ba1741e2f6b15033f2e6-1719997343.jpg",
+          "name": "z5597384871620_5b5b4c8120a4ba1741e2f6b15033f2e6.jpg",
+          "uploaded": {
+            "date": "03-07-2024",
+            "datetime": "2024-07-03 16:02:23",
+            "since": "3 months ago",
+            "timestamp": 1719997343
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 620696,
+          "url": "https://assets.topdev.vn/images/2024/07/03/TopDev-z5597384871621_f5ae9cedad1509d93d0fbf802caafd39-1719997343.jpg",
+          "path": "/images/2024/07/03/TopDev-z5597384871621_f5ae9cedad1509d93d0fbf802caafd39-1719997343.jpg",
+          "name": "z5597384871621_f5ae9cedad1509d93d0fbf802caafd39.jpg",
+          "uploaded": {
+            "date": "03-07-2024",
+            "datetime": "2024-07-03 16:02:24",
+            "since": "3 months ago",
+            "timestamp": 1719997344
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "icon": null,
+          "value": "<p>Được x&eacute;t tăng lương theo định kỳ hoặc theo năng lực kh&ocirc;ng giới hạn thời gian.<br />Thưởng lễ, Tết, phụ cấp ăn trưa,... theo chế độ của C&ocirc;ng ty.<br />Du lịch nghỉ m&aacute;t 01 lần/năm.<br />Được tham gia c&aacute;c kh&oacute;a đ&agrave;o tạo theo lĩnh vực chuy&ecirc;n m&ocirc;n của Tổng c&ocirc;ng ty ở trong nước v&agrave; nước ngo&agrave;i.<br />M&ocirc;i trường l&agrave;m việc chuy&ecirc;n nghiệp, trẻ trung, năng động.<br />Đ&oacute;ng BHXH, BHYT, BH sức khỏe v&agrave; hưởng c&aacute;c chế độ theo quy định của Nh&agrave; nước.<br />Thời gian l&agrave;m việc: 8h &ndash; 18h từ Thứ 2 &ndash; Thứ 5; 8h &ndash; 17h Thứ 6</p>"
+        }
+      ],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        21,
+        73,
+        231
+      ],
+      "skills_str": "Java, .NET, React Native",
+      "skills_arr": [
+        "Java",
+        ".NET",
+        "React Native"
+      ],
+      "industries_ids": [
+        3936,
+        8037
+      ],
+      "industries_arr": [
+        "Dịch vụ doanh nghiệp",
+        "B2B Services"
+      ],
+      "industries_str": "Dịch vụ doanh nghiệp, B2B Services",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "Business Analyst",
+    "skills_arr": [
+      "Business Analyst"
+    ],
+    "skills_ids": [
+      1456
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Junior",
+    "job_levels_arr": [
+      "Junior"
+    ],
+    "job_levels_ids": [
+      8664
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "01"
+      ],
+      "address_region_list": "Thành phố Hà Nội",
+      "address_region_array": [
+        "Thành phố Hà Nội"
+      ],
+      "full_addresses": [
+        "Số 5, Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội"
+      ],
+      "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+      "collection_addresses": [
+        {
+          "id": 203265,
+          "ward": {
+            "id": "00626",
+            "value": "Phường Mỹ Đình 2"
+          },
+          "province": {
+            "id": "01",
+            "value": "Thành phố Hà Nội"
+          },
+          "district": {
+            "id": "019",
+            "value": "Quận Nam Từ Liêm"
+          },
+          "postal_code": "100000",
+          "full_address": "Số 5, Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+          "latitude": null,
+          "longitude": null,
+          "street": "Số 5, Phạm Hùng"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/chuyen-vien-phan-tich-nghiep-vu-ba-cong-ty-dich-vu-so-buu-dien-vietnam-post-digital-2034610",
+    "job_url": "",
+    "slug": "chuyen-vien-phan-tich-nghiep-vu-ba-cong-ty-dich-vu-so-buu-dien-vietnam-post-digital",
+    "salary": {
+      "is_negotiable": "0",
+      "unit": "MONTH",
+      "min": "25000000",
+      "max": "40000000",
+      "currency": "VND",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "25.000.000 VND to 40.000.000 VND"
+    },
+    "features": [
+      "hot_label"
+    ],
+    "packages": [
+      "basic-plus"
+    ],
+    "is_free": false,
+    "is_basic": false,
+    "is_basic_plus": true,
+    "is_distinction": false,
+    "is_salary_visible": true,
+    "published": {
+      "date": "23-10-2024",
+      "datetime": "00:00:00 23-10-2024",
+      "since": "5 ngày trước"
+    },
+    "refreshed": {
+      "date": "23-10-2024",
+      "datetime": "16:19:00 23-10-2024",
+      "since": "5 ngày trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "Kiến thức/Kinh nghiệm:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Yêu cầu 1- 2 năm kinh nghiệm làm IT BA (Ưu tiên BA đã làm từ 1 năm trong mảng thanh toán).",
+          "Đã có bằng Cao đẳng/Đại học chuyên ngành Điện tử - Viễn thông, CNTT hệ chính quy trở lên."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kỹ năng làm việc:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Có khả năng đọc hiểu tài liệu tiếng Anh, làm việc bằng Tiếng Anh là một lợi thế.",
+          "Khả năng lấy yêu cầu, phân tích yêu cầu nghiệp vụ, viết tài liệu. Tư duy logic tốt. Khả năng bao quát độ phủ của dự án.",
+          "Sử dụng tốt UML, Microsoft Word, Excel, Project, Visio, Axure, Mockup, Photoshop,… phục vụ tốt cho công việc BA.",
+          "Khả năng thuyết phục, nhận định và đánh giá cá nhân tốt.",
+          "Khả năng làm việc với áp lực công việc lớn."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034333,
+    "title": "BUSINESS ANALYST",
+    "content": "",
+    "benefits": [
+      {
+        "icon": null,
+        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Salary: upto 40M/month (Competitive salary based on ability).</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Probation period: 2 months.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Flexible working time: 8 hours/day from Monday to Friday. You will work at the office from 9:00 AM - 6:00 PM.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">12 annual days, 11 public holidays, pay insurance (BHXH, BHYT, BHTN), and other benefits based on the Vietnam Labor Code.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Extremely valuable awards honor outstanding groups and individuals at the Year-end Party.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Project bonus and salary review according to the work quality.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Opportunity to travel and on-site work in the US.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Working with major carriers in the US.</span></li>\r\n</ul>"
+      }
+    ],
+    "owned_id": 94773,
+    "company": {
+      "id": 94773,
+      "display_name": "CÔNG TY TNHH CÁC GIẢI PHÁP SOFTEL",
+      "image_logo": "https://assets.topdev.vn/images/2024/06/27/TopDev-softel---Linh-Nguyen-1719456751.png",
+      "slug": "cong-ty-tnhh-cac-giai-phap-softel",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-tnhh-cac-giai-phap-softel-94773",
+      "tagline": "",
+      "company_size": "100-499",
+      "addresses": {
+        "address_region_ids": [
+          "01",
+          "01"
+        ],
+        "address_region_list": "Thành phố Hà Nội, Thành phố Hà Nội",
+        "address_region_array": [
+          "Thành phố Hà Nội",
+          "Thành phố Hà Nội"
+        ],
+        "full_addresses": [
+          "Trụ sở chính Softel Solutions:  Tầng 7 Tòa Nhà Geleximco - số 36 Phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội",
+          "Văn phòng Review và CSR: Tầng 2 tòa nhà HTP, 434 Trần Khát Chân, Quận Hai Bà Trưng, Thành phố Hà Nội"
+        ],
+        "sort_addresses": "Quận Đống Đa, Hà Nội - Quận Hai Bà Trưng, Hà Nội",
+        "collection_addresses": [
+          {
+            "id": 203167,
+            "ward": {
+              "id": "00190",
+              "value": "Phường Ô Chợ Dừa"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "006",
+              "value": "Quận Đống Đa"
+            },
+            "postal_code": "100000",
+            "full_address": "Trụ sở chính Softel Solutions:  Tầng 7 Tòa Nhà Geleximco - số 36 Phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Trụ sở chính Softel Solutions:  Tầng 7 Tòa Nhà Geleximco - số 36 Phố Hoàng Cầu"
+          },
+          {
+            "id": 204093,
+            "ward": {
+              "id": null,
+              "value": null
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "007",
+              "value": "Quận Hai Bà Trưng"
+            },
+            "postal_code": "100000",
+            "full_address": "Văn phòng Review và CSR: Tầng 2 tòa nhà HTP, 434 Trần Khát Chân, Quận Hai Bà Trưng, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "Văn phòng Review và CSR: Tầng 2 tòa nhà HTP, 434 Trần Khát Chân"
+          }
+        ],
+        "address_short_region_list": "Hà Nội, Hà Nội"
+      },
+      "num_job_openings": 1,
+      "num_employees": "4282",
+      "image_cover": null,
+      "image_galleries": [],
+      "benefits": [
+        {
+          "value": "Mức lương hấp dẫn",
+          "icon": "fa-money"
+        },
+        {
+          "value": "Thử việc 2 tháng hưởng 100% lương.",
+          "icon": "fa-money"
+        },
+        {
+          "value": "Đóng BHXH, BHYT, BHTN đầy đủ theo luật",
+          "icon": "fa-file-text"
+        },
+        {
+          "value": "Thưởng cuối năm: Review tăng lương, Review thưởng dự án, Thưởng team",
+          "icon": "fa-dollar"
+        },
+        {
+          "value": "Cơ hội Company trip bên công ty Mẹ tại Mĩ",
+          "icon": "fa-plane"
+        },
+        {
+          "value": "Cơ hội thăng tiến cao",
+          "icon": "fa-line-chart"
+        },
+        {
+          "value": "Cơ hội làm việc trong môi trường Global với Product lớn",
+          "icon": "fa-globe"
+        },
+        {
+          "value": "Thời gian làm việc: Từ thứ 2 tới Thứ 6  (Sáng 9h-12h; Chiều 13h-18h).",
+          "icon": "fa-clock-o"
+        },
+        {
+          "value": "Team building: 1 năm 2-3 lần (tùy vào tình hình kinh doanh thực tế của công ty).",
+          "icon": "fa-soccer-ball-o"
+        }
+      ],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        29,
+        76,
+        78,
+        202,
+        1456
+      ],
+      "skills_str": "MySQL, QA, Tester, Data Analytics, Business Analyst",
+      "skills_arr": [
+        "MySQL",
+        "QA",
+        "Tester",
+        "Data Analytics",
+        "Business Analyst"
+      ],
+      "industries_ids": [
+        8144
+      ],
+      "industries_arr": [
+        "Software"
+      ],
+      "industries_str": "Software",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "MySQL, Data Analytics, Business Analyst",
+    "skills_arr": [
+      "MySQL",
+      "Data Analytics",
+      "Business Analyst"
+    ],
+    "skills_ids": [
+      29,
+      202,
+      1456
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Senior",
+    "job_levels_arr": [
+      "Senior"
+    ],
+    "job_levels_ids": [
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "01"
+      ],
+      "address_region_list": "Thành phố Hà Nội",
+      "address_region_array": [
+        "Thành phố Hà Nội"
+      ],
+      "full_addresses": [
+        "Trụ sở chính Softel Solutions:  Tầng 7 Tòa Nhà Geleximco - số 36 Phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội"
+      ],
+      "sort_addresses": "Quận Đống Đa, Hà Nội",
+      "collection_addresses": [
+        {
+          "id": 203167,
+          "ward": {
+            "id": "00190",
+            "value": "Phường Ô Chợ Dừa"
+          },
+          "province": {
+            "id": "01",
+            "value": "Thành phố Hà Nội"
+          },
+          "district": {
+            "id": "006",
+            "value": "Quận Đống Đa"
+          },
+          "postal_code": "100000",
+          "full_address": "Trụ sở chính Softel Solutions:  Tầng 7 Tòa Nhà Geleximco - số 36 Phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội",
+          "latitude": null,
+          "longitude": null,
+          "street": "Trụ sở chính Softel Solutions:  Tầng 7 Tòa Nhà Geleximco - số 36 Phố Hoàng Cầu"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/business-analyst-cong-ty-tnhh-cac-giai-phap-softel-2034333",
+    "job_url": "",
+    "slug": "business-analyst-cong-ty-tnhh-cac-giai-phap-softel",
+    "salary": {
+      "is_negotiable": "0",
+      "unit": "MONTH",
+      "min": "0",
+      "max": "40000000",
+      "currency": "VND",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "Lên tới 40.000.000 VND"
+    },
+    "features": [],
+    "packages": [
+      "basic",
+      "basic-plus"
+    ],
+    "is_free": false,
+    "is_basic": true,
+    "is_basic_plus": false,
+    "is_distinction": false,
+    "is_salary_visible": true,
+    "published": {
+      "date": "18-09-2024",
+      "datetime": "00:00:00 18-09-2024",
+      "since": "1 tháng trước"
+    },
+    "refreshed": {
+      "date": "24-10-2024",
+      "datetime": "02:00:08 24-10-2024",
+      "since": "4 ngày trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "At least 4+ years of experience working as a Business Analyst (BA).",
+          "Strong verbal and written English skills, capable of supporting the team with English documentation (TOEIC 800+/ IELTS 7.0 or equivalent)",
+          "Experience in ERP, E-Commerce, Finance or the Telecommunication domain is preferred.",
+          "Excellent analytical skills with the ability to understand complex software systems quickly.",
+          "Proficiency in creating clear, concise documentation.",
+          "Strong communication, presentation, and management skills, with the ability to handle multiple projects simultaneously.",
+          "Basic understanding of databases, particularly MySQL.",
+          "A bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field is a plus."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034603,
+    "title": "Chuyên viên phân tích nghiệp vụ và kiểm thử",
+    "content": "",
+    "benefits": [
+      {
+        "icon": null,
+        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế độ BHXH, BHYT v&agrave; thưởng c&aacute;c ng&agrave;y lễ, tết, thưởng &acirc;m lịch (theo kết quả KD)</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế độ li&ecirc;n hoan, sinh nhật, hiếu hỉ, cưới hỏi...</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave;m việc trong m&ocirc;i trường trẻ trung, th&acirc;n thiện.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tham gia sự kiện Teambuilding, Year end party, Từ thiện, I'm Leader, I'm Kidsers...</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Phụ cấp kh&aacute;c: ăn ca, c&ocirc;ng t&aacute;c ph&iacute; (nếu c&oacute;).</span></li>\r\n</ul>"
+      }
+    ],
+    "owned_id": 89618,
+    "company": {
+      "id": 89618,
+      "display_name": "Công ty Cổ Phần Kids Plaza",
+      "image_logo": "https://assets.topdev.vn/images/2024/10/23/TopDev-LOGO-KIDSPLAZA-05---Kieu-Hoanh-Tran-1729651263.png",
+      "slug": "cong-ty-co-phan-kids-plaza",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-co-phan-kids-plaza-89618",
+      "tagline": "KidsPlaza - Hệ thống cửa hàng mẹ bầu và em bé đáng tin cậy",
+      "company_size": "500-999",
+      "addresses": {
+        "address_region_ids": [
+          "79"
+        ],
+        "address_region_list": "Thành phố Hồ Chí Minh",
+        "address_region_array": [
+          "Thành phố Hồ Chí Minh"
+        ],
+        "full_addresses": [
+          "14/1 đường số 53, Phường 14, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+        ],
+        "sort_addresses": "Quận Gò Vấp, Hồ Chí Minh",
+        "collection_addresses": [
+          {
+            "id": 206511,
+            "ward": {
+              "id": "26882",
+              "value": "Phường 14"
+            },
+            "province": {
+              "id": "79",
+              "value": "Thành phố Hồ Chí Minh"
+            },
+            "district": {
+              "id": "764",
+              "value": "Quận Gò Vấp"
+            },
+            "postal_code": "700000",
+            "full_address": "14/1 đường số 53, Phường 14, Quận Gò Vấp, Thành phố Hồ Chí Minh",
+            "latitude": null,
+            "longitude": null,
+            "street": "14/1 đường số 53"
+          }
+        ],
+        "address_short_region_list": "Hồ Chí Minh"
+      },
+      "num_job_openings": 1,
+      "num_employees": "4283",
+      "image_cover": "https://assets.topdev.vn/images/2024/10/23/TopDev-Picture2---Kieu-Hoanh-Tran-1729651263.png",
+      "image_galleries": [
+        {
+          "id": 664766,
+          "url": "https://assets.topdev.vn/images/2024/10/23/TopDev-Picture2---Kieu-Hoanh-Tran-1729651263.png",
+          "path": "/images/2024/10/23/TopDev-Picture2---Kieu-Hoanh-Tran-1729651263.png",
+          "name": "Picture2 - Kiều Hoanh Trần.png",
+          "uploaded": {
+            "date": "23-10-2024",
+            "datetime": "2024-10-23 09:41:03",
+            "since": "1 day ago",
+            "timestamp": 1729651263
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "icon": null,
+          "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế độ BHXH, BHYT v&agrave; thưởng c&aacute;c ng&agrave;y lễ, tết, thưởng &acirc;m lịch (theo kết quả KD)</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế độ li&ecirc;n hoan, sinh nhật, hiếu hỉ, cưới hỏi...</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave;m việc trong m&ocirc;i trường trẻ trung, th&acirc;n thiện.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tham gia sự kiện Teambuilding, Year end party, Từ thiện, I'm Leader, I'm Kidsers...</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Phụ cấp kh&aacute;c: ăn ca, c&ocirc;ng t&aacute;c ph&iacute; (nếu c&oacute;).</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Thứ 2- S&aacute;ng thứ 6 (s&aacute;ng:8h-12h, chiều:13h30-17h30)</span></span></li>\r\n</ul>"
+        }
+      ],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        1,
+        36,
+        231
+      ],
+      "skills_str": "PHP, NodeJS, React Native",
+      "skills_arr": [
+        "PHP",
+        "NodeJS",
+        "React Native"
+      ],
+      "industries_ids": [
+        3940
+      ],
+      "industries_arr": [
+        "Thương mại điện tử/ Bán lẻ"
+      ],
+      "industries_str": "Thương mại điện tử/ Bán lẻ",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "ERP, Tester, Business Analyst",
+    "skills_arr": [
+      "ERP",
+      "Tester",
+      "Business Analyst"
+    ],
+    "skills_ids": [
+      74,
+      78,
+      1456
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Middle, Senior",
+    "job_levels_arr": [
+      "Middle",
+      "Senior"
+    ],
+    "job_levels_ids": [
+      8665,
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "79"
+      ],
+      "address_region_list": "Thành phố Hồ Chí Minh",
+      "address_region_array": [
+        "Thành phố Hồ Chí Minh"
+      ],
+      "full_addresses": [
+        "14/1 đường số 53, Phường 14, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+      ],
+      "sort_addresses": "Quận Gò Vấp, Hồ Chí Minh",
+      "collection_addresses": [
+        {
+          "id": 206511,
+          "ward": {
+            "id": "26882",
+            "value": "Phường 14"
+          },
+          "province": {
+            "id": "79",
+            "value": "Thành phố Hồ Chí Minh"
+          },
+          "district": {
+            "id": "764",
+            "value": "Quận Gò Vấp"
+          },
+          "postal_code": "700000",
+          "full_address": "14/1 đường số 53, Phường 14, Quận Gò Vấp, Thành phố Hồ Chí Minh",
+          "latitude": null,
+          "longitude": null,
+          "street": "14/1 đường số 53"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/chuyen-vien-phan-tich-nghiep-vu-va-kiem-thu-cong-ty-co-phan-kids-plaza-2034603",
+    "job_url": "",
+    "slug": "chuyen-vien-phan-tich-nghiep-vu-va-kiem-thu-cong-ty-co-phan-kids-plaza",
+    "salary": {
+      "is_negotiable": "1",
+      "unit": "MONTH",
+      "min": 0,
+      "max": 0,
+      "currency": "VND",
+      "min_estimate": "0",
+      "max_estimate": "0",
+      "currency_estimate": "VND",
+      "value": "Thương lượng"
+    },
+    "features": [
+      "hot_label",
+      "SuperHotJob"
+    ],
+    "packages": [
+      "basic"
+    ],
+    "is_free": false,
+    "is_basic": true,
+    "is_basic_plus": false,
+    "is_distinction": false,
+    "is_salary_visible": true,
+    "published": {
+      "date": "23-10-2024",
+      "datetime": "00:00:00 23-10-2024",
+      "since": "5 ngày trước"
+    },
+    "refreshed": {
+      "date": "23-10-2024",
+      "datetime": "10:17:17 23-10-2024",
+      "since": "5 ngày trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "Kỹ năng phân tích và giải quyết vấn đề:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Có khả năng tiếp nhận và phân tích yêu cầu từ các phòng ban liên quan. Đưa ra các giải pháp công nghệ đáp ứng nhu cầu vận hành và mục tiêu kinh doanh."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kỹ năng tài liệu hóa:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Viết tài liệu mô tả và mô hình hóa quy trình thành các tài liệu đặc tả yêu cầu nghiệp vụ phần mềm như BRD, SRS, User story. Sử dụng các công cụ mô hình hóa quy trình doanh nghiệp như BPMN, workflow. Hình ảnh hóa yêu cầu bằng các công cụ như Figma, Sketch, Wireframe, Mockup.",
+          "Quản lý dự án, quản lý sprint, backlog. Điều phối được nguồn lực đáp ứng yêu cầu khách hàng."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kỹ năng kiểm thử phần mềm:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Thực hiện toàn bộ hoạt động liên quan đến kiểm thử: kế hoạch, kịch bản và thực hiện kiểm thử, cung cấp giải pháp, nghiệm thu hệ thống trước khi Golive. Xây dựng và quản lý các tài liệu kiểm thử như test case, các kịch bản kiểm thử."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kỹ năng giao tiếp và hướng dẫn:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Bàn giao và hướng dẫn người dùng cuối sử dụng phần mềm. Tiếp nhận và giải đáp thắc mắc, đề xuất của người dùng cuối."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kỹ năng làm việc nhóm:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Phối hợp chặt chẽ với bộ phận Technical và các bộ phận chuyên môn khác để đưa ra giải pháp tổng thể, tối ưu và có tính khả thi."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kỹ năng theo dõi và tối ưu sản phẩm:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Xây dựng các bộ chỉ số sản phẩm (Product Metrics), theo dõi và tối ưu sản phẩm. Theo dõi các hành vi người dùng từ các công cụ như Firebase, Google Analytics. Ứng viên cần có kiến thức và kinh nghiệm trong các lĩnh vực liên quan đến HRM, ERP, OMS, Website, App mobile, và các công cụ quản lý dự án, kiểm thử phần mềm."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034298,
+    "title": "Business Analyst - Chuyên Gia Phân Tích Nghiệp Vụ Hệ Thống CLIMS",
+    "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Trực tiếp thực hiện tư vấn v&agrave; ph&acirc;n t&iacute;ch c&aacute;c y&ecirc;u cầu ph&aacute;t triển từ đơn vị nghiệp vụ, đảm bảo chuyển đổi đầy đủ v&agrave; hiệu quả c&aacute;c y&ecirc;u cầu của đơn vị nghiệp vụ th&agrave;nh c&aacute;c y&ecirc;u cầu ph&aacute;t triển ứng dụng với hệ thống CLIMS.</span></p>",
+    "benefits": [
+      {
+        "icon": null,
+        "value": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><em><strong>Lương v&agrave; ph&uacute;c lợi hấp dẫn:</strong></em></span></p>\r\n<ul style=\"text-align: justify;\">\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Mức lương cạnh tranh, phản &aacute;nh trực tiếp kỹ năng v&agrave; kinh nghiệm của ứng vi&ecirc;n (chi tiết sẽ được thảo luận trong buổi phỏng vấn)</span></li>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">13 ng&agrave;y nghỉ ph&eacute;p linh hoạt, bao gồm ng&agrave;y sinh nhật v&agrave; c&aacute;c dịp quan trọng kh&aacute;c</span></li>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Bảo hiểm đầy đủ theo luật lao động, c&ugrave;ng với ABBANK CARE - chương tr&igrave;nh ph&uacute;c lợi bổ sung đặc biệt d&agrave;nh cho ABBankers</span></li>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&atilde;i suất vay ưu đ&atilde;i - Quyền lợi đặc biệt d&agrave;nh cho nh&acirc;n vi&ecirc;n ABBANK</span></li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><em><strong>Cơ hội ph&aacute;t triển nghề nghiệp hấp dẫn:</strong></em></span></p>\r\n<ul style=\"text-align: justify;\">\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Gia nhập c&aacute;c dự &aacute;n chuyển đổi quy m&ocirc; lớn, cộng t&aacute;c c&ugrave;ng c&aacute;c chuy&ecirc;n gia h&agrave;ng đầu để &aacute;p dụng c&ocirc;ng nghệ mới nhất trong ng&agrave;nh ng&acirc;n h&agrave;ng</span></li>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Lộ tr&igrave;nh ph&aacute;t triển sự nghiệp r&otilde; r&agrave;ng, được tạo điều kiện cho cả sự ph&aacute;t triển kỹ thuật v&agrave; quản l&yacute;</span></li>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hỗ trợ đ&agrave;o tạo v&agrave; chứng chỉ trong lĩnh vực IT, ng&acirc;n h&agrave;ng/t&agrave;i ch&iacute;nh.</span></li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><em><strong>M&ocirc;i trường l&agrave;m việc năng động:</strong></em></span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc; h&igrave;nh l&agrave;m việc linh hoạt, trẻ trung, khuyến kh&iacute;ch đổi mới v&agrave; s&aacute;ng tạo</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Văn ph&ograve;ng được trang bị hiện đại, k&egrave;m theo c&aacute;c thiết bị ti&ecirc;n tiến nhất d&agrave;nh cho nh&acirc;n vi&ecirc;n</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổ chức thường xuy&ecirc;n c&aacute;c hoạt động ngoại kh&oacute;a (team building, hội thảo, v&agrave; c&aacute;c sự kiện văn nghệ), tạo điều kiện cho nh&acirc;n vi&ecirc;n gắn kết v&agrave; ph&aacute;t triển</span></li>\r\n</ul>"
+      }
+    ],
+    "owned_id": 91848,
+    "company": {
+      "id": 91848,
+      "display_name": "Ngân hàng TMCP An Bình (ABBANK)",
+      "image_logo": "https://assets.topdev.vn/images/2020/12/10/logoix91C4zNZxjSXOSWq4xUrJZcHpUbB3xH-39Ezs.png",
+      "slug": "ngan-hang-tmcp-an-binh-abbank",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/ngan-hang-tmcp-an-binh-abbank-91848",
+      "tagline": "ABBANK",
+      "company_size": "Hơn 1000",
+      "addresses": {
+        "address_region_ids": [
+          "79",
+          "01"
+        ],
+        "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội",
+        "address_region_array": [
+          "Thành phố Hồ Chí Minh",
+          "Thành phố Hà Nội"
+        ],
+        "full_addresses": [
+          "170 Hai Bà Trưng, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",
+          "36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội"
+        ],
+        "sort_addresses": "Quận 1, Hồ Chí Minh - Quận Đống Đa, Hà Nội",
+        "collection_addresses": [
+          {
+            "id": 122452,
+            "ward": {
+              "id": "26737",
+              "value": "Phường Đa Kao"
+            },
+            "province": {
+              "id": "79",
+              "value": "Thành phố Hồ Chí Minh"
+            },
+            "district": {
+              "id": "760",
+              "value": "Quận 1"
+            },
+            "postal_code": "100000",
+            "full_address": "170 Hai Bà Trưng, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",
+            "latitude": null,
+            "longitude": null,
+            "street": "170 Hai Bà Trưng"
+          },
+          {
+            "id": 122495,
+            "ward": {
+              "id": "00190",
+              "value": "Phường Ô Chợ Dừa"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "006",
+              "value": "Quận Đống Đa"
+            },
+            "postal_code": "100000",
+            "full_address": "36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "36 Hoàng Cầu"
+          }
+        ],
+        "address_short_region_list": "Hồ Chí Minh, Hà Nội"
+      },
+      "num_job_openings": 7,
+      "num_employees": "4284",
+      "image_cover": "https://assets.topdev.vn/images/2020/12/10/coverEMRZGSGxW5c11GPvN6lnccHq7mj2gYMW-b5jpv.jpeg",
+      "image_galleries": [
+        {
+          "id": 206650,
+          "url": "https://assets.topdev.vn/images/2020/12/10/galleryRFsou6ahOBlzCxK37f6pp7rqmPv9WPrw-Nqjn5.jpeg",
+          "path": "/images/2020/12/10/galleryRFsou6ahOBlzCxK37f6pp7rqmPv9WPrw-Nqjn5.jpeg",
+          "name": "gallery_RFsou6ahOBlzCxK37f6pp7rqmPv9WPrw.jpeg",
+          "uploaded": {
+            "date": "10-12-2020",
+            "datetime": "2020-12-10 10:28:44",
+            "since": "3 years ago",
+            "timestamp": 1607570924
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 206651,
+          "url": "https://assets.topdev.vn/images/2020/12/10/galleryhjjcrOD1KmaegoZpoSECDnTprWcCmrvR-U13gZ.jpeg",
+          "path": "/images/2020/12/10/galleryhjjcrOD1KmaegoZpoSECDnTprWcCmrvR-U13gZ.jpeg",
+          "name": "gallery_hjjcrOD1KmaegoZpoSECDnTprWcCmrvR.jpeg",
+          "uploaded": {
+            "date": "10-12-2020",
+            "datetime": "2020-12-10 10:29:33",
+            "since": "3 years ago",
+            "timestamp": 1607570973
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 206652,
+          "url": "https://assets.topdev.vn/images/2020/12/10/galleryGwnAIeuBaZbLOAinu6H5sfneyuvzyFsW-5Xw7m.jpeg",
+          "path": "/images/2020/12/10/galleryGwnAIeuBaZbLOAinu6H5sfneyuvzyFsW-5Xw7m.jpeg",
+          "name": "gallery_GwnAIeuBaZbLOAinu6H5sfneyuvzyFsW.jpeg",
+          "uploaded": {
+            "date": "10-12-2020",
+            "datetime": "2020-12-10 10:29:43",
+            "since": "3 years ago",
+            "timestamp": 1607570983
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 242361,
+          "url": "https://assets.topdev.vn/images/2021/03/11/ABBANK-BPyUQ.png",
+          "path": "/images/2021/03/11/ABBANK-BPyUQ.png",
+          "name": "ABBANK.png",
+          "uploaded": {
+            "date": "11-03-2021",
+            "datetime": "2021-03-11 11:54:13",
+            "since": "3 years ago",
+            "timestamp": 1615438453
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 242363,
+          "url": "https://assets.topdev.vn/images/2021/03/11/ABBANK1-ikM3X.jpg",
+          "path": "/images/2021/03/11/ABBANK1-ikM3X.jpg",
+          "name": "ABBANK1.jpg",
+          "uploaded": {
+            "date": "11-03-2021",
+            "datetime": "2021-03-11 11:54:13",
+            "since": "3 years ago",
+            "timestamp": 1615438453
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 242364,
+          "url": "https://assets.topdev.vn/images/2021/03/11/ABBANK-5n4f3.jpg",
+          "path": "/images/2021/03/11/ABBANK-5n4f3.jpg",
+          "name": "ABBANK.jpg",
+          "uploaded": {
+            "date": "11-03-2021",
+            "datetime": "2021-03-11 11:54:13",
+            "since": "3 years ago",
+            "timestamp": 1615438453
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 304325,
+          "url": "https://assets.topdev.vn/images/2021/09/16/TopDev-abbank-tang-cuong-quan-ly-rui-ro-voi-khung-quan-tri-du-lieu-TuanNguyen-1631767795.jpg",
+          "path": "/images/2021/09/16/TopDev-abbank-tang-cuong-quan-ly-rui-ro-voi-khung-quan-tri-du-lieu-TuanNguyen-1631767795.jpg",
+          "name": "abbank-tang-cuong-quan-ly-rui-ro-voi-khung-quan-tri-du-lieu - Tuan Nguyen.jpg",
+          "uploaded": {
+            "date": "16-09-2021",
+            "datetime": "2021-09-16 11:49:55",
+            "since": "3 years ago",
+            "timestamp": 1631767795
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 304326,
+          "url": "https://assets.topdev.vn/images/2021/09/16/TopDev-ABBank-TuanNguyen-1631767795.jpg",
+          "path": "/images/2021/09/16/TopDev-ABBank-TuanNguyen-1631767795.jpg",
+          "name": "ABBank - Tuan Nguyen.jpg",
+          "uploaded": {
+            "date": "16-09-2021",
+            "datetime": "2021-09-16 11:49:56",
+            "since": "3 years ago",
+            "timestamp": 1631767796
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 304327,
+          "url": "https://assets.topdev.vn/images/2021/09/16/TopDev-22090578130870507981921823608394602193867963n-TuanNguyen-1631767796.png",
+          "path": "/images/2021/09/16/TopDev-22090578130870507981921823608394602193867963n-TuanNguyen-1631767796.png",
+          "name": "220905781_3087050798192182_3608394602193867963_n - Tuan Nguyen.png",
+          "uploaded": {
+            "date": "16-09-2021",
+            "datetime": "2021-09-16 11:49:56",
+            "since": "3 years ago",
+            "timestamp": 1631767796
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "icon": null,
+          "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Mức lương cạnh tranh dựa tr&ecirc;n Kiến thức, kinh nghiệm của mỗi c&aacute; nh&acirc;n (Trao đổi khi tr&uacute;ng tuyển)</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được hưởng chế độ Bảo hiểm theo luật lao động v&agrave; chương tr&igrave;nh ABBANK CARE (chế độ đ&atilde;i ngộ, ph&uacute;c lợi bổ sung d&agrave;nh cho to&agrave;n thể c&aacute;n bộ nh&acirc;n vi&ecirc;n ABBANK).</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được vay ưu đ&atilde;i (l&atilde;i suất hấp dẫn) d&agrave;nh cho c&aacute;n bộ nh&acirc;n vi&ecirc;n ABBANK.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường năng động v&agrave; s&aacute;ng tạo, ph&aacute;t huy tối đa năng lực bản th&acirc;n, điều kiện l&agrave;m việc tốt, đầy đủ phương tiện, thiết bị, c&oacute; cơ hội tham gia đ&agrave;o tạo, thăng tiến, ph&aacute;t triển sự nghiệp.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tham gia c&aacute;c hoạt động văn h&oacute;a ngoại kh&oacute;a (Team building, hội thao, văn nghệ...);</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cung cấp thiết bị l&agrave;m việc, m&aacute;y t&iacute;nh x&aacute;ch tay</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Du lịch</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thưởng</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Đ&agrave;o tạo</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế độ nghỉ ph&eacute;p</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Bảo hiểm, phụ cấp</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chăm s&oacute;c sức khỏe</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tăng lương định kỳ</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave;m việc: T2 -T6</span></li>\r\n</ul>"
+        }
+      ],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        21,
+        34,
+        156,
+        213,
+        5064,
+        1456,
+        4317
+      ],
+      "skills_str": "Java, Python, UX Design, DevOps, QA/QC, Business Analyst, Spring Boot",
+      "skills_arr": [
+        "Java",
+        "Python",
+        "UX Design",
+        "DevOps",
+        "QA/QC",
+        "Business Analyst",
+        "Spring Boot"
+      ],
+      "industries_ids": [
+        3935
+      ],
+      "industries_arr": [
+        "Ngân Hàng"
+      ],
+      "industries_str": "Ngân Hàng",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "Tester, Business Analyst, Analyst",
+    "skills_arr": [
+      "Tester",
+      "Business Analyst",
+      "Analyst"
+    ],
+    "skills_ids": [
+      78,
+      1456,
+      8557
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Middle, Senior",
+    "job_levels_arr": [
+      "Middle",
+      "Senior"
+    ],
+    "job_levels_ids": [
+      8665,
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "01"
+      ],
+      "address_region_list": "Thành phố Hà Nội",
+      "address_region_array": [
+        "Thành phố Hà Nội"
+      ],
+      "full_addresses": [
+        "36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội"
+      ],
+      "sort_addresses": "Quận Đống Đa, Hà Nội",
+      "collection_addresses": [
+        {
+          "id": 122495,
+          "ward": {
+            "id": "00190",
+            "value": "Phường Ô Chợ Dừa"
+          },
+          "province": {
+            "id": "01",
+            "value": "Thành phố Hà Nội"
+          },
+          "district": {
+            "id": "006",
+            "value": "Quận Đống Đa"
+          },
+          "postal_code": "100000",
+          "full_address": "36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội",
+          "latitude": null,
+          "longitude": null,
+          "street": "36 Hoàng Cầu"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/business-analyst-chuyen-gia-phan-tich-nghiep-vu-he-thong-clims-ngan-hang-tmcp-an-binh-abbank-2034298",
+    "job_url": "",
+    "slug": "business-analyst-chuyen-gia-phan-tich-nghiep-vu-he-thong-clims-ngan-hang-tmcp-an-binh-abbank",
+    "salary": {
+      "is_negotiable": 0,
+      "unit": "MONTH",
+      "min": 1500,
+      "max": 1800,
+      "currency": "USD",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "1.500 USD to 1.800 USD"
+    },
+    "features": [],
+    "packages": [
+      "basic",
+      "distinction"
+    ],
+    "is_free": false,
+    "is_basic": true,
+    "is_basic_plus": false,
+    "is_distinction": false,
+    "is_salary_visible": true,
+    "published": {
+      "date": "12-09-2024",
+      "datetime": "00:00:00 12-09-2024",
+      "since": "1 tháng trước"
+    },
+    "refreshed": {
+      "date": "22-10-2024",
+      "datetime": "02:00:08 22-10-2024",
+      "since": "6 ngày trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "Kinh nghiệm:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Ít nhất 05 năm kinh nghiệm ở vị trí BA hệ thống CLIMS.",
+          "Có kinh nghiệp về nghiệp vụ tiền vay.",
+          "Kinh nghiệm xây dựng các kịch bản kiểm thử, kế hoạch kiểm thử hoàn chỉnh cho một dự án phần mềm.",
+          "Kinh nghiệm và am hiểu về quy trình phát triển phần mềm."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "Kỹ năng khác:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Đảm bảo tuân thủ các tiêu chuẩn phát triển ứng dụng và quy trình chất lượng.",
+          "Kỹ năng phân tích và xử lý các vấn đề kỹ thuật phức tạp, cung cấp các giải pháp khả thi và kịp thời.",
+          "Kỹ năng giao tiếp và làm việc nhóm hiệu quả khi làm việc với nhiều nhóm chức năng khác nhau.",
+          "Kỹ năng giao tiếp tốt và khả năng trình bày ý tưởng một cách rõ ràng và dễ hiểu.",
+          "Chú trọng triển khai theo Agile với sự sẵn sàng học hỏi và phát triển từ kinh nghiệm."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034279,
+    "title": "[DI6] Solution Architect (Aws, Java)- MSB - 1Y564",
+    "content": "",
+    "benefits": [
+      {
+        "icon": null,
+        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tham gia v&agrave;o c&aacute;c si&ecirc;u dự &aacute;n trọng điểm, c&oacute; vốn đầu tư tr&ecirc;n 2000 tỉ đồng. định h&igrave;nh tương lai của Ng&acirc;n h&agrave;ng&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hiện thực h&oacute;a những &yacute; tưởng s&aacute;ng tạo khi tham gia to&agrave;n bộ v&ograve;ng đời của dự &aacute;n, từ l&uacute;c l&ecirc;n &yacute; tưởng, ph&aacute;t triển cho đến khi triển khai thực tế.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave;m việc c&ugrave;ng những đối v&agrave; nh&agrave; cung cấp giải ph&aacute;p h&agrave;ng đầu như BCG, McKinsey, IBM, AWS, Temenos&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">N&acirc;ng cao kỹ năng chuy&ecirc;n m&ocirc;n th&ocirc;ng qua việc trải nghiệm c&aacute;c kiến tr&uacute;c v&agrave; c&ocirc;ng nghệ mới nhất, tiếp cận với nhiều domain kh&aacute;c nhau trong lĩnh vực ng&acirc;n h&agrave;ng để th&uacute;c đẩy khả năng s&aacute;ng tạo trong việc giải quyết c&aacute;c th&aacute;ch thức phức tạp của ng&agrave;nh ng&acirc;n h&agrave;ng.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">G&oacute;i thu nhập từ 15 đến 18 th&aacute;ng lương/năm (c&oacute; thưởng dự &aacute;n t&ugrave;y vị tr&iacute; c&ocirc;ng việc). Nhận mức offer cạnh tranh nếu c&oacute; năng lực vượt trội.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Giờ l&agrave;m việc linh hoạt, trang phục thoải m&aacute;i&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Văn ph&ograve;ng thiết kế theo phong c&aacute;ch Agile với kh&ocirc;ng gian mở, bố tr&iacute; linh hoạt, nhiều c&acirc;y xanh, khu vực nghỉ ngơi thư gi&atilde;n v&agrave; pantry đầy đủ tiện nghi.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được vay vốn ng&acirc;n h&agrave;ng l&atilde;i suất thấp, mua cổ phiếu gi&aacute; ưu đ&atilde;i theo chương tr&igrave;nh d&agrave;nh cho người nội bộ. K&egrave;m th&ecirc;m g&oacute;i Bảo hiểm sức khỏe cao cấp - MSB care, nghỉ ng&agrave;y sinh nhật hưởng nguy&ecirc;n lương</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave;m việc trong &ldquo;Ng&acirc;n h&agrave;ng Chuyển đổi số ti&ecirc;u biểu&rdquo; được vinh danh 3 năm li&ecirc;n tiếp bởi Hiệp hội Ng&acirc;n h&agrave;ng v&agrave; Tập đo&agrave;n dữ liệu quốc tế (IDG)</span></li>\r\n</ul>"
+      }
+    ],
+    "owned_id": 88684,
+    "company": {
+      "id": 88684,
+      "display_name": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
+      "image_logo": "https://assets.topdev.vn/images/2021/09/27/TopDev-3a1441dc6eeb30a7e676c538a9438cbf-1632727590.PNG",
+      "slug": "ngan-hang-tmcp-hang-hai-viet-nam-msb",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/ngan-hang-tmcp-hang-hai-viet-nam-msb-88684",
+      "tagline": "MSB - Cùng vươn tầm",
+      "company_size": "Hơn 1000",
+      "addresses": {
+        "address_region_ids": [
+          "01",
+          "79"
+        ],
+        "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh",
+        "address_region_array": [
+          "Thành phố Hà Nội",
+          "Thành phố Hồ Chí Minh"
+        ],
+        "full_addresses": [
+          "TNR Tower, Số 54A Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội",
+          "TNR Tower, 180-192 Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh"
+        ],
+        "sort_addresses": "Quận Đống Đa, Hà Nội - Quận 1, Hồ Chí Minh",
+        "collection_addresses": [
+          {
+            "id": 119593,
+            "ward": {
+              "id": "00187",
+              "value": "Phường Láng Thượng"
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "006",
+              "value": "Quận Đống Đa"
+            },
+            "postal_code": "100000",
+            "full_address": "TNR Tower, Số 54A Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "TNR Tower, Số 54A Nguyễn Chí Thanh"
+          },
+          {
+            "id": 141563,
+            "ward": {
+              "id": "26746",
+              "value": "Phường Nguyễn Thái Bình"
+            },
+            "province": {
+              "id": "79",
+              "value": "Thành phố Hồ Chí Minh"
+            },
+            "district": {
+              "id": "760",
+              "value": "Quận 1"
+            },
+            "postal_code": "700000",
+            "full_address": "TNR Tower, 180-192 Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh",
+            "latitude": null,
+            "longitude": null,
+            "street": "TNR Tower, 180-192 Nguyễn Công Trứ"
+          }
+        ],
+        "address_short_region_list": "Hà Nội, Hồ Chí Minh"
+      },
+      "num_job_openings": 6,
+      "num_employees": "4284",
+      "image_cover": "https://assets.topdev.vn/images/2022/08/30/TopDev-post-fb-1661855569.png",
+      "image_galleries": [
+        {
+          "id": 297449,
+          "url": "https://assets.topdev.vn/images/2021/06/11/MSB-Image-1-0zwZa.jpg",
+          "path": "/images/2021/06/11/MSB-Image-1-0zwZa.jpg",
+          "name": "MSB-Image-1.jpg",
+          "uploaded": {
+            "date": "11-06-2021",
+            "datetime": "2021-06-11 15:06:09",
+            "since": "3 years ago",
+            "timestamp": 1623398769
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 297450,
+          "url": "https://assets.topdev.vn/images/2021/06/11/MSB-Image-2-Ydwg4.jpg",
+          "path": "/images/2021/06/11/MSB-Image-2-Ydwg4.jpg",
+          "name": "MSB-Image-2.jpg",
+          "uploaded": {
+            "date": "11-06-2021",
+            "datetime": "2021-06-11 15:06:09",
+            "since": "3 years ago",
+            "timestamp": 1623398769
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 297451,
+          "url": "https://assets.topdev.vn/images/2021/06/11/d75a319c1d4a3ba3f44202b8cdd2c663-dUqhP.jpg",
+          "path": "/images/2021/06/11/d75a319c1d4a3ba3f44202b8cdd2c663-dUqhP.jpg",
+          "name": "d75a319c1d4a3ba3f44202b8cdd2c663.jpg",
+          "uploaded": {
+            "date": "11-06-2021",
+            "datetime": "2021-06-11 15:06:09",
+            "since": "3 years ago",
+            "timestamp": 1623398769
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 297452,
+          "url": "https://assets.topdev.vn/images/2021/06/11/MSB-Image-4-CDlzM.jpg",
+          "path": "/images/2021/06/11/MSB-Image-4-CDlzM.jpg",
+          "name": "MSB-Image-4.jpg",
+          "uploaded": {
+            "date": "11-06-2021",
+            "datetime": "2021-06-11 15:06:09",
+            "since": "3 years ago",
+            "timestamp": 1623398769
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 305034,
+          "url": "https://assets.topdev.vn/images/2021/09/25/TopDev-gallerypC7RiVIbl8q3ijTo5SyMutp9z4Ljlzqw-1632551413.jpeg",
+          "path": "/images/2021/09/25/TopDev-gallerypC7RiVIbl8q3ijTo5SyMutp9z4Ljlzqw-1632551413.jpeg",
+          "name": "gallery_pC7RiVIbl8q3ijTo5SyMutp9z4Ljlzqw.jpeg",
+          "uploaded": {
+            "date": "25-09-2021",
+            "datetime": "2021-09-25 13:30:13",
+            "since": "3 years ago",
+            "timestamp": 1632551413
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 305035,
+          "url": "https://assets.topdev.vn/images/2021/09/25/TopDev-galleryZhGX3MDFmoxhfJKi3yVl56EhNJ0AgDY1-1632551434.jpeg",
+          "path": "/images/2021/09/25/TopDev-galleryZhGX3MDFmoxhfJKi3yVl56EhNJ0AgDY1-1632551434.jpeg",
+          "name": "gallery_ZhGX3MDFmoxhfJKi3yVl56EhNJ0AgDY1.jpeg",
+          "uploaded": {
+            "date": "25-09-2021",
+            "datetime": "2021-09-25 13:30:34",
+            "since": "3 years ago",
+            "timestamp": 1632551434
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 305036,
+          "url": "https://assets.topdev.vn/images/2021/09/25/TopDev-galleryI5bkowNNovDlKoFBx0bFe6EJDBuGn23E-1632551462.jpeg",
+          "path": "/images/2021/09/25/TopDev-galleryI5bkowNNovDlKoFBx0bFe6EJDBuGn23E-1632551462.jpeg",
+          "name": "gallery_I5bkowNNovDlKoFBx0bFe6EJDBuGn23E.jpeg",
+          "uploaded": {
+            "date": "25-09-2021",
+            "datetime": "2021-09-25 13:31:02",
+            "since": "3 years ago",
+            "timestamp": 1632551462
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 305037,
+          "url": "https://assets.topdev.vn/images/2021/09/25/TopDev-galleryzn3ApAL1eCqg7JkgjDDv6ujGi6XgpiL3-1632551496.jpeg",
+          "path": "/images/2021/09/25/TopDev-galleryzn3ApAL1eCqg7JkgjDDv6ujGi6XgpiL3-1632551496.jpeg",
+          "name": "gallery_zn3ApAL1eCqg7JkgjDDv6ujGi6XgpiL3.jpeg",
+          "uploaded": {
+            "date": "25-09-2021",
+            "datetime": "2021-09-25 13:31:36",
+            "since": "3 years ago",
+            "timestamp": 1632551496
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 305039,
+          "url": "https://assets.topdev.vn/images/2021/09/25/TopDev-galleryUsGuY6tFejsn13DNboP2gXUGJkdOVfpq-1632551654.jpeg",
+          "path": "/images/2021/09/25/TopDev-galleryUsGuY6tFejsn13DNboP2gXUGJkdOVfpq-1632551654.jpeg",
+          "name": "gallery_UsGuY6tFejsn13DNboP2gXUGJkdOVfpq.jpeg",
+          "uploaded": {
+            "date": "25-09-2021",
+            "datetime": "2021-09-25 13:34:14",
+            "since": "3 years ago",
+            "timestamp": 1632551654
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [
+        {
+          "icon": null,
+          "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tham gia những dự &aacute;n số h&oacute;a trọng điểm với vốn đầu tư l&ecirc;n tới 2000 tỉ đồng, ứng dụng những c&ocirc;ng nghệ mới nhất.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Mức lương th&aacute;ng t&ugrave;y khả năng c&ocirc;ng việc: $1000 - $3000. G&oacute;i thu nhập từ 15 đến 20 th&aacute;ng lương/năm k&egrave;m nhiều đ&atilde;i ngộ hấp dẫn (Esop, vay ưu đ&atilde;i, bảo hiểm sức khỏe cao cấp &hellip;, thưởng dự &aacute;n t&ugrave;y vị tr&iacute; c&ocirc;ng việc).</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Được dẫn dắt bởi đội ngũ quản l&yacute; giỏi chuy&ecirc;n m&ocirc;n, đ&aacute;nh gi&aacute; c&ocirc;ng bằng. Cơ hội l&agrave;m việc trực tiếp với c&aacute;c đối t&aacute;c h&agrave;ng đầu thế giới (AWS; BCG; IBM; Temenos&hellip;).</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Nhiều chương tr&igrave;nh đ&agrave;o tạo n&acirc;ng cao kỹ năng, năng lực chuy&ecirc;n m&ocirc;n. Được tham gia chương tr&igrave;nh L&atilde;nh đạo kế cận (Talent Pool) khi nhiều năm c&oacute; hiệu suất năm việc tốt.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave;m việc trong &ldquo;Ng&acirc;n h&agrave;ng Chuyển đổi số ti&ecirc;u biểu&rdquo; của năm 2021 do Hiệp hội Ng&acirc;n h&agrave;ng v&agrave; Tập đo&agrave;n dữ liệu quốc tế (IDG) vinh danh. Văn ph&ograve;ng l&agrave;m việc đẳng cấp theo m&ocirc; h&igrave;nh Agile ti&ecirc;n tiến. Cơ sở vật chất, c&ocirc;ng cụ lao động tốt, cấu h&igrave;nh mạnh mẽ.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thời gian l&agrave;m việc: Từ thứ 2 đến thứ 6 (S&aacute;ng 8h00-12h00, Chiều 13h30-17h30)</span></li>\r\n</ul>"
+        }
+      ],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        21,
+        34,
+        202,
+        347,
+        382,
+        391,
+        1099,
+        1295,
+        1298,
+        1464,
+        1552,
+        5194,
+        7299
+      ],
+      "skills_str": "Java, Python, Data Analytics, AWS, Software Developer, Agile & Scrum, Business Intelligence, Data Science, Cloud, Data Engineer, Java Core, Solution Architect, Security Engineer",
+      "skills_arr": [
+        "Java",
+        "Python",
+        "Data Analytics",
+        "AWS",
+        "Software Developer",
+        "Agile & Scrum",
+        "Business Intelligence",
+        "Data Science",
+        "Cloud",
+        "Data Engineer",
+        "Java Core",
+        "Solution Architect",
+        "Security Engineer"
+      ],
+      "industries_ids": [
+        3935,
+        6838,
+        8139
+      ],
+      "industries_arr": [
+        "Ngân Hàng",
+        "Tài Chính",
+        "Công nghệ thông tin"
+      ],
+      "industries_str": "Ngân Hàng, Tài Chính, Công nghệ thông tin",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "Java, Python, AWS, Business Intelligence, Solution Architect",
+    "skills_arr": [
+      "Java",
+      "Python",
+      "AWS",
+      "Business Intelligence",
+      "Solution Architect"
+    ],
+    "skills_ids": [
+      21,
+      34,
+      347,
+      1099,
+      5194
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Junior, Senior",
+    "job_levels_arr": [
+      "Junior",
+      "Senior"
+    ],
+    "job_levels_ids": [
+      8664,
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "01"
+      ],
+      "address_region_list": "Thành phố Hà Nội",
+      "address_region_array": [
+        "Thành phố Hà Nội"
+      ],
+      "full_addresses": [
+        "TNR Tower, Số 54A Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội"
+      ],
+      "sort_addresses": "Quận Đống Đa, Hà Nội",
+      "collection_addresses": [
+        {
+          "id": 119593,
+          "ward": {
+            "id": "00187",
+            "value": "Phường Láng Thượng"
+          },
+          "province": {
+            "id": "01",
+            "value": "Thành phố Hà Nội"
+          },
+          "district": {
+            "id": "006",
+            "value": "Quận Đống Đa"
+          },
+          "postal_code": "100000",
+          "full_address": "TNR Tower, Số 54A Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội",
+          "latitude": null,
+          "longitude": null,
+          "street": "TNR Tower, Số 54A Nguyễn Chí Thanh"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/di6-solution-architect-aws-java-msb-1y564-ngan-hang-tmcp-hang-hai-viet-nam-msb-2034279",
+    "job_url": "",
+    "slug": "di6-solution-architect-aws-java-msb-1y564-ngan-hang-tmcp-hang-hai-viet-nam-msb",
+    "salary": {
+      "is_negotiable": "0",
+      "unit": "MONTH",
+      "min": "2500",
+      "max": "3500",
+      "currency": "USD",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "2.500 USD to 3.500 USD"
+    },
+    "features": [],
+    "packages": [
+      "basic",
+      "distinction"
+    ],
+    "is_free": false,
+    "is_basic": true,
+    "is_basic_plus": false,
+    "is_distinction": false,
+    "is_salary_visible": true,
+    "published": {
+      "date": "09-09-2024",
+      "datetime": "00:00:00 09-09-2024",
+      "since": "1 tháng trước"
+    },
+    "refreshed": {
+      "date": "19-10-2024",
+      "datetime": "02:00:06 19-10-2024",
+      "since": "1 tuần trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "1. Trình độ:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Học vấn: Tốt nghiệp Đại học chuyên ngành Công nghệ (Công nghệ thông tin, Khoa học máy tính, Hệ thống thông tin, Thông tin truyền thông …).",
+          "Có bằng thạc sỹ của một trong các ngành trên là lợi thế.",
+          "Ngoại ngữ: Cấp độ 3 (Toeic 450-650 hoặc tương đương) - Có khả năng hiểu & giao tiếp tiếng Anh Khá."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "2. Kinh nghiệm:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Kinh nghiệm chuyên môn:",
+          "Có ít nhất 3-5 năm kinh nghiệm trong lĩnh vực CNTT hoặc Tài chính - Ngân hàng.",
+          "Có kiến thức chuyên sâu về 1 trong các lĩnh vực, công cụ, mô hình Dữ liệu (Ví dụ: Erwin, Oracle Data Modeler, ER Studio, IDA, Informatica MetaData Manager, Analyst, Axon, ...).",
+          "Có ít nhất 3 năm kinh nghiệm triển khai kiến trúc/giải pháp dữ liệu trong lĩnh vực tài chính - ngân hàng mức độ end-to-end từ nghiệp vụ tới ứng dụng và hạ tầng triển khai.",
+          "Có kinh nghiệm thực hành làm việc với Big data/ Data Lake như Hadoop, Spark, Kafka, SQL / NoSQL KV / Columnar / Graph, ESB và các công nghệ phân tích như R / Python, TensorFlow và / hoặc các công cụ BI như Tableau / Power BI; Ưu tiên trải nghiệm nền tảng phân tích đám mây- Cloud.",
+          "Có kiến thức và kỹ năng thực tế về thiết kế và truy vấn cơ sở dữ liệu (SQL, Oracle DB,...).",
+          "Kinh nghiệm quản lý:",
+          "Đã từng tham gia việc xây dựng hoặc triển khai các dự án chiến lược công nghệ trong vai trò quản lý nhóm, team lead là 1 lợi thế."
+        ],
+        "icon": "fa-circle"
+      },
+      {
+        "value": [
+          "3. Kiến thức:"
+        ],
+        "icon": null
+      },
+      {
+        "value": [
+          "Có kiến thức chuyên sâu ở 1 trong các lĩnh vực sau: hệ thống CoreBanking, Card, CRM, BPM, ERP, HRM, API, BigData, Digital Channel, Cloud...",
+          "Có kiến thức chuyên sâu về một trong số các tiêu chuẩn, hướng dẫn: Agile, DevSecOps, ITIL, BPMN, Cobit, Togaf",
+          "Có kiến thức chuyên môn Information/Data Architecture, IBM Banking Data Model là một lợi thế."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  },
+  {
+    "id": 2034556,
+    "title": "Senior Business Analyst (Japan)",
+    "content": "",
+    "benefits": [
+      {
+        "icon": null,
+        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">MỨC LƯƠNG HẤP DẪN UP TO 50M + C&Oacute; SIGNING BONUS 25M+THỬ VIỆC&nbsp;FULL LƯƠNG</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường chuy&ecirc;n nghiệp, hiện đại v&agrave; năng động</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Review lương 1 năm từ 1-2 lần, c&oacute; th&aacute;ng lương thứ 13 + thưởng hiệu suất c&ocirc;ng việc, thưởng dự &aacute;n ( nếu c&oacute; )</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội được đ&agrave;o tạo v&agrave; thăng tiến tốt trong c&ocirc;ng việc</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hưởng c&aacute;c chế độ bảo hiểm x&atilde; hội, y tế theo quy định.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chế độ nghỉ m&aacute;t, teambuilding, kh&aacute;m sức khỏe định kỳ đầy đủ ( g&oacute;i du lịch 5M/người )</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Kh&aacute;m sức khỏe định kỳ cho to&agrave;n bộ c&aacute;n bộ nh&acirc;n vi&ecirc;n</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hỗ trợ thi c&aacute;c chứng chỉ, học tiếng Anh/Nhật</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">C&aacute;c hoạt động thể thao, văn h&oacute;a đa dạng v&agrave; phong ph&uacute;.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội onsite tại Nhật.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thời gian l&agrave;m việc: 8h30-17h30 từ thứ 2- thứ 6</span></li>\r\n</ul>"
+      }
+    ],
+    "owned_id": 91906,
+    "company": {
+      "id": 91906,
+      "display_name": "Công Ty Cổ Phần Công Nghệ VMO Holdings",
+      "image_logo": "https://assets.topdev.vn/images/2020/12/18/vmodev-ha-n-i-logo-LzI1N.jpg",
+      "slug": "cong-ty-co-phan-cong-nghe-vmo-holdings",
+      "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-co-phan-cong-nghe-vmo-holdings-91906",
+      "tagline": "",
+      "company_size": "Hơn 1000",
+      "addresses": {
+        "address_region_ids": [
+          "01"
+        ],
+        "address_region_list": "Thành phố Hà Nội",
+        "address_region_array": [
+          "Thành phố Hà Nội"
+        ],
+        "full_addresses": [
+          "8th floor, IDMC Tower, 18 Ton That Thuyet, Quận Cầu Giấy, Thành phố Hà Nội"
+        ],
+        "sort_addresses": "Quận Cầu Giấy, Hà Nội",
+        "collection_addresses": [
+          {
+            "id": 122986,
+            "ward": {
+              "id": null,
+              "value": null
+            },
+            "province": {
+              "id": "01",
+              "value": "Thành phố Hà Nội"
+            },
+            "district": {
+              "id": "005",
+              "value": "Quận Cầu Giấy"
+            },
+            "postal_code": "100000",
+            "full_address": "8th floor, IDMC Tower, 18 Ton That Thuyet, Quận Cầu Giấy, Thành phố Hà Nội",
+            "latitude": null,
+            "longitude": null,
+            "street": "8th floor, IDMC Tower, 18 Ton That Thuyet"
+          }
+        ],
+        "address_short_region_list": "Hà Nội"
+      },
+      "num_job_openings": 1,
+      "num_employees": "4284",
+      "image_cover": "https://assets.topdev.vn/images/2021/03/12/VMOHoldings-vYsGC.jpg",
+      "image_galleries": [
+        {
+          "id": 242893,
+          "url": "https://assets.topdev.vn/images/2021/03/12/VMOHoldings1-fnxGh.png",
+          "path": "/images/2021/03/12/VMOHoldings1-fnxGh.png",
+          "name": "VMO Holdings1.png",
+          "uploaded": {
+            "date": "12-03-2021",
+            "datetime": "2021-03-12 09:34:54",
+            "since": "3 years ago",
+            "timestamp": 1615516494
+          },
+          "source": "Unknown"
+        },
+        {
+          "id": 242894,
+          "url": "https://assets.topdev.vn/images/2021/03/12/79f3dbd3141d01a4ce43698c1e4322dc-6WYDI.jpg",
+          "path": "/images/2021/03/12/79f3dbd3141d01a4ce43698c1e4322dc-6WYDI.jpg",
+          "name": "79f3dbd3141d01a4ce43698c1e4322dc.jpg",
+          "uploaded": {
+            "date": "12-03-2021",
+            "datetime": "2021-03-12 09:34:55",
+            "since": "3 years ago",
+            "timestamp": 1615516495
+          },
+          "source": "Unknown"
+        }
+      ],
+      "benefits": [],
+      "nationalities_str": "Vietnam",
+      "skills_ids": [
+        1,
+        8,
+        9,
+        21,
+        73,
+        127
+      ],
+      "skills_str": "PHP, Android, iOS, Java, .NET, Objective-C",
+      "skills_arr": [
+        "PHP",
+        "Android",
+        "iOS",
+        "Java",
+        ".NET",
+        "Objective-C"
+      ],
+      "industries_ids": [
+        4276
+      ],
+      "industries_arr": [
+        "Outsourcing"
+      ],
+      "industries_str": "Outsourcing",
+      "is_followed": false
+    },
+    "extra_skills": [],
+    "skills_str": "Japanese, Business Analyst, IT Comtor",
+    "skills_arr": [
+      "Japanese",
+      "Business Analyst",
+      "IT Comtor"
+    ],
+    "skills_ids": [
+      250,
+      1456,
+      1556
+    ],
+    "contract_types_ids": [
+      1622
+    ],
+    "job_types_str": "In Office",
+    "job_levels_str": "Middle, Senior",
+    "job_levels_arr": [
+      "Middle",
+      "Senior"
+    ],
+    "job_levels_ids": [
+      8665,
+      8666
+    ],
+    "addresses": {
+      "address_region_ids": [
+        "01"
+      ],
+      "address_region_list": "Thành phố Hà Nội",
+      "address_region_array": [
+        "Thành phố Hà Nội"
+      ],
+      "full_addresses": [
+        "8th floor, IDMC Tower, 18 Ton That Thuyet, Quận Cầu Giấy, Thành phố Hà Nội"
+      ],
+      "sort_addresses": "Quận Cầu Giấy, Hà Nội",
+      "collection_addresses": [
+        {
+          "id": 122986,
+          "ward": {
+            "id": null,
+            "value": null
+          },
+          "province": {
+            "id": "01",
+            "value": "Thành phố Hà Nội"
+          },
+          "district": {
+            "id": "005",
+            "value": "Quận Cầu Giấy"
+          },
+          "postal_code": "100000",
+          "full_address": "8th floor, IDMC Tower, 18 Ton That Thuyet, Quận Cầu Giấy, Thành phố Hà Nội",
+          "latitude": null,
+          "longitude": null,
+          "street": "8th floor, IDMC Tower, 18 Ton That Thuyet"
+        }
+      ]
+    },
+    "status_display": "Open",
+    "detail_url": "https://topdev.vn/viec-lam/senior-business-analyst-japan-cong-ty-co-phan-cong-nghe-vmo-holdings-2034556",
+    "job_url": "",
+    "slug": "senior-business-analyst-japan-cong-ty-co-phan-cong-nghe-vmo-holdings",
+    "salary": {
+      "is_negotiable": "0",
+      "unit": "MONTH",
+      "min": "0",
+      "max": "50000000",
+      "currency": "VND",
+      "min_estimate": 0,
+      "max_estimate": 0,
+      "currency_estimate": "VND",
+      "value": "Lên tới 50.000.000 VND"
+    },
+    "features": [],
+    "packages": [
+      "basic"
+    ],
+    "is_free": false,
+    "is_basic": true,
+    "is_basic_plus": false,
+    "is_distinction": false,
+    "is_salary_visible": true,
+    "published": {
+      "date": "16-10-2024",
+      "datetime": "00:00:00 16-10-2024",
+      "since": "1 tuần trước"
+    },
+    "refreshed": {
+      "date": "16-10-2024",
+      "datetime": "14:34:00 16-10-2024",
+      "since": "1 tuần trước"
+    },
+    "applied": null,
+    "candidate": null,
+    "is_applied": false,
+    "is_followed": false,
+    "is_blacklisted": false,
+    "recalled_at": null,
+    "is_remove_cv": false,
+    "is_viewed": false,
+    "requirements_arr": [
+      {
+        "value": [
+          "Tối thiểu 3-4 năm kinh nghiệm BA làm thị trường Nhật",
+          "Giao tiếp tiếng Nhật tốt ( JP N2 ), có thêm tiếng Anh giao tiếp là điểm cộng",
+          "Đào tạo và hướng dẫn member tốt đối với level Senior",
+          "Có khả năng tư vấn giải pháp cho khách hàng.",
+          "Kiên trì, tỉ mỉ, trách nhiệm.",
+          "Có kiến thức về dữ liệu và truy vấn dữ liệu, thiết kế API",
+          "Có kiến thức và kỹ năng kiểm thử, nghiệm thu sản phẩm phần mềm",
+          "Có khả năng tự thiết kế (draft) và dựng nhanh sản phẩm mà không cần chờ có thiết kế.",
+          "Chủ động giải quyết vấn đề, tiếp cận domain, business của dự án",
+          "Điểm cộng: đánh giá được tính logic và thẩm mỹ của UI/UX Design, có kinh nghiệm cảithiện UX người dùng",
+          "Có kinh nghiệm về các tool design thinking như mindmap,..."
+        ],
+        "icon": "fa-circle"
+      }
+    ]
+  }
+]
