@@ -16,7 +16,7 @@ const crawData = async (payload) => {
 
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36');
       await page.goto(`https://jobs.vn.indeed.com/jobs?q=${encodedString}`);
-      await new Promise(resolve => setTimeout(resolve, 10000));
+      await new Promise(resolve => setTimeout(resolve, 30000));
       let hasNextPage = await page.$('a[data-testid="pagination-page-next"]') !== null;
   if (hasNextPage) {
     console.log("Có phần tử với data-testid='pagination-page-next'");
